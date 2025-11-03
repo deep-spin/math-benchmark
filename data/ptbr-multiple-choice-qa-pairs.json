@@ -7,7 +7,7 @@
         "contains_latex_figure": false,
         "id": 1133,
         "level": 3,
-        "from": "OBMEP/2013/level_3exam.pdf",
+        "from": "OBMEP/2013/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$16\\,\\text{cm}$",
@@ -33,7 +33,7 @@
         "contains_latex_figure": false,
         "id": 1134,
         "level": 3,
-        "from": "OBMEP/2013/level_3exam.pdf",
+        "from": "OBMEP/2013/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$503$",
@@ -59,7 +59,7 @@
         "contains_latex_figure": false,
         "id": 1135,
         "level": 3,
-        "from": "OBMEP/2013/level_3exam.pdf",
+        "from": "OBMEP/2013/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$75$",
@@ -85,7 +85,7 @@
         "contains_latex_figure": false,
         "id": 1136,
         "level": 3,
-        "from": "OBMEP/2013/level_3exam.pdf",
+        "from": "OBMEP/2013/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$96$",
@@ -111,7 +111,7 @@
         "contains_latex_figure": false,
         "id": 1137,
         "level": 3,
-        "from": "OBMEP/2013/level_3exam.pdf",
+        "from": "OBMEP/2013/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "O celular de Carlos tocou e o de Guto não tocou.",
@@ -137,7 +137,7 @@
         "contains_latex_figure": false,
         "id": 1138,
         "level": 3,
-        "from": "OBMEP/2013/level_3exam.pdf",
+        "from": "OBMEP/2013/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3150$",
@@ -163,7 +163,7 @@
         "contains_latex_figure": false,
         "id": 1139,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,18{,}50$ e $R\\$\\,18{,}50$",
@@ -189,7 +189,7 @@
         "contains_latex_figure": false,
         "id": 1140,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -215,7 +215,7 @@
         "contains_latex_figure": false,
         "id": 1141,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$162$",
@@ -241,7 +241,7 @@
         "contains_latex_figure": false,
         "id": 1142,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$15$",
@@ -267,7 +267,7 @@
         "contains_latex_figure": false,
         "id": 1143,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{4}{5}$",
@@ -293,7 +293,7 @@
         "contains_latex_figure": false,
         "id": 1144,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -319,7 +319,7 @@
         "contains_latex_figure": false,
         "id": 1145,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -345,7 +345,7 @@
         "contains_latex_figure": false,
         "id": 1146,
         "level": 2,
-        "from": "OBMEP/2013/level_2exam.pdf",
+        "from": "OBMEP/2013/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$13{,}3\\,\\text{km/L}$",
@@ -371,7 +371,7 @@
         "contains_latex_figure": false,
         "id": 1147,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$885$",
@@ -397,7 +397,7 @@
         "contains_latex_figure": false,
         "id": 1148,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$26$",
@@ -423,7 +423,7 @@
         "contains_latex_figure": false,
         "id": 1149,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11$",
@@ -449,7 +449,7 @@
         "contains_latex_figure": false,
         "id": 1150,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -475,7 +475,7 @@
         "contains_latex_figure": false,
         "id": 1151,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6{,}5\\,\\text{kg}$",
@@ -501,7 +501,7 @@
         "contains_latex_figure": false,
         "id": 1152,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{7}{12}$",
@@ -527,7 +527,7 @@
         "contains_latex_figure": false,
         "id": 1153,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -553,7 +553,7 @@
         "contains_latex_figure": false,
         "id": 1154,
         "level": 1,
-        "from": "OBMEP/2013/level_1exam.pdf",
+        "from": "OBMEP/2013/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$237$",
@@ -579,7 +579,7 @@
         "contains_latex_figure": false,
         "id": 1155,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -605,7 +605,7 @@
         "contains_latex_figure": false,
         "id": 1156,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Andrea",
@@ -631,7 +631,7 @@
         "contains_latex_figure": false,
         "id": 1157,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$35\\,\\text{km/h}$",
@@ -657,7 +657,7 @@
         "contains_latex_figure": false,
         "id": 1158,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$86$ centavos",
@@ -683,7 +683,7 @@
         "contains_latex_figure": false,
         "id": 1159,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$13$",
@@ -709,7 +709,7 @@
         "contains_latex_figure": false,
         "id": 1160,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$31$",
@@ -735,7 +735,7 @@
         "contains_latex_figure": false,
         "id": 1161,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,4{,}00$",
@@ -761,7 +761,7 @@
         "contains_latex_figure": false,
         "id": 1162,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -787,7 +787,7 @@
         "contains_latex_figure": false,
         "id": 1163,
         "level": 3,
-        "from": "OBMEP/2014/level_3exam.pdf",
+        "from": "OBMEP/2014/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -813,7 +813,7 @@
         "contains_latex_figure": false,
         "id": 1164,
         "level": 2,
-        "from": "OBMEP/2014/level_2exam.pdf",
+        "from": "OBMEP/2014/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -839,7 +839,7 @@
         "contains_latex_figure": false,
         "id": 1165,
         "level": 2,
-        "from": "OBMEP/2014/level_2exam.pdf",
+        "from": "OBMEP/2014/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$30$",
@@ -865,7 +865,7 @@
         "contains_latex_figure": false,
         "id": 1166,
         "level": 2,
-        "from": "OBMEP/2014/level_2exam.pdf",
+        "from": "OBMEP/2014/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20\\%$",
@@ -891,7 +891,7 @@
         "contains_latex_figure": false,
         "id": 1167,
         "level": 2,
-        "from": "OBMEP/2014/level_2exam.pdf",
+        "from": "OBMEP/2014/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$203$",
@@ -917,7 +917,7 @@
         "contains_latex_figure": false,
         "id": 1168,
         "level": 2,
-        "from": "OBMEP/2014/level_2exam.pdf",
+        "from": "OBMEP/2014/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$60$",
@@ -943,7 +943,7 @@
         "contains_latex_figure": false,
         "id": 1169,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -969,7 +969,7 @@
         "contains_latex_figure": false,
         "id": 1170,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -995,7 +995,7 @@
         "contains_latex_figure": false,
         "id": 1171,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$27\\ \\text{minutos}$",
@@ -1021,7 +1021,7 @@
         "contains_latex_figure": false,
         "id": 1172,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -1047,7 +1047,7 @@
         "contains_latex_figure": false,
         "id": 1173,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "O saquinho com $9$ balas.",
@@ -1073,7 +1073,7 @@
         "contains_latex_figure": false,
         "id": 1174,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -1099,7 +1099,7 @@
         "contains_latex_figure": false,
         "id": 1175,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$99$",
@@ -1125,7 +1125,7 @@
         "contains_latex_figure": false,
         "id": 1176,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Com a seleção da Dinamarca.",
@@ -1151,7 +1151,7 @@
         "contains_latex_figure": false,
         "id": 1177,
         "level": 1,
-        "from": "OBMEP/2014/level_1exam.pdf",
+        "from": "OBMEP/2014/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$90$",
@@ -1177,7 +1177,7 @@
         "contains_latex_figure": false,
         "id": 1178,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11$",
@@ -1203,7 +1203,7 @@
         "contains_latex_figure": false,
         "id": 1179,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$x=4y$",
@@ -1229,7 +1229,7 @@
         "contains_latex_figure": false,
         "id": 1180,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7{,}3$",
@@ -1255,7 +1255,7 @@
         "contains_latex_figure": false,
         "id": 1181,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -1281,7 +1281,7 @@
         "contains_latex_figure": false,
         "id": 1182,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Pinóquio tem pelo menos um chapéu.",
@@ -1307,7 +1307,7 @@
         "contains_latex_figure": false,
         "id": 1183,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -1333,7 +1333,7 @@
         "contains_latex_figure": false,
         "id": 1184,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5\\%$",
@@ -1359,7 +1359,7 @@
         "contains_latex_figure": false,
         "id": 1185,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$23$",
@@ -1385,7 +1385,7 @@
         "contains_latex_figure": false,
         "id": 1186,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Pedro e Fabiana.",
@@ -1411,7 +1411,7 @@
         "contains_latex_figure": false,
         "id": 1187,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{4}$",
@@ -1437,7 +1437,7 @@
         "contains_latex_figure": false,
         "id": 1188,
         "level": 3,
-        "from": "OBMEP/2022/level_3exam.pdf",
+        "from": "OBMEP/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -1463,7 +1463,7 @@
         "contains_latex_figure": false,
         "id": 1189,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$48$",
@@ -1489,7 +1489,7 @@
         "contains_latex_figure": false,
         "id": 1190,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20$",
@@ -1515,7 +1515,7 @@
         "contains_latex_figure": false,
         "id": 1191,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Subtrair $1$ e, em seguida, dividir por $4$.",
@@ -1541,7 +1541,7 @@
         "contains_latex_figure": false,
         "id": 1192,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1999$",
@@ -1567,7 +1567,7 @@
         "contains_latex_figure": false,
         "id": 1193,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$28$",
@@ -1593,7 +1593,7 @@
         "contains_latex_figure": false,
         "id": 1194,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$36$",
@@ -1619,7 +1619,7 @@
         "contains_latex_figure": false,
         "id": 1195,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "o mesmo fato ocorrerá com eles em $2020$.",
@@ -1645,7 +1645,7 @@
         "contains_latex_figure": false,
         "id": 1196,
         "level": 2,
-        "from": "OBMEP/2022/level_2exam.pdf",
+        "from": "OBMEP/2022/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -1671,7 +1671,7 @@
         "contains_latex_figure": false,
         "id": 1197,
         "level": 1,
-        "from": "OBMEP/2022/level_1exam.pdf",
+        "from": "OBMEP/2022/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Mil e um.",
@@ -1697,7 +1697,7 @@
         "contains_latex_figure": false,
         "id": 1198,
         "level": 1,
-        "from": "OBMEP/2022/level_1exam.pdf",
+        "from": "OBMEP/2022/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$50$",
@@ -1723,7 +1723,7 @@
         "contains_latex_figure": false,
         "id": 1199,
         "level": 1,
-        "from": "OBMEP/2022/level_1exam.pdf",
+        "from": "OBMEP/2022/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$29$",
@@ -1749,7 +1749,7 @@
         "contains_latex_figure": false,
         "id": 1200,
         "level": 1,
-        "from": "OBMEP/2022/level_1exam.pdf",
+        "from": "OBMEP/2022/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11$",
@@ -1775,7 +1775,7 @@
         "contains_latex_figure": false,
         "id": 1201,
         "level": 1,
-        "from": "OBMEP/2022/level_1exam.pdf",
+        "from": "OBMEP/2022/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -1801,7 +1801,7 @@
         "contains_latex_figure": false,
         "id": 1202,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -1827,7 +1827,7 @@
         "contains_latex_figure": false,
         "id": 1203,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7$ litros",
@@ -1853,7 +1853,7 @@
         "contains_latex_figure": false,
         "id": 1204,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -1879,7 +1879,7 @@
         "contains_latex_figure": false,
         "id": 1205,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$120$",
@@ -1905,7 +1905,7 @@
         "contains_latex_figure": false,
         "id": 1206,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$18$",
@@ -1931,7 +1931,7 @@
         "contains_latex_figure": false,
         "id": 1207,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -1957,7 +1957,7 @@
         "contains_latex_figure": false,
         "id": 1208,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -1983,7 +1983,7 @@
         "contains_latex_figure": false,
         "id": 1209,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\\\frac{1}{18}$",
@@ -2009,7 +2009,7 @@
         "contains_latex_figure": false,
         "id": 1210,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "A terceira pessoa ganhou o prêmio.",
@@ -2035,7 +2035,7 @@
         "contains_latex_figure": false,
         "id": 1211,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$93250$",
@@ -2061,7 +2061,7 @@
         "contains_latex_figure": false,
         "id": 1212,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -2087,7 +2087,7 @@
         "contains_latex_figure": false,
         "id": 1213,
         "level": 3,
-        "from": "OBMEP/2025/level_3exam.pdf",
+        "from": "OBMEP/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7^5$",
@@ -2113,7 +2113,7 @@
         "contains_latex_figure": false,
         "id": 1214,
         "level": 2,
-        "from": "OBMEP/2025/level_2exam.pdf",
+        "from": "OBMEP/2025/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20\\%$",
@@ -2139,7 +2139,7 @@
         "contains_latex_figure": false,
         "id": 1215,
         "level": 2,
-        "from": "OBMEP/2025/level_2exam.pdf",
+        "from": "OBMEP/2025/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$33$",
@@ -2165,7 +2165,7 @@
         "contains_latex_figure": false,
         "id": 1216,
         "level": 2,
-        "from": "OBMEP/2025/level_2exam.pdf",
+        "from": "OBMEP/2025/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -2191,7 +2191,7 @@
         "contains_latex_figure": false,
         "id": 1217,
         "level": 2,
-        "from": "OBMEP/2025/level_2exam.pdf",
+        "from": "OBMEP/2025/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$350$",
@@ -2217,7 +2217,7 @@
         "contains_latex_figure": false,
         "id": 1218,
         "level": 2,
-        "from": "OBMEP/2025/level_2exam.pdf",
+        "from": "OBMEP/2025/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$71$",
@@ -2243,7 +2243,7 @@
         "contains_latex_figure": false,
         "id": 1219,
         "level": 2,
-        "from": "OBMEP/2025/level_2exam.pdf",
+        "from": "OBMEP/2025/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$32$",
@@ -2269,7 +2269,7 @@
         "contains_latex_figure": false,
         "id": 1220,
         "level": 1,
-        "from": "OBMEP/2025/level_1exam.pdf",
+        "from": "OBMEP/2025/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -2295,7 +2295,7 @@
         "contains_latex_figure": false,
         "id": 1221,
         "level": 1,
-        "from": "OBMEP/2025/level_1exam.pdf",
+        "from": "OBMEP/2025/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -2321,7 +2321,7 @@
         "contains_latex_figure": false,
         "id": 1222,
         "level": 1,
-        "from": "OBMEP/2025/level_1exam.pdf",
+        "from": "OBMEP/2025/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3\\,\\text{quilogramas}$",
@@ -2347,7 +2347,7 @@
         "contains_latex_figure": false,
         "id": 1223,
         "level": 1,
-        "from": "OBMEP/2025/level_1exam.pdf",
+        "from": "OBMEP/2025/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$15\\,^{\\circ}\\text{C}$",
@@ -2373,7 +2373,7 @@
         "contains_latex_figure": false,
         "id": 1224,
         "level": 1,
-        "from": "OBMEP/2025/level_1exam.pdf",
+        "from": "OBMEP/2025/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,20{,}50$",
@@ -2399,7 +2399,7 @@
         "contains_latex_figure": false,
         "id": 1225,
         "level": 1,
-        "from": "OBMEP/2025/level_1exam.pdf",
+        "from": "OBMEP/2025/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -2425,7 +2425,7 @@
         "contains_latex_figure": false,
         "id": 1226,
         "level": 1,
-        "from": "OBMEP/2025/level_1exam.pdf",
+        "from": "OBMEP/2025/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "nenhum",
@@ -2451,7 +2451,7 @@
         "contains_latex_figure": false,
         "id": 1227,
         "level": 3,
-        "from": "OBMEP/2024/level_3exam.pdf",
+        "from": "OBMEP/2024/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$90$ minutos",
@@ -2477,7 +2477,7 @@
         "contains_latex_figure": false,
         "id": 1228,
         "level": 3,
-        "from": "OBMEP/2024/level_3exam.pdf",
+        "from": "OBMEP/2024/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$276$",
@@ -2503,7 +2503,7 @@
         "contains_latex_figure": false,
         "id": 1229,
         "level": 3,
-        "from": "OBMEP/2024/level_3exam.pdf",
+        "from": "OBMEP/2024/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5\\,\\text{bilhetes}$",
@@ -2529,7 +2529,7 @@
         "contains_latex_figure": false,
         "id": 1230,
         "level": 3,
-        "from": "OBMEP/2024/level_3exam.pdf",
+        "from": "OBMEP/2024/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$360$",
@@ -2555,7 +2555,7 @@
         "contains_latex_figure": false,
         "id": 1231,
         "level": 3,
-        "from": "OBMEP/2024/level_3exam.pdf",
+        "from": "OBMEP/2024/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -2581,7 +2581,7 @@
         "contains_latex_figure": false,
         "id": 1232,
         "level": 3,
-        "from": "OBMEP/2024/level_3exam.pdf",
+        "from": "OBMEP/2024/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{4}{7}$",
@@ -2607,7 +2607,7 @@
         "contains_latex_figure": false,
         "id": 1233,
         "level": 3,
-        "from": "OBMEP/2024/level_3exam.pdf",
+        "from": "OBMEP/2024/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -2633,7 +2633,7 @@
         "contains_latex_figure": false,
         "id": 1234,
         "level": 2,
-        "from": "OBMEP/2024/level_2exam.pdf",
+        "from": "OBMEP/2024/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$21$",
@@ -2659,7 +2659,7 @@
         "contains_latex_figure": false,
         "id": 1235,
         "level": 1,
-        "from": "OBMEP/2024/level_1exam.pdf",
+        "from": "OBMEP/2024/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$102$",
@@ -2685,7 +2685,7 @@
         "contains_latex_figure": false,
         "id": 1236,
         "level": 1,
-        "from": "OBMEP/2024/level_1exam.pdf",
+        "from": "OBMEP/2024/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$120$",
@@ -2711,7 +2711,7 @@
         "contains_latex_figure": false,
         "id": 1237,
         "level": 1,
-        "from": "OBMEP/2024/level_1exam.pdf",
+        "from": "OBMEP/2024/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$45$",
@@ -2737,7 +2737,7 @@
         "contains_latex_figure": false,
         "id": 1238,
         "level": 1,
-        "from": "OBMEP/2024/level_1exam.pdf",
+        "from": "OBMEP/2024/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -2763,7 +2763,7 @@
         "contains_latex_figure": false,
         "id": 1239,
         "level": 1,
-        "from": "OBMEP/2024/level_1exam.pdf",
+        "from": "OBMEP/2024/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1503$",
@@ -2789,7 +2789,7 @@
         "contains_latex_figure": false,
         "id": 1240,
         "level": 1,
-        "from": "OBMEP/2024/level_1exam.pdf",
+        "from": "OBMEP/2024/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -2815,7 +2815,7 @@
         "contains_latex_figure": false,
         "id": 1241,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$100^{a}$",
@@ -2841,7 +2841,7 @@
         "contains_latex_figure": false,
         "id": 1242,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -2867,7 +2867,7 @@
         "contains_latex_figure": false,
         "id": 1243,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$150\\ \\text{km}$",
@@ -2893,7 +2893,7 @@
         "contains_latex_figure": false,
         "id": 1244,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7$",
@@ -2919,7 +2919,7 @@
         "contains_latex_figure": false,
         "id": 1245,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$64$",
@@ -2945,7 +2945,7 @@
         "contains_latex_figure": false,
         "id": 1246,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20$ metros",
@@ -2971,7 +2971,7 @@
         "contains_latex_figure": false,
         "id": 1247,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$34$",
@@ -2997,7 +2997,7 @@
         "contains_latex_figure": false,
         "id": 1248,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$100$",
@@ -3023,7 +3023,7 @@
         "contains_latex_figure": false,
         "id": 1249,
         "level": 3,
-        "from": "OBMEP/2023/level_3exam.pdf",
+        "from": "OBMEP/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -3049,7 +3049,7 @@
         "contains_latex_figure": false,
         "id": 1250,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -3075,7 +3075,7 @@
         "contains_latex_figure": false,
         "id": 1251,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$717$",
@@ -3101,7 +3101,7 @@
         "contains_latex_figure": false,
         "id": 1252,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "quarta-feira",
@@ -3127,7 +3127,7 @@
         "contains_latex_figure": false,
         "id": 1253,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -3153,7 +3153,7 @@
         "contains_latex_figure": false,
         "id": 1254,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -3179,7 +3179,7 @@
         "contains_latex_figure": false,
         "id": 1255,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -3205,7 +3205,7 @@
         "contains_latex_figure": false,
         "id": 1256,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -3231,7 +3231,7 @@
         "contains_latex_figure": false,
         "id": 1257,
         "level": 2,
-        "from": "OBMEP/2023/level_2exam.pdf",
+        "from": "OBMEP/2023/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "preto, azul, vermelho e branco",
@@ -3257,7 +3257,7 @@
         "contains_latex_figure": false,
         "id": 1258,
         "level": 1,
-        "from": "OBMEP/2023/level_1exam.pdf",
+        "from": "OBMEP/2023/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{6}$",
@@ -3283,7 +3283,7 @@
         "contains_latex_figure": false,
         "id": 1259,
         "level": 1,
-        "from": "OBMEP/2023/level_1exam.pdf",
+        "from": "OBMEP/2023/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$(\\,4 \\times 5{,}5 + 5 \\times 2{,}2 - 1{,}4 \\times 5\\, ) \\div 2$",
@@ -3309,7 +3309,7 @@
         "contains_latex_figure": false,
         "id": 1260,
         "level": 1,
-        "from": "OBMEP/2023/level_1exam.pdf",
+        "from": "OBMEP/2023/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Antônio e Benedito.",
@@ -3335,7 +3335,7 @@
         "contains_latex_figure": false,
         "id": 1261,
         "level": 1,
-        "from": "OBMEP/2023/level_1exam.pdf",
+        "from": "OBMEP/2023/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Segunda-feira",
@@ -3361,7 +3361,7 @@
         "contains_latex_figure": false,
         "id": 1262,
         "level": 1,
-        "from": "OBMEP/2023/level_1exam.pdf",
+        "from": "OBMEP/2023/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$35$",
@@ -3387,7 +3387,7 @@
         "contains_latex_figure": false,
         "id": 1263,
         "level": 1,
-        "from": "OBMEP/2023/level_1exam.pdf",
+        "from": "OBMEP/2023/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{6}$",
@@ -3413,7 +3413,7 @@
         "contains_latex_figure": false,
         "id": 1264,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$18$h",
@@ -3439,7 +3439,7 @@
         "contains_latex_figure": false,
         "id": 1265,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20$",
@@ -3465,7 +3465,7 @@
         "contains_latex_figure": false,
         "id": 1266,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{77}{9}$",
@@ -3491,7 +3491,7 @@
         "contains_latex_figure": false,
         "id": 1267,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$15\\mathrm{h}08\\mathrm{min}$",
@@ -3517,7 +3517,7 @@
         "contains_latex_figure": false,
         "id": 1268,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -3543,7 +3543,7 @@
         "contains_latex_figure": false,
         "id": 1269,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Adão",
@@ -3569,7 +3569,7 @@
         "contains_latex_figure": false,
         "id": 1270,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -3595,7 +3595,7 @@
         "contains_latex_figure": false,
         "id": 1271,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$32$",
@@ -3621,7 +3621,7 @@
         "contains_latex_figure": false,
         "id": 1272,
         "level": 3,
-        "from": "OBMEP/2015/level_3exam.pdf",
+        "from": "OBMEP/2015/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -3647,7 +3647,7 @@
         "contains_latex_figure": false,
         "id": 1273,
         "level": 2,
-        "from": "OBMEP/2015/level_2exam.pdf",
+        "from": "OBMEP/2015/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$24$",
@@ -3673,7 +3673,7 @@
         "contains_latex_figure": false,
         "id": 1274,
         "level": 2,
-        "from": "OBMEP/2015/level_2exam.pdf",
+        "from": "OBMEP/2015/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -3699,7 +3699,7 @@
         "contains_latex_figure": false,
         "id": 1275,
         "level": 2,
-        "from": "OBMEP/2015/level_2exam.pdf",
+        "from": "OBMEP/2015/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$16$",
@@ -3725,7 +3725,7 @@
         "contains_latex_figure": false,
         "id": 1276,
         "level": 2,
-        "from": "OBMEP/2015/level_2exam.pdf",
+        "from": "OBMEP/2015/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$30$",
@@ -3751,7 +3751,7 @@
         "contains_latex_figure": false,
         "id": 1277,
         "level": 2,
-        "from": "OBMEP/2015/level_2exam.pdf",
+        "from": "OBMEP/2015/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$24$",
@@ -3777,7 +3777,7 @@
         "contains_latex_figure": false,
         "id": 1278,
         "level": 2,
-        "from": "OBMEP/2015/level_2exam.pdf",
+        "from": "OBMEP/2015/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -3803,7 +3803,7 @@
         "contains_latex_figure": false,
         "id": 1279,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,71{,}20$",
@@ -3829,7 +3829,7 @@
         "contains_latex_figure": false,
         "id": 1280,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4~580~249$",
@@ -3855,7 +3855,7 @@
         "contains_latex_figure": false,
         "id": 1281,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$400$",
@@ -3881,7 +3881,7 @@
         "contains_latex_figure": false,
         "id": 1282,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -3907,7 +3907,7 @@
         "contains_latex_figure": false,
         "id": 1283,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -3933,7 +3933,7 @@
         "contains_latex_figure": false,
         "id": 1284,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -3959,7 +3959,7 @@
         "contains_latex_figure": false,
         "id": 1285,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$795$",
@@ -3985,7 +3985,7 @@
         "contains_latex_figure": false,
         "id": 1286,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Pelo menos uma bola é preta.",
@@ -4011,7 +4011,7 @@
         "contains_latex_figure": false,
         "id": 1287,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$41$",
@@ -4037,7 +4037,7 @@
         "contains_latex_figure": false,
         "id": 1288,
         "level": 1,
-        "from": "OBMEP/2015/level_1exam.pdf",
+        "from": "OBMEP/2015/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$48$",
@@ -4063,7 +4063,7 @@
         "contains_latex_figure": false,
         "id": 1289,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$333$",
@@ -4089,7 +4089,7 @@
         "contains_latex_figure": false,
         "id": 1290,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -4115,7 +4115,7 @@
         "contains_latex_figure": false,
         "id": 1291,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$21$",
@@ -4141,7 +4141,7 @@
         "contains_latex_figure": false,
         "id": 1292,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -4167,7 +4167,7 @@
         "contains_latex_figure": false,
         "id": 1293,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Nas extremidades da fila aparecem uma bandeirinha azul e uma branca.",
@@ -4193,7 +4193,7 @@
         "contains_latex_figure": false,
         "id": 1294,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Vitor comprou mais livros do que Pedro.",
@@ -4219,7 +4219,7 @@
         "contains_latex_figure": false,
         "id": 1295,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$120$",
@@ -4245,7 +4245,7 @@
         "contains_latex_figure": false,
         "id": 1296,
         "level": 3,
-        "from": "OBMEP/2012/level_3exam.pdf",
+        "from": "OBMEP/2012/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{4}$",
@@ -4271,7 +4271,7 @@
         "contains_latex_figure": false,
         "id": 1297,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$(20120)^2$",
@@ -4297,7 +4297,7 @@
         "contains_latex_figure": false,
         "id": 1298,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$24$",
@@ -4323,7 +4323,7 @@
         "contains_latex_figure": false,
         "id": 1299,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$60\\%$",
@@ -4349,7 +4349,7 @@
         "contains_latex_figure": false,
         "id": 1300,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -4375,7 +4375,7 @@
         "contains_latex_figure": false,
         "id": 1301,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$A$",
@@ -4401,7 +4401,7 @@
         "contains_latex_figure": false,
         "id": 1302,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$60\\,\\text{km}$",
@@ -4427,7 +4427,7 @@
         "contains_latex_figure": false,
         "id": 1303,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Célia é mais alta que Ana.",
@@ -4453,7 +4453,7 @@
         "contains_latex_figure": false,
         "id": 1304,
         "level": 2,
-        "from": "OBMEP/2012/level_2exam.pdf",
+        "from": "OBMEP/2012/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$192$",
@@ -4479,7 +4479,7 @@
         "contains_latex_figure": false,
         "id": 1305,
         "level": 1,
-        "from": "OBMEP/2012/level_1exam.pdf",
+        "from": "OBMEP/2012/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$16$",
@@ -4505,7 +4505,7 @@
         "contains_latex_figure": false,
         "id": 1306,
         "level": 1,
-        "from": "OBMEP/2012/level_1exam.pdf",
+        "from": "OBMEP/2012/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -4531,7 +4531,7 @@
         "contains_latex_figure": false,
         "id": 1307,
         "level": 1,
-        "from": "OBMEP/2012/level_1exam.pdf",
+        "from": "OBMEP/2012/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Amanda, Bianca, Carolina",
@@ -4557,7 +4557,7 @@
         "contains_latex_figure": false,
         "id": 1308,
         "level": 1,
-        "from": "OBMEP/2012/level_1exam.pdf",
+        "from": "OBMEP/2012/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$18$",
@@ -4583,7 +4583,7 @@
         "contains_latex_figure": false,
         "id": 1309,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$59$",
@@ -4609,7 +4609,7 @@
         "contains_latex_figure": false,
         "id": 1310,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2\\,\\text{m}$",
@@ -4635,7 +4635,7 @@
         "contains_latex_figure": false,
         "id": 1311,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "segunda-feira",
@@ -4661,7 +4661,7 @@
         "contains_latex_figure": false,
         "id": 1312,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -4687,7 +4687,7 @@
         "contains_latex_figure": false,
         "id": 1313,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ari; água",
@@ -4713,7 +4713,7 @@
         "contains_latex_figure": false,
         "id": 1314,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$220$",
@@ -4739,7 +4739,7 @@
         "contains_latex_figure": false,
         "id": 1315,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -4765,7 +4765,7 @@
         "contains_latex_figure": false,
         "id": 1316,
         "level": 3,
-        "from": "OBMEP/2008/level_3exam.pdf",
+        "from": "OBMEP/2008/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\tfrac{7}{8}$",
@@ -4791,7 +4791,7 @@
         "contains_latex_figure": false,
         "id": 1317,
         "level": 2,
-        "from": "OBMEP/2008/level_2exam.pdf",
+        "from": "OBMEP/2008/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$24$",
@@ -4817,7 +4817,7 @@
         "contains_latex_figure": false,
         "id": 1318,
         "level": 2,
-        "from": "OBMEP/2008/level_2exam.pdf",
+        "from": "OBMEP/2008/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$600$",
@@ -4843,7 +4843,7 @@
         "contains_latex_figure": false,
         "id": 1319,
         "level": 2,
-        "from": "OBMEP/2008/level_2exam.pdf",
+        "from": "OBMEP/2008/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -4869,7 +4869,7 @@
         "contains_latex_figure": false,
         "id": 1320,
         "level": 2,
-        "from": "OBMEP/2008/level_2exam.pdf",
+        "from": "OBMEP/2008/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$28$",
@@ -4895,7 +4895,7 @@
         "contains_latex_figure": false,
         "id": 1321,
         "level": 2,
-        "from": "OBMEP/2008/level_2exam.pdf",
+        "from": "OBMEP/2008/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -4921,7 +4921,7 @@
         "contains_latex_figure": false,
         "id": 1322,
         "level": 2,
-        "from": "OBMEP/2008/level_2exam.pdf",
+        "from": "OBMEP/2008/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$267$",
@@ -4947,7 +4947,7 @@
         "contains_latex_figure": false,
         "id": 1323,
         "level": 2,
-        "from": "OBMEP/2008/level_2exam.pdf",
+        "from": "OBMEP/2008/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$257$",
@@ -4973,7 +4973,7 @@
         "contains_latex_figure": false,
         "id": 1324,
         "level": 1,
-        "from": "OBMEP/2008/level_1exam.pdf",
+        "from": "OBMEP/2008/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1903$",
@@ -4999,7 +4999,7 @@
         "contains_latex_figure": false,
         "id": 1325,
         "level": 1,
-        "from": "OBMEP/2008/level_1exam.pdf",
+        "from": "OBMEP/2008/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -5025,7 +5025,7 @@
         "contains_latex_figure": false,
         "id": 1326,
         "level": 1,
-        "from": "OBMEP/2008/level_1exam.pdf",
+        "from": "OBMEP/2008/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -5051,7 +5051,7 @@
         "contains_latex_figure": false,
         "id": 1327,
         "level": 1,
-        "from": "OBMEP/2008/level_1exam.pdf",
+        "from": "OBMEP/2008/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -5077,7 +5077,7 @@
         "contains_latex_figure": false,
         "id": 1328,
         "level": 1,
-        "from": "OBMEP/2008/level_1exam.pdf",
+        "from": "OBMEP/2008/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,0{,}25$",
@@ -5103,7 +5103,7 @@
         "contains_latex_figure": false,
         "id": 1329,
         "level": 1,
-        "from": "OBMEP/2008/level_1exam.pdf",
+        "from": "OBMEP/2008/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "R$ $0{,}90$",
@@ -5129,7 +5129,7 @@
         "contains_latex_figure": false,
         "id": 1330,
         "level": 1,
-        "from": "OBMEP/2008/level_1exam.pdf",
+        "from": "OBMEP/2008/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -5155,7 +5155,7 @@
         "contains_latex_figure": false,
         "id": 1331,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1+\\frac{1}{2}$",
@@ -5181,7 +5181,7 @@
         "contains_latex_figure": false,
         "id": 1332,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -5207,7 +5207,7 @@
         "contains_latex_figure": false,
         "id": 1333,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$43\\%$",
@@ -5233,7 +5233,7 @@
         "contains_latex_figure": false,
         "id": 1334,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1000$",
@@ -5259,7 +5259,7 @@
         "contains_latex_figure": false,
         "id": 1335,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "menos de $10$",
@@ -5285,7 +5285,7 @@
         "contains_latex_figure": false,
         "id": 1336,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{1}{10}$",
@@ -5311,7 +5311,7 @@
         "contains_latex_figure": false,
         "id": 1337,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$61$",
@@ -5337,7 +5337,7 @@
         "contains_latex_figure": false,
         "id": 1338,
         "level": 3,
-        "from": "OBMEP/2006/level_3exam.pdf",
+        "from": "OBMEP/2006/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$22$",
@@ -5363,7 +5363,7 @@
         "contains_latex_figure": false,
         "id": 1339,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -5389,7 +5389,7 @@
         "contains_latex_figure": false,
         "id": 1340,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$78$",
@@ -5415,7 +5415,7 @@
         "contains_latex_figure": false,
         "id": 1341,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -5441,7 +5441,7 @@
         "contains_latex_figure": false,
         "id": 1342,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$60$ copos de água e $65$ de leite.",
@@ -5467,7 +5467,7 @@
         "contains_latex_figure": false,
         "id": 1343,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10\\%$",
@@ -5493,7 +5493,7 @@
         "contains_latex_figure": false,
         "id": 1344,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{37}{80}$",
@@ -5519,7 +5519,7 @@
         "contains_latex_figure": false,
         "id": 1345,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11$",
@@ -5545,7 +5545,7 @@
         "contains_latex_figure": false,
         "id": 1346,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -5571,7 +5571,7 @@
         "contains_latex_figure": false,
         "id": 1347,
         "level": 2,
-        "from": "OBMEP/2006/level_2exam.pdf",
+        "from": "OBMEP/2006/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -5597,7 +5597,7 @@
         "contains_latex_figure": false,
         "id": 1348,
         "level": 1,
-        "from": "OBMEP/2006/level_1exam.pdf",
+        "from": "OBMEP/2006/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10\\;997$",
@@ -5623,7 +5623,7 @@
         "contains_latex_figure": false,
         "id": 1349,
         "level": 1,
-        "from": "OBMEP/2006/level_1exam.pdf",
+        "from": "OBMEP/2006/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$15{,}1998$",
@@ -5649,7 +5649,7 @@
         "contains_latex_figure": false,
         "id": 1350,
         "level": 1,
-        "from": "OBMEP/2006/level_1exam.pdf",
+        "from": "OBMEP/2006/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R$\\,2{,}00$",
@@ -5675,7 +5675,7 @@
         "contains_latex_figure": false,
         "id": 1351,
         "level": 1,
-        "from": "OBMEP/2006/level_1exam.pdf",
+        "from": "OBMEP/2006/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$22$",
@@ -5701,7 +5701,7 @@
         "contains_latex_figure": false,
         "id": 1352,
         "level": 1,
-        "from": "OBMEP/2006/level_1exam.pdf",
+        "from": "OBMEP/2006/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "um número maior que $9$.",
@@ -5727,7 +5727,7 @@
         "contains_latex_figure": false,
         "id": 1353,
         "level": 1,
-        "from": "OBMEP/2006/level_1exam.pdf",
+        "from": "OBMEP/2006/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "nenhuma",
@@ -5753,7 +5753,7 @@
         "contains_latex_figure": false,
         "id": 1354,
         "level": 3,
-        "from": "OBMEP/2007/level_3exam.pdf",
+        "from": "OBMEP/2007/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -5779,7 +5779,7 @@
         "contains_latex_figure": false,
         "id": 1355,
         "level": 3,
-        "from": "OBMEP/2007/level_3exam.pdf",
+        "from": "OBMEP/2007/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$18$",
@@ -5805,7 +5805,7 @@
         "contains_latex_figure": false,
         "id": 1356,
         "level": 3,
-        "from": "OBMEP/2007/level_3exam.pdf",
+        "from": "OBMEP/2007/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "ovos e leite, mas sem creme.",
@@ -5831,7 +5831,7 @@
         "contains_latex_figure": false,
         "id": 1357,
         "level": 3,
-        "from": "OBMEP/2007/level_3exam.pdf",
+        "from": "OBMEP/2007/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R$\\,160{,}00",
@@ -5857,7 +5857,7 @@
         "contains_latex_figure": false,
         "id": 1358,
         "level": 3,
-        "from": "OBMEP/2007/level_3exam.pdf",
+        "from": "OBMEP/2007/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -5883,7 +5883,7 @@
         "contains_latex_figure": false,
         "id": 1359,
         "level": 3,
-        "from": "OBMEP/2007/level_3exam.pdf",
+        "from": "OBMEP/2007/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -5909,7 +5909,7 @@
         "contains_latex_figure": false,
         "id": 1360,
         "level": 3,
-        "from": "OBMEP/2007/level_3exam.pdf",
+        "from": "OBMEP/2007/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$44$",
@@ -5935,7 +5935,7 @@
         "contains_latex_figure": false,
         "id": 1361,
         "level": 2,
-        "from": "OBMEP/2007/level_2exam.pdf",
+        "from": "OBMEP/2007/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2\\,\\text{km para o oeste.}$",
@@ -5961,7 +5961,7 @@
         "contains_latex_figure": false,
         "id": 1362,
         "level": 2,
-        "from": "OBMEP/2007/level_2exam.pdf",
+        "from": "OBMEP/2007/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "A) $0{,}03$",
@@ -5987,7 +5987,7 @@
         "contains_latex_figure": false,
         "id": 1363,
         "level": 2,
-        "from": "OBMEP/2007/level_2exam.pdf",
+        "from": "OBMEP/2007/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-3n$",
@@ -6013,7 +6013,7 @@
         "contains_latex_figure": false,
         "id": 1364,
         "level": 2,
-        "from": "OBMEP/2007/level_2exam.pdf",
+        "from": "OBMEP/2007/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$57$",
@@ -6039,7 +6039,7 @@
         "contains_latex_figure": false,
         "id": 1365,
         "level": 2,
-        "from": "OBMEP/2007/level_2exam.pdf",
+        "from": "OBMEP/2007/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$66\\,\\text{cm}^2$",
@@ -6065,7 +6065,7 @@
         "contains_latex_figure": false,
         "id": 1366,
         "level": 2,
-        "from": "OBMEP/2007/level_2exam.pdf",
+        "from": "OBMEP/2007/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -6091,7 +6091,7 @@
         "contains_latex_figure": false,
         "id": 1367,
         "level": 2,
-        "from": "OBMEP/2007/level_2exam.pdf",
+        "from": "OBMEP/2007/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1\\,\\text{km}$",
@@ -6117,7 +6117,7 @@
         "contains_latex_figure": false,
         "id": 1368,
         "level": 1,
-        "from": "OBMEP/2007/level_1exam.pdf",
+        "from": "OBMEP/2007/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0{,}013$",
@@ -6143,7 +6143,7 @@
         "contains_latex_figure": false,
         "id": 1369,
         "level": 1,
-        "from": "OBMEP/2007/level_1exam.pdf",
+        "from": "OBMEP/2007/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$$(6+3)\\times 0$$",
@@ -6169,7 +6169,7 @@
         "contains_latex_figure": false,
         "id": 1370,
         "level": 1,
-        "from": "OBMEP/2007/level_1exam.pdf",
+        "from": "OBMEP/2007/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$54\\,\\text{cm}$",
@@ -6195,7 +6195,7 @@
         "contains_latex_figure": false,
         "id": 1371,
         "level": 1,
-        "from": "OBMEP/2007/level_1exam.pdf",
+        "from": "OBMEP/2007/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$14$",
@@ -6221,7 +6221,7 @@
         "contains_latex_figure": false,
         "id": 1372,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1010$",
@@ -6247,7 +6247,7 @@
         "contains_latex_figure": false,
         "id": 1373,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$24\\,\\text{cm}$",
@@ -6273,7 +6273,7 @@
         "contains_latex_figure": false,
         "id": 1374,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11$",
@@ -6299,7 +6299,7 @@
         "contains_latex_figure": false,
         "id": 1375,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Arnaldo é mais velho que Beto e sua esposa é Dalila.",
@@ -6325,7 +6325,7 @@
         "contains_latex_figure": false,
         "id": 1376,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{3}$",
@@ -6351,7 +6351,7 @@
         "contains_latex_figure": false,
         "id": 1377,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2525^{2}$",
@@ -6377,7 +6377,7 @@
         "contains_latex_figure": false,
         "id": 1378,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{1}{2}$",
@@ -6403,7 +6403,7 @@
         "contains_latex_figure": false,
         "id": 1379,
         "level": 3,
-        "from": "OBMEP/2009/level_3exam.pdf",
+        "from": "OBMEP/2009/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$56$",
@@ -6429,7 +6429,7 @@
         "contains_latex_figure": false,
         "id": 1380,
         "level": 2,
-        "from": "OBMEP/2009/level_2exam.pdf",
+        "from": "OBMEP/2009/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$14\\text{h}$",
@@ -6455,7 +6455,7 @@
         "contains_latex_figure": false,
         "id": 1381,
         "level": 2,
-        "from": "OBMEP/2009/level_2exam.pdf",
+        "from": "OBMEP/2009/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "correrá exatamente $10$ metros até alcançar o coelho.",
@@ -6481,7 +6481,7 @@
         "contains_latex_figure": false,
         "id": 1382,
         "level": 2,
-        "from": "OBMEP/2009/level_2exam.pdf",
+        "from": "OBMEP/2009/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7$",
@@ -6507,7 +6507,7 @@
         "contains_latex_figure": false,
         "id": 1383,
         "level": 2,
-        "from": "OBMEP/2009/level_2exam.pdf",
+        "from": "OBMEP/2009/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -6533,7 +6533,7 @@
         "contains_latex_figure": false,
         "id": 1384,
         "level": 2,
-        "from": "OBMEP/2009/level_2exam.pdf",
+        "from": "OBMEP/2009/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$14$",
@@ -6559,7 +6559,7 @@
         "contains_latex_figure": false,
         "id": 1385,
         "level": 2,
-        "from": "OBMEP/2009/level_2exam.pdf",
+        "from": "OBMEP/2009/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$997$",
@@ -6585,7 +6585,7 @@
         "contains_latex_figure": false,
         "id": 1386,
         "level": 1,
-        "from": "OBMEP/2009/level_1exam.pdf",
+        "from": "OBMEP/2009/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4\\,\\text{kg}$",
@@ -6611,7 +6611,7 @@
         "contains_latex_figure": false,
         "id": 1387,
         "level": 1,
-        "from": "OBMEP/2009/level_1exam.pdf",
+        "from": "OBMEP/2009/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$38$",
@@ -6637,7 +6637,7 @@
         "contains_latex_figure": false,
         "id": 1388,
         "level": 1,
-        "from": "OBMEP/2009/level_1exam.pdf",
+        "from": "OBMEP/2009/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -6663,7 +6663,7 @@
         "contains_latex_figure": false,
         "id": 1389,
         "level": 1,
-        "from": "OBMEP/2009/level_1exam.pdf",
+        "from": "OBMEP/2009/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -6689,7 +6689,7 @@
         "contains_latex_figure": false,
         "id": 1390,
         "level": 1,
-        "from": "OBMEP/2009/level_1exam.pdf",
+        "from": "OBMEP/2009/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -6715,7 +6715,7 @@
         "contains_latex_figure": false,
         "id": 1391,
         "level": 1,
-        "from": "OBMEP/2009/level_1exam.pdf",
+        "from": "OBMEP/2009/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ana",
@@ -6741,7 +6741,7 @@
         "contains_latex_figure": false,
         "id": 1392,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -6767,7 +6767,7 @@
         "contains_latex_figure": false,
         "id": 1393,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$200$ metros",
@@ -6793,7 +6793,7 @@
         "contains_latex_figure": false,
         "id": 1394,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -6819,7 +6819,7 @@
         "contains_latex_figure": false,
         "id": 1395,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-5$",
@@ -6845,7 +6845,7 @@
         "contains_latex_figure": false,
         "id": 1396,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2^{2018}$",
@@ -6871,7 +6871,7 @@
         "contains_latex_figure": false,
         "id": 1397,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$27$ minutos e $30$ segundos",
@@ -6897,7 +6897,7 @@
         "contains_latex_figure": false,
         "id": 1398,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11$",
@@ -6923,7 +6923,7 @@
         "contains_latex_figure": false,
         "id": 1399,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -6949,7 +6949,7 @@
         "contains_latex_figure": false,
         "id": 1400,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1110$",
@@ -6975,7 +6975,7 @@
         "contains_latex_figure": false,
         "id": 1401,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$24$",
@@ -7001,7 +7001,7 @@
         "contains_latex_figure": false,
         "id": 1402,
         "level": 3,
-        "from": "OBMEP/2017/level_3exam.pdf",
+        "from": "OBMEP/2017/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{2}{9}$",
@@ -7027,7 +7027,7 @@
         "contains_latex_figure": false,
         "id": 1403,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$402$",
@@ -7053,7 +7053,7 @@
         "contains_latex_figure": false,
         "id": 1404,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7$",
@@ -7079,7 +7079,7 @@
         "contains_latex_figure": false,
         "id": 1405,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -7105,7 +7105,7 @@
         "contains_latex_figure": false,
         "id": 1406,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -7131,7 +7131,7 @@
         "contains_latex_figure": false,
         "id": 1407,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$699$",
@@ -7157,7 +7157,7 @@
         "contains_latex_figure": false,
         "id": 1408,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ana",
@@ -7183,7 +7183,7 @@
         "contains_latex_figure": false,
         "id": 1409,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -7209,7 +7209,7 @@
         "contains_latex_figure": false,
         "id": 1410,
         "level": 2,
-        "from": "OBMEP/2017/level_2exam.pdf",
+        "from": "OBMEP/2017/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -7235,7 +7235,7 @@
         "contains_latex_figure": false,
         "id": 1411,
         "level": 1,
-        "from": "OBMEP/2017/level_1exam.pdf",
+        "from": "OBMEP/2017/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -7261,7 +7261,7 @@
         "contains_latex_figure": false,
         "id": 1412,
         "level": 1,
-        "from": "OBMEP/2017/level_1exam.pdf",
+        "from": "OBMEP/2017/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$37$",
@@ -7287,7 +7287,7 @@
         "contains_latex_figure": false,
         "id": 1413,
         "level": 1,
-        "from": "OBMEP/2017/level_1exam.pdf",
+        "from": "OBMEP/2017/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -7313,7 +7313,7 @@
         "contains_latex_figure": false,
         "id": 1414,
         "level": 1,
-        "from": "OBMEP/2017/level_1exam.pdf",
+        "from": "OBMEP/2017/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -7339,7 +7339,7 @@
         "contains_latex_figure": false,
         "id": 1415,
         "level": 1,
-        "from": "OBMEP/2017/level_1exam.pdf",
+        "from": "OBMEP/2017/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "No mínimo $54$ e no máximo $126$ alunos.",
@@ -7365,7 +7365,7 @@
         "contains_latex_figure": false,
         "id": 1416,
         "level": 3,
-        "from": "OBMEP/2010/level_3exam.pdf",
+        "from": "OBMEP/2010/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -7391,7 +7391,7 @@
         "contains_latex_figure": false,
         "id": 1417,
         "level": 3,
-        "from": "OBMEP/2010/level_3exam.pdf",
+        "from": "OBMEP/2010/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$16$",
@@ -7417,7 +7417,7 @@
         "contains_latex_figure": false,
         "id": 1418,
         "level": 3,
-        "from": "OBMEP/2010/level_3exam.pdf",
+        "from": "OBMEP/2010/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10\\text{h}$",
@@ -7443,7 +7443,7 @@
         "contains_latex_figure": false,
         "id": 1419,
         "level": 3,
-        "from": "OBMEP/2010/level_3exam.pdf",
+        "from": "OBMEP/2010/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -7469,7 +7469,7 @@
         "contains_latex_figure": false,
         "id": 1420,
         "level": 3,
-        "from": "OBMEP/2010/level_3exam.pdf",
+        "from": "OBMEP/2010/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{3}{5}$",
@@ -7495,7 +7495,7 @@
         "contains_latex_figure": false,
         "id": 1421,
         "level": 3,
-        "from": "OBMEP/2010/level_3exam.pdf",
+        "from": "OBMEP/2010/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20$",
@@ -7521,7 +7521,7 @@
         "contains_latex_figure": false,
         "id": 1422,
         "level": 3,
-        "from": "OBMEP/2010/level_3exam.pdf",
+        "from": "OBMEP/2010/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$48\\,\\text{cm}$",
@@ -7547,7 +7547,7 @@
         "contains_latex_figure": false,
         "id": 1423,
         "level": 2,
-        "from": "OBMEP/2010/level_2exam.pdf",
+        "from": "OBMEP/2010/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -7573,7 +7573,7 @@
         "contains_latex_figure": false,
         "id": 1424,
         "level": 2,
-        "from": "OBMEP/2010/level_2exam.pdf",
+        "from": "OBMEP/2010/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{1}{3}$",
@@ -7599,7 +7599,7 @@
         "contains_latex_figure": false,
         "id": 1425,
         "level": 2,
-        "from": "OBMEP/2010/level_2exam.pdf",
+        "from": "OBMEP/2010/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "R$\\,45{,}50$",
@@ -7625,7 +7625,7 @@
         "contains_latex_figure": false,
         "id": 1426,
         "level": 2,
-        "from": "OBMEP/2010/level_2exam.pdf",
+        "from": "OBMEP/2010/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6\\,\\text{h}30\\,\\text{min}$",
@@ -7651,7 +7651,7 @@
         "contains_latex_figure": false,
         "id": 1427,
         "level": 2,
-        "from": "OBMEP/2010/level_2exam.pdf",
+        "from": "OBMEP/2010/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "segunda-feira",
@@ -7677,7 +7677,7 @@
         "contains_latex_figure": false,
         "id": 1428,
         "level": 2,
-        "from": "OBMEP/2010/level_2exam.pdf",
+        "from": "OBMEP/2010/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$165$",
@@ -7703,7 +7703,7 @@
         "contains_latex_figure": false,
         "id": 1429,
         "level": 2,
-        "from": "OBMEP/2010/level_2exam.pdf",
+        "from": "OBMEP/2010/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -7729,7 +7729,7 @@
         "contains_latex_figure": false,
         "id": 1430,
         "level": 1,
-        "from": "OBMEP/2010/level_1exam.pdf",
+        "from": "OBMEP/2010/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -7755,7 +7755,7 @@
         "contains_latex_figure": false,
         "id": 1431,
         "level": 1,
-        "from": "OBMEP/2010/level_1exam.pdf",
+        "from": "OBMEP/2010/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$ e $8$",
@@ -7781,7 +7781,7 @@
         "contains_latex_figure": false,
         "id": 1432,
         "level": 1,
-        "from": "OBMEP/2010/level_1exam.pdf",
+        "from": "OBMEP/2010/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -7807,7 +7807,7 @@
         "contains_latex_figure": false,
         "id": 1433,
         "level": 1,
-        "from": "OBMEP/2010/level_1exam.pdf",
+        "from": "OBMEP/2010/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -7833,7 +7833,7 @@
         "contains_latex_figure": false,
         "id": 1434,
         "level": 1,
-        "from": "OBMEP/2010/level_1exam.pdf",
+        "from": "OBMEP/2010/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "domingo",
@@ -7859,7 +7859,7 @@
         "contains_latex_figure": false,
         "id": 1435,
         "level": 1,
-        "from": "OBMEP/2010/level_1exam.pdf",
+        "from": "OBMEP/2010/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$30$",
@@ -7885,7 +7885,7 @@
         "contains_latex_figure": false,
         "id": 1436,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$130$",
@@ -7911,7 +7911,7 @@
         "contains_latex_figure": false,
         "id": 1437,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{1}{4}$",
@@ -7937,7 +7937,7 @@
         "contains_latex_figure": false,
         "id": 1438,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,1{,}00$",
@@ -7963,7 +7963,7 @@
         "contains_latex_figure": false,
         "id": 1439,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -7989,7 +7989,7 @@
         "contains_latex_figure": false,
         "id": 1440,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -8015,7 +8015,7 @@
         "contains_latex_figure": false,
         "id": 1441,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "somente I e II",
@@ -8041,7 +8041,7 @@
         "contains_latex_figure": false,
         "id": 1442,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$72$",
@@ -8067,7 +8067,7 @@
         "contains_latex_figure": false,
         "id": 1443,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3\\,\\text{horas}$",
@@ -8093,7 +8093,7 @@
         "contains_latex_figure": false,
         "id": 1444,
         "level": 3,
-        "from": "OBMEP/2019/level_3exam.pdf",
+        "from": "OBMEP/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -8119,7 +8119,7 @@
         "contains_latex_figure": false,
         "id": 1445,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2\\times0-1+9$",
@@ -8145,7 +8145,7 @@
         "contains_latex_figure": false,
         "id": 1446,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ana",
@@ -8171,7 +8171,7 @@
         "contains_latex_figure": false,
         "id": 1447,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1500$",
@@ -8197,7 +8197,7 @@
         "contains_latex_figure": false,
         "id": 1448,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -8223,7 +8223,7 @@
         "contains_latex_figure": false,
         "id": 1449,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,40{,}00$",
@@ -8249,7 +8249,7 @@
         "contains_latex_figure": false,
         "id": 1450,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -8275,7 +8275,7 @@
         "contains_latex_figure": false,
         "id": 1451,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$26$",
@@ -8301,7 +8301,7 @@
         "contains_latex_figure": false,
         "id": 1452,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ela ficará preenchida em $\\frac{7}{8}$ de sua capacidade.",
@@ -8327,7 +8327,7 @@
         "contains_latex_figure": false,
         "id": 1453,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5\\%$",
@@ -8353,7 +8353,7 @@
         "contains_latex_figure": false,
         "id": 1454,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "exatamente $5$ horas em pelo menos um desses cinco dias.",
@@ -8379,7 +8379,7 @@
         "contains_latex_figure": false,
         "id": 1455,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$36$",
@@ -8405,7 +8405,7 @@
         "contains_latex_figure": false,
         "id": 1456,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$50$",
@@ -8431,7 +8431,7 @@
         "contains_latex_figure": false,
         "id": 1457,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5{:}00$",
@@ -8457,7 +8457,7 @@
         "contains_latex_figure": false,
         "id": 1458,
         "level": 2,
-        "from": "OBMEP/2019/level_2exam.pdf",
+        "from": "OBMEP/2019/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -8483,7 +8483,7 @@
         "contains_latex_figure": false,
         "id": 1459,
         "level": 1,
-        "from": "OBMEP/2019/level_1exam.pdf",
+        "from": "OBMEP/2019/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -8509,7 +8509,7 @@
         "contains_latex_figure": false,
         "id": 1460,
         "level": 1,
-        "from": "OBMEP/2019/level_1exam.pdf",
+        "from": "OBMEP/2019/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$15 \\times \\dfrac{1}{4}$",
@@ -8535,7 +8535,7 @@
         "contains_latex_figure": false,
         "id": 1461,
         "level": 1,
-        "from": "OBMEP/2019/level_1exam.pdf",
+        "from": "OBMEP/2019/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Aba",
@@ -8561,7 +8561,7 @@
         "contains_latex_figure": false,
         "id": 1462,
         "level": 1,
-        "from": "OBMEP/2019/level_1exam.pdf",
+        "from": "OBMEP/2019/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1009$",
@@ -8587,7 +8587,7 @@
         "contains_latex_figure": false,
         "id": 1463,
         "level": 1,
-        "from": "OBMEP/2019/level_1exam.pdf",
+        "from": "OBMEP/2019/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Há uma pessoa de óculos olhando para uma pessoa sem óculos.",
@@ -8613,7 +8613,7 @@
         "contains_latex_figure": false,
         "id": 1464,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$43$",
@@ -8639,7 +8639,7 @@
         "contains_latex_figure": false,
         "id": 1465,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -8665,7 +8665,7 @@
         "contains_latex_figure": false,
         "id": 1466,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$21$",
@@ -8691,7 +8691,7 @@
         "contains_latex_figure": false,
         "id": 1467,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -8717,7 +8717,7 @@
         "contains_latex_figure": false,
         "id": 1468,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2{,}0$",
@@ -8743,7 +8743,7 @@
         "contains_latex_figure": false,
         "id": 1469,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -8769,7 +8769,7 @@
         "contains_latex_figure": false,
         "id": 1470,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -8795,7 +8795,7 @@
         "contains_latex_figure": false,
         "id": 1471,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Emília",
@@ -8821,7 +8821,7 @@
         "contains_latex_figure": false,
         "id": 1472,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -8847,7 +8847,7 @@
         "contains_latex_figure": false,
         "id": 1473,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -8873,7 +8873,7 @@
         "contains_latex_figure": false,
         "id": 1474,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$91$",
@@ -8899,7 +8899,7 @@
         "contains_latex_figure": false,
         "id": 1475,
         "level": 3,
-        "from": "OBMEP/2018/level_3exam.pdf",
+        "from": "OBMEP/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4{,}5\\,\\text{cm}$",
@@ -8925,7 +8925,7 @@
         "contains_latex_figure": false,
         "id": 1476,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -8951,7 +8951,7 @@
         "contains_latex_figure": false,
         "id": 1477,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$",
@@ -8977,7 +8977,7 @@
         "contains_latex_figure": false,
         "id": 1478,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -9003,7 +9003,7 @@
         "contains_latex_figure": false,
         "id": 1479,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -9029,7 +9029,7 @@
         "contains_latex_figure": false,
         "id": 1480,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{2}$",
@@ -9055,7 +9055,7 @@
         "contains_latex_figure": false,
         "id": 1481,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Promoção $1$",
@@ -9081,7 +9081,7 @@
         "contains_latex_figure": false,
         "id": 1482,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -9107,7 +9107,7 @@
         "contains_latex_figure": false,
         "id": 1483,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -9133,7 +9133,7 @@
         "contains_latex_figure": false,
         "id": 1484,
         "level": 2,
-        "from": "OBMEP/2018/level_2exam.pdf",
+        "from": "OBMEP/2018/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -9159,7 +9159,7 @@
         "contains_latex_figure": false,
         "id": 1485,
         "level": 1,
-        "from": "OBMEP/2018/level_1exam.pdf",
+        "from": "OBMEP/2018/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -9185,7 +9185,7 @@
         "contains_latex_figure": false,
         "id": 1486,
         "level": 1,
-        "from": "OBMEP/2018/level_1exam.pdf",
+        "from": "OBMEP/2018/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "R$\\,6{,}00$",
@@ -9211,7 +9211,7 @@
         "contains_latex_figure": false,
         "id": 1487,
         "level": 1,
-        "from": "OBMEP/2018/level_1exam.pdf",
+        "from": "OBMEP/2018/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7{,}2$",
@@ -9237,7 +9237,7 @@
         "contains_latex_figure": false,
         "id": 1488,
         "level": 1,
-        "from": "OBMEP/2018/level_1exam.pdf",
+        "from": "OBMEP/2018/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -9263,7 +9263,7 @@
         "contains_latex_figure": false,
         "id": 1489,
         "level": 1,
-        "from": "OBMEP/2018/level_1exam.pdf",
+        "from": "OBMEP/2018/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$31$",
@@ -9289,7 +9289,7 @@
         "contains_latex_figure": false,
         "id": 1490,
         "level": 1,
-        "from": "OBMEP/2018/level_1exam.pdf",
+        "from": "OBMEP/2018/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$56$",
@@ -9315,7 +9315,7 @@
         "contains_latex_figure": false,
         "id": 1491,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -9341,7 +9341,7 @@
         "contains_latex_figure": false,
         "id": 1492,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1\\,\\text{cm}$",
@@ -9367,7 +9367,7 @@
         "contains_latex_figure": false,
         "id": 1493,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ana",
@@ -9393,7 +9393,7 @@
         "contains_latex_figure": false,
         "id": 1494,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12654$",
@@ -9419,7 +9419,7 @@
         "contains_latex_figure": false,
         "id": 1495,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -9445,7 +9445,7 @@
         "contains_latex_figure": false,
         "id": 1496,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{2}{9}$",
@@ -9471,7 +9471,7 @@
         "contains_latex_figure": false,
         "id": 1497,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$96\\,\\text{m}$",
@@ -9497,7 +9497,7 @@
         "contains_latex_figure": false,
         "id": 1498,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "as duas serão brancas.",
@@ -9523,7 +9523,7 @@
         "contains_latex_figure": false,
         "id": 1499,
         "level": 3,
-        "from": "OBMEP/2011/level_3exam.pdf",
+        "from": "OBMEP/2011/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$30\\,\\text{km/h}$",
@@ -9549,7 +9549,7 @@
         "contains_latex_figure": false,
         "id": 1500,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11$",
@@ -9575,7 +9575,7 @@
         "contains_latex_figure": false,
         "id": 1501,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -9601,7 +9601,7 @@
         "contains_latex_figure": false,
         "id": 1502,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -9627,7 +9627,7 @@
         "contains_latex_figure": false,
         "id": 1503,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{4}$",
@@ -9653,7 +9653,7 @@
         "contains_latex_figure": false,
         "id": 1504,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2\\,\\mathrm{m}^2$",
@@ -9679,7 +9679,7 @@
         "contains_latex_figure": false,
         "id": 1505,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -9705,7 +9705,7 @@
         "contains_latex_figure": false,
         "id": 1506,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20$",
@@ -9731,7 +9731,7 @@
         "contains_latex_figure": false,
         "id": 1507,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$99$",
@@ -9757,7 +9757,7 @@
         "contains_latex_figure": false,
         "id": 1508,
         "level": 2,
-        "from": "OBMEP/2011/level_2exam.pdf",
+        "from": "OBMEP/2011/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$60$",
@@ -9783,7 +9783,7 @@
         "contains_latex_figure": false,
         "id": 1509,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11\\,\\text{cm}$",
@@ -9809,7 +9809,7 @@
         "contains_latex_figure": false,
         "id": 1510,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1{,}2\\,\\text{kg}$",
@@ -9835,7 +9835,7 @@
         "contains_latex_figure": false,
         "id": 1511,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -9861,7 +9861,7 @@
         "contains_latex_figure": false,
         "id": 1512,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$48\\,\\text{cm}$",
@@ -9887,7 +9887,7 @@
         "contains_latex_figure": false,
         "id": 1513,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "uma hora e meia",
@@ -9913,7 +9913,7 @@
         "contains_latex_figure": false,
         "id": 1514,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "igual ao número de meninas.",
@@ -9939,7 +9939,7 @@
         "contains_latex_figure": false,
         "id": 1515,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$480$",
@@ -9965,7 +9965,7 @@
         "contains_latex_figure": false,
         "id": 1516,
         "level": 1,
-        "from": "OBMEP/2011/level_1exam.pdf",
+        "from": "OBMEP/2011/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$584$",
@@ -9991,7 +9991,7 @@
         "contains_latex_figure": false,
         "id": 1517,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ana está à frente de Carla, que está à frente de Beatriz.",
@@ -10017,7 +10017,7 @@
         "contains_latex_figure": false,
         "id": 1518,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$80$",
@@ -10043,7 +10043,7 @@
         "contains_latex_figure": false,
         "id": 1519,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$80$",
@@ -10069,7 +10069,7 @@
         "contains_latex_figure": false,
         "id": 1520,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-2$",
@@ -10095,7 +10095,7 @@
         "contains_latex_figure": false,
         "id": 1521,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{1}{10}$",
@@ -10121,7 +10121,7 @@
         "contains_latex_figure": false,
         "id": 1522,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -10147,7 +10147,7 @@
         "contains_latex_figure": false,
         "id": 1523,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$110$",
@@ -10173,7 +10173,7 @@
         "contains_latex_figure": false,
         "id": 1524,
         "level": 3,
-        "from": "OBMEP/2016/level_3exam.pdf",
+        "from": "OBMEP/2016/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -10199,7 +10199,7 @@
         "contains_latex_figure": false,
         "id": 1525,
         "level": 2,
-        "from": "OBMEP/2016/level_2exam.pdf",
+        "from": "OBMEP/2016/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$35$",
@@ -10225,7 +10225,7 @@
         "contains_latex_figure": false,
         "id": 1526,
         "level": 2,
-        "from": "OBMEP/2016/level_2exam.pdf",
+        "from": "OBMEP/2016/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Segunda-feira",
@@ -10251,7 +10251,7 @@
         "contains_latex_figure": false,
         "id": 1527,
         "level": 2,
-        "from": "OBMEP/2016/level_2exam.pdf",
+        "from": "OBMEP/2016/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$676$",
@@ -10277,7 +10277,7 @@
         "contains_latex_figure": false,
         "id": 1528,
         "level": 2,
-        "from": "OBMEP/2016/level_2exam.pdf",
+        "from": "OBMEP/2016/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4$",
@@ -10303,7 +10303,7 @@
         "contains_latex_figure": false,
         "id": 1529,
         "level": 2,
-        "from": "OBMEP/2016/level_2exam.pdf",
+        "from": "OBMEP/2016/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7$",
@@ -10329,7 +10329,7 @@
         "contains_latex_figure": false,
         "id": 1530,
         "level": 2,
-        "from": "OBMEP/2016/level_2exam.pdf",
+        "from": "OBMEP/2016/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -10355,7 +10355,7 @@
         "contains_latex_figure": false,
         "id": 1531,
         "level": 1,
-        "from": "OBMEP/2016/level_1exam.pdf",
+        "from": "OBMEP/2016/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$23$",
@@ -10381,7 +10381,7 @@
         "contains_latex_figure": false,
         "id": 1532,
         "level": 1,
-        "from": "OBMEP/2016/level_1exam.pdf",
+        "from": "OBMEP/2016/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$15$",
@@ -10407,7 +10407,7 @@
         "contains_latex_figure": false,
         "id": 1533,
         "level": 1,
-        "from": "OBMEP/2016/level_1exam.pdf",
+        "from": "OBMEP/2016/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -10433,7 +10433,7 @@
         "contains_latex_figure": false,
         "id": 1534,
         "level": 1,
-        "from": "OBMEP/2016/level_1exam.pdf",
+        "from": "OBMEP/2016/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$22$",
@@ -10459,7 +10459,7 @@
         "contains_latex_figure": false,
         "id": 1535,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$30\\,\\text{cm}^2$",
@@ -10485,7 +10485,7 @@
         "contains_latex_figure": false,
         "id": 1536,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$664$",
@@ -10511,7 +10511,7 @@
         "contains_latex_figure": false,
         "id": 1537,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$17\\%$",
@@ -10537,7 +10537,7 @@
         "contains_latex_figure": false,
         "id": 1538,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$32$",
@@ -10563,7 +10563,7 @@
         "contains_latex_figure": false,
         "id": 1539,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$200$",
@@ -10589,7 +10589,7 @@
         "contains_latex_figure": false,
         "id": 1540,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$4\\,\\text{m}$",
@@ -10615,7 +10615,7 @@
         "contains_latex_figure": false,
         "id": 1541,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5\\,\\text{km/h}$",
@@ -10641,7 +10641,7 @@
         "contains_latex_figure": false,
         "id": 1542,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{8}$",
@@ -10667,7 +10667,7 @@
         "contains_latex_figure": false,
         "id": 1543,
         "level": 3,
-        "from": "OBMEP/2005/level_3exam.pdf",
+        "from": "OBMEP/2005/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -10693,7 +10693,7 @@
         "contains_latex_figure": false,
         "id": 1544,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$21$",
@@ -10719,7 +10719,7 @@
         "contains_latex_figure": false,
         "id": 1545,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$40$",
@@ -10745,7 +10745,7 @@
         "contains_latex_figure": false,
         "id": 1546,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$23$",
@@ -10771,7 +10771,7 @@
         "contains_latex_figure": false,
         "id": 1547,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -10797,7 +10797,7 @@
         "contains_latex_figure": false,
         "id": 1548,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$664$",
@@ -10823,7 +10823,7 @@
         "contains_latex_figure": false,
         "id": 1549,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$30$",
@@ -10849,7 +10849,7 @@
         "contains_latex_figure": false,
         "id": 1550,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$76$",
@@ -10875,7 +10875,7 @@
         "contains_latex_figure": false,
         "id": 1551,
         "level": 2,
-        "from": "OBMEP/2005/level_2exam.pdf",
+        "from": "OBMEP/2005/level_2/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{3}$",
@@ -10901,7 +10901,7 @@
         "contains_latex_figure": false,
         "id": 1552,
         "level": 1,
-        "from": "OBMEP/2005/level_1exam.pdf",
+        "from": "OBMEP/2005/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1773$",
@@ -10927,7 +10927,7 @@
         "contains_latex_figure": false,
         "id": 1553,
         "level": 1,
-        "from": "OBMEP/2005/level_1exam.pdf",
+        "from": "OBMEP/2005/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$R\\$\\,43{,}00$",
@@ -10953,7 +10953,7 @@
         "contains_latex_figure": false,
         "id": 1554,
         "level": 1,
-        "from": "OBMEP/2005/level_1exam.pdf",
+        "from": "OBMEP/2005/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3\\,\\text{cm}$",
@@ -10979,7 +10979,7 @@
         "contains_latex_figure": false,
         "id": 1555,
         "level": 1,
-        "from": "OBMEP/2005/level_1exam.pdf",
+        "from": "OBMEP/2005/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7\\times5\\times11\\times13\\times2$",
@@ -11005,7 +11005,7 @@
         "contains_latex_figure": false,
         "id": 1556,
         "level": 1,
-        "from": "OBMEP/2005/level_1exam.pdf",
+        "from": "OBMEP/2005/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "agosto",
@@ -11031,7 +11031,7 @@
         "contains_latex_figure": false,
         "id": 1557,
         "level": 1,
-        "from": "OBMEP/2005/level_1exam.pdf",
+        "from": "OBMEP/2005/level_1/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$11\\ \\text{anos}$",
@@ -11057,7 +11057,7 @@
         "contains_latex_figure": false,
         "id": 1558,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$12$",
@@ -11083,7 +11083,7 @@
         "contains_latex_figure": false,
         "id": 1559,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$15080$",
@@ -11109,7 +11109,7 @@
         "contains_latex_figure": false,
         "id": 1560,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{3}$",
@@ -11135,7 +11135,7 @@
         "contains_latex_figure": false,
         "id": 1561,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Wagner é professor.",
@@ -11161,7 +11161,7 @@
         "contains_latex_figure": false,
         "id": 1562,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$775$",
@@ -11187,7 +11187,7 @@
         "contains_latex_figure": false,
         "id": 1563,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "é um múltiplo de $7$.",
@@ -11213,7 +11213,7 @@
         "contains_latex_figure": false,
         "id": 1564,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$666$",
@@ -11239,7 +11239,7 @@
         "contains_latex_figure": false,
         "id": 1565,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\sqrt{13}$",
@@ -11265,7 +11265,7 @@
         "contains_latex_figure": false,
         "id": 1566,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$16$",
@@ -11291,7 +11291,7 @@
         "contains_latex_figure": false,
         "id": 1567,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$45{,}45\\%$",
@@ -11317,7 +11317,7 @@
         "contains_latex_figure": false,
         "id": 1568,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Jamais terá medida inteira.",
@@ -11343,7 +11343,7 @@
         "contains_latex_figure": false,
         "id": 1569,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$48$",
@@ -11369,7 +11369,7 @@
         "contains_latex_figure": false,
         "id": 1570,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0{,}99$",
@@ -11395,7 +11395,7 @@
         "contains_latex_figure": false,
         "id": 1571,
         "level": 3,
-        "from": "OMIF/2022/level_3exam.pdf",
+        "from": "OMIF/2022/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-5$",
@@ -11421,7 +11421,7 @@
         "contains_latex_figure": false,
         "id": 1572,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2560$",
@@ -11447,7 +11447,7 @@
         "contains_latex_figure": false,
         "id": 1573,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "foi Ana.",
@@ -11473,7 +11473,7 @@
         "contains_latex_figure": false,
         "id": 1574,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$57$",
@@ -11499,7 +11499,7 @@
         "contains_latex_figure": false,
         "id": 1575,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -11525,7 +11525,7 @@
         "contains_latex_figure": false,
         "id": 1576,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$63$",
@@ -11551,7 +11551,7 @@
         "contains_latex_figure": false,
         "id": 1577,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -11577,7 +11577,7 @@
         "contains_latex_figure": false,
         "id": 1578,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2000$",
@@ -11603,7 +11603,7 @@
         "contains_latex_figure": false,
         "id": 1579,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$9$",
@@ -11629,7 +11629,7 @@
         "contains_latex_figure": false,
         "id": 1580,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$700$",
@@ -11655,7 +11655,7 @@
         "contains_latex_figure": false,
         "id": 1581,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Apenas três soluções.",
@@ -11681,7 +11681,7 @@
         "contains_latex_figure": false,
         "id": 1582,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$8$",
@@ -11707,7 +11707,7 @@
         "contains_latex_figure": false,
         "id": 1583,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -11733,7 +11733,7 @@
         "contains_latex_figure": false,
         "id": 1584,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{43}{64}$",
@@ -11759,7 +11759,7 @@
         "contains_latex_figure": false,
         "id": 1585,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -11785,7 +11785,7 @@
         "contains_latex_figure": false,
         "id": 1586,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-0{,}8$",
@@ -11811,7 +11811,7 @@
         "contains_latex_figure": false,
         "id": 1587,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -11837,7 +11837,7 @@
         "contains_latex_figure": false,
         "id": 1588,
         "level": 3,
-        "from": "OMIF/2025/level_3exam.pdf",
+        "from": "OMIF/2025/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20$",
@@ -11863,7 +11863,7 @@
         "contains_latex_figure": false,
         "id": 1589,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Alaor é o mais novo dos três amigos.",
@@ -11889,7 +11889,7 @@
         "contains_latex_figure": false,
         "id": 1590,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$36$",
@@ -11915,7 +11915,7 @@
         "contains_latex_figure": false,
         "id": 1591,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-3$",
@@ -11941,7 +11941,7 @@
         "contains_latex_figure": false,
         "id": 1592,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{2}$",
@@ -11967,7 +11967,7 @@
         "contains_latex_figure": false,
         "id": 1593,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Apenas Euler é do tipo mentiroso.",
@@ -11993,7 +11993,7 @@
         "contains_latex_figure": false,
         "id": 1594,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5$",
@@ -12019,7 +12019,7 @@
         "contains_latex_figure": false,
         "id": 1595,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -12045,7 +12045,7 @@
         "contains_latex_figure": false,
         "id": 1596,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{8}{n^{3}-3n^{2}-2n}$",
@@ -12071,7 +12071,7 @@
         "contains_latex_figure": false,
         "id": 1597,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$49$",
@@ -12097,7 +12097,7 @@
         "contains_latex_figure": false,
         "id": 1598,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$980$",
@@ -12123,7 +12123,7 @@
         "contains_latex_figure": false,
         "id": 1599,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$126$",
@@ -12149,7 +12149,7 @@
         "contains_latex_figure": false,
         "id": 1600,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -12175,7 +12175,7 @@
         "contains_latex_figure": false,
         "id": 1601,
         "level": 3,
-        "from": "OMIF/2023/level_3exam.pdf",
+        "from": "OMIF/2023/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Menor do que $2\\%$.",
@@ -12201,7 +12201,7 @@
         "contains_latex_figure": false,
         "id": 1602,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$13$",
@@ -12227,7 +12227,7 @@
         "contains_latex_figure": false,
         "id": 1603,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Quarenta e oito",
@@ -12253,7 +12253,7 @@
         "contains_latex_figure": false,
         "id": 1604,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$14$",
@@ -12279,7 +12279,7 @@
         "contains_latex_figure": false,
         "id": 1605,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-8$",
@@ -12305,7 +12305,7 @@
         "contains_latex_figure": false,
         "id": 1606,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -12331,7 +12331,7 @@
         "contains_latex_figure": false,
         "id": 1607,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$ e $2$ anos",
@@ -12357,7 +12357,7 @@
         "contains_latex_figure": false,
         "id": 1608,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$5\\,\\text{cm}$",
@@ -12383,7 +12383,7 @@
         "contains_latex_figure": false,
         "id": 1609,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$175\\,\\text{km}$",
@@ -12409,7 +12409,7 @@
         "contains_latex_figure": false,
         "id": 1610,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{6}{5}$",
@@ -12435,7 +12435,7 @@
         "contains_latex_figure": false,
         "id": 1611,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$65\\%$",
@@ -12461,7 +12461,7 @@
         "contains_latex_figure": false,
         "id": 1612,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$68\\ \\text{anos}$",
@@ -12487,7 +12487,7 @@
         "contains_latex_figure": false,
         "id": 1613,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$ funcionários e $45$ mudas por funcionário",
@@ -12513,7 +12513,7 @@
         "contains_latex_figure": false,
         "id": 1614,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "é o elemento neutro da multiplicação",
@@ -12539,7 +12539,7 @@
         "contains_latex_figure": false,
         "id": 1615,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1010$",
@@ -12565,7 +12565,7 @@
         "contains_latex_figure": false,
         "id": 1616,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{1}{6}$",
@@ -12591,7 +12591,7 @@
         "contains_latex_figure": false,
         "id": 1617,
         "level": 3,
-        "from": "OMIF/2019/level_3exam.pdf",
+        "from": "OMIF/2019/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$840$",
@@ -12617,7 +12617,7 @@
         "contains_latex_figure": false,
         "id": 1618,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10\\%$ e $13\\%$",
@@ -12643,7 +12643,7 @@
         "contains_latex_figure": false,
         "id": 1619,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "A informação $1$, sozinha, é suficiente para responder à pergunta, mas a informação $2$, sozinha, não é suficiente.",
@@ -12669,7 +12669,7 @@
         "contains_latex_figure": false,
         "id": 1620,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{7}{10}$",
@@ -12695,7 +12695,7 @@
         "contains_latex_figure": false,
         "id": 1621,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1330$",
@@ -12721,7 +12721,7 @@
         "contains_latex_figure": false,
         "id": 1622,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1$",
@@ -12747,7 +12747,7 @@
         "contains_latex_figure": false,
         "id": 1623,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$720$",
@@ -12773,7 +12773,7 @@
         "contains_latex_figure": false,
         "id": 1624,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$a=b=c$",
@@ -12799,7 +12799,7 @@
         "contains_latex_figure": false,
         "id": 1625,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$16340$",
@@ -12825,7 +12825,7 @@
         "contains_latex_figure": false,
         "id": 1626,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Daniela não fez a caricatura e Ana mentiu.",
@@ -12851,7 +12851,7 @@
         "contains_latex_figure": false,
         "id": 1627,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\dfrac{1}{2}$",
@@ -12877,7 +12877,7 @@
         "contains_latex_figure": false,
         "id": 1628,
         "level": 3,
-        "from": "OMIF/2021/level_3exam.pdf",
+        "from": "OMIF/2021/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7315$",
@@ -12903,7 +12903,7 @@
         "contains_latex_figure": false,
         "id": 1629,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$117$",
@@ -12929,7 +12929,7 @@
         "contains_latex_figure": false,
         "id": 1630,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$10$",
@@ -12955,7 +12955,7 @@
         "contains_latex_figure": false,
         "id": 1631,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$805$",
@@ -12981,7 +12981,7 @@
         "contains_latex_figure": false,
         "id": 1632,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -13007,7 +13007,7 @@
         "contains_latex_figure": false,
         "id": 1633,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7580$",
@@ -13033,7 +13033,7 @@
         "contains_latex_figure": false,
         "id": 1634,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "não existe aluno que faça aniversário em dezembro.",
@@ -13059,7 +13059,7 @@
         "contains_latex_figure": false,
         "id": 1635,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$25\\%$",
@@ -13085,7 +13085,7 @@
         "contains_latex_figure": false,
         "id": 1636,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\varphi+2$",
@@ -13111,7 +13111,7 @@
         "contains_latex_figure": false,
         "id": 1637,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\tfrac{1}{70}$",
@@ -13137,7 +13137,7 @@
         "contains_latex_figure": false,
         "id": 1638,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -13163,7 +13163,7 @@
         "contains_latex_figure": false,
         "id": 1639,
         "level": 3,
-        "from": "OMIF/2020/level_3exam.pdf",
+        "from": "OMIF/2020/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$",
@@ -13189,7 +13189,7 @@
         "contains_latex_figure": false,
         "id": 1640,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "Ele precisará jogar no máximo até os $55$ anos para se igualar ao Pelé.",
@@ -13215,7 +13215,7 @@
         "contains_latex_figure": false,
         "id": 1641,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2$, $4$, $7$ e $1$",
@@ -13241,7 +13241,7 @@
         "contains_latex_figure": false,
         "id": 1642,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$6$",
@@ -13267,7 +13267,7 @@
         "contains_latex_figure": false,
         "id": 1643,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$13$",
@@ -13293,7 +13293,7 @@
         "contains_latex_figure": false,
         "id": 1644,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2\\sqrt{3}$ metros e $30^{\\circ}$.",
@@ -13319,7 +13319,7 @@
         "contains_latex_figure": false,
         "id": 1645,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$3$ metros.",
@@ -13345,7 +13345,7 @@
         "contains_latex_figure": false,
         "id": 1646,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$25\\%$",
@@ -13371,7 +13371,7 @@
         "contains_latex_figure": false,
         "id": 1647,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$0$",
@@ -13397,7 +13397,7 @@
         "contains_latex_figure": false,
         "id": 1648,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20$",
@@ -13423,7 +13423,7 @@
         "contains_latex_figure": false,
         "id": 1649,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$-1{,}5$ e $-1$",
@@ -13449,7 +13449,7 @@
         "contains_latex_figure": false,
         "id": 1650,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$7$",
@@ -13475,7 +13475,7 @@
         "contains_latex_figure": false,
         "id": 1651,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$\\frac{1}{4}$",
@@ -13501,7 +13501,7 @@
         "contains_latex_figure": false,
         "id": 1652,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$350$",
@@ -13527,7 +13527,7 @@
         "contains_latex_figure": false,
         "id": 1653,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$16$",
@@ -13553,7 +13553,7 @@
         "contains_latex_figure": false,
         "id": 1654,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$2{,}0 \\times 10^{11} \\text{ J}$",
@@ -13579,7 +13579,7 @@
         "contains_latex_figure": false,
         "id": 1655,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$33\\%$",
@@ -13605,7 +13605,7 @@
         "contains_latex_figure": false,
         "id": 1656,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "A informação $1$ sozinha é o suficiente para responder à pergunta, mas a informação $2$ sozinha não é o suficiente.",
@@ -13631,7 +13631,7 @@
         "contains_latex_figure": false,
         "id": 1657,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$1009$",
@@ -13657,7 +13657,7 @@
         "contains_latex_figure": false,
         "id": 1658,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "a oferta é vantajosa, pois as $4$ fatias oferecidas têm $7{,}2\\,\\text{g}$ a mais que a pizza pequena.",
@@ -13683,7 +13683,7 @@
         "contains_latex_figure": false,
         "id": 1659,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$20\\%$",
@@ -13709,7 +13709,7 @@
         "contains_latex_figure": false,
         "id": 1660,
         "level": 3,
-        "from": "OMIF/2018/level_3exam.pdf",
+        "from": "OMIF/2018/level_3/exam.pdf",
         "multiple_choice_question": true,
         "options_text": {
             "A": "$21$ e $7$",
