@@ -6,7 +6,7 @@
     "answer_text": "Temos p=2+4+6+…+3996 q=1+3+5+…+3995. Assim p-q=(2-1)+(4-3)+(6-5)+…+(3996-3995)=1998. Opção correcta: B.",
     "contains_latex_figure": false,
     "id": 0,
-    "level": "Undefined",
+    "level": "3",
     "from": "1997-98_final98.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -32,7 +32,7 @@
     "answer_text": "As duas únicas possibilidades de ordenar cinco algarismos da forma descrita são: 2,4,7,8,9 3,4,6,8,9. Em qualquer dos casos o quarto algarismo é igual a 8. Opção correcta: D.",
     "contains_latex_figure": false,
     "id": 1,
-    "level": "Undefined",
+    "level": "3",
     "from": "1997-98_final98.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -58,7 +58,7 @@
     "answer_text": "Temos então (image2) Como os triângulos [AEB] e [BDC] são semelhantes concluímos que y=3× 7/4=21/4. Assim x=21/4 + 7 = 49/4. Opção correcta: B.",
     "contains_latex_figure": true,
     "id": 2,
-    "level": "Undefined",
+    "level": "3",
     "from": "1997-98_final98.tex.json",
     "images": {
       "image1": "\\begin{picture}(121.00,75.00)(0,10) \\put(5.00,5.00){\\line(1,0){20.00}} \\put(25.00,5.00){\\line(0,1){20.00}} \\put(25.00,25.00){\\line(-1,0){20.00}} \\put(5.00,25.00){\\line(0,-1){20.00}} \\put(25.00,5.00){\\line(1,0){35.00}} \\put(60.00,5.00){\\line(0,1){35.00}} \\put(60.00,40.00){\\line(-1,0){35.00}} \\put(25.00,40.00){\\line(0,-1){35.00}} \\put(121.00,5.00){\\line(0,1){61.00}} \\put(121.00,66.00){\\line(-1,0){61.00}} \\put(60.00,66.00){\\line(0,-1){61.00}} \\put(60.00,5.00){\\line(1,0){61.00}} \\put(15.00,8.00){\\makebox(0,0)[cb]{$4$}} \\put(42.00,8.00){\\makebox(0,0)[cb]{$7$}} \\put(90.00,8.00){\\makebox(0,0)[cb]{$x$}} \\put(3.00,27.00){\\makebox(0,0)[rb]{$A$}} \\put(24.00,41.00){\\makebox(0,0)[rb]{$B$}} \\put(59.00,67.00){\\makebox(0,0)[rb]{$C$}} \\put(8.50,22.50){\\makebox(0,0)[rb]{$\\bullet$}} \\put(28.50,37.50){\\makebox(0,0)[rb]{$\\bullet$}} \\put(63.00,63.00){\\makebox(0,0)[rb]{$\\bullet$}} \\end{picture}",
@@ -88,7 +88,7 @@
     "answer_text": "O número de números simples inferiores a um milhão pode obter-se somando o número de números simples com 1,2,3,4,5 e 6 algarismos. Com um algarismo existem apenas dois números simples: o 1 e o 2. Como os números simples com um dado número de algarismos se obtêm acrescentando os algarismos 1 ou 2 aos números simples com um algarismo a menos, obtemos 4 números simples com dois algarismos, 8 números simples com três algarismos, 16 números simples com quatro algarismos, 32 números simples com cinco algarismos e, finalmente, 64 números simples com seis algarismos. O número de números simples inferiores a um milhão é então igual a 2+4+8+16+32+64=126. Opção correcta: C.",
     "contains_latex_figure": false,
     "id": 3,
-    "level": "Undefined",
+    "level": "3",
     "from": "1997-98_final98.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -114,7 +114,7 @@
     "answer_text": "D.",
     "contains_latex_figure": false,
     "id": 16,
-    "level": "Undefined",
+    "level": "1",
     "from": "1998-99_ELIM1.TEX.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -140,7 +140,7 @@
     "answer_text": "C.",
     "contains_latex_figure": false,
     "id": 17,
-    "level": "Undefined",
+    "level": "1",
     "from": "1998-99_ELIM1.TEX.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -166,7 +166,7 @@
     "answer_text": "D.",
     "contains_latex_figure": false,
     "id": 18,
-    "level": "Undefined",
+    "level": "1",
     "from": "1998-99_ELIM1.TEX.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -192,7 +192,7 @@
     "answer_text": "Temos que (1999♢ 2000)=3999 e (2000♢ 1999)=4000, logo (3999♢ 4000)=7999. Opção correcta: C.",
     "contains_latex_figure": false,
     "id": 38,
-    "level": "Undefined",
+    "level": "3",
     "from": "1998-99_Final99.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -218,7 +218,7 @@
     "answer_text": "Se x é o preço inicial da viagem, cada passageiro só pagou 9/10x. A companhia devolveu a cada passageiro deste voo 2/109/10x. O desconto total foi então 1/10+18/100=28/100, isto é, foi de 28%. Opção correcta: D.",
     "contains_latex_figure": false,
     "id": 39,
-    "level": "Undefined",
+    "level": "3",
     "from": "1998-99_Final99.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -244,7 +244,7 @@
     "answer_text": "As rodas percorrem no total 900 Km. Como há cinco rodas, cada uma percorre 900/5=180 Km. Opção correcta: E.",
     "contains_latex_figure": false,
     "id": 40,
-    "level": "Undefined",
+    "level": "3",
     "from": "1998-99_Final99.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -270,7 +270,7 @@
     "answer_text": "Designando por O o centro do quadrado tem-se PQ= AQ e PR= BR=QO logo PQ + PR = AQ+QO=1/2AC=2√(2) metros. Opção correcta: C.",
     "contains_latex_figure": false,
     "id": 41,
-    "level": "Undefined",
+    "level": "3",
     "from": "1998-99_Final99.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -296,7 +296,7 @@
     "answer_text": "D",
     "contains_latex_figure": true,
     "id": 58,
-    "level": "Undefined",
+    "level": "1",
     "from": "1999-2000_XVIII-1.tex.json",
     "images": {
       "image1": "\\begin{picture}(120.00,30.00)(-120,-10) \\put(0,0){\\line(1,0){20.00}} \\put(40,0){\\line(1,0){20.00}} \\put(80,0){\\line(1,0){20.00}} \\put(120,0){\\line(1,0){20.00}} \\put(30,0){\\oval(20,20)[t]} \\put(70,0){\\oval(20,20)[b]} \\put(110,0){\\oval(20,20)[t]} \\end{picture}",
@@ -330,7 +330,7 @@
     "answer_text": "A",
     "contains_latex_figure": false,
     "id": 59,
-    "level": "Undefined",
+    "level": "1",
     "from": "1999-2000_XVIII-1.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -356,7 +356,7 @@
     "answer_text": "D",
     "contains_latex_figure": false,
     "id": 60,
-    "level": "Undefined",
+    "level": "1",
     "from": "1999-2000_XVIII-1.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -382,7 +382,7 @@
     "answer_text": "C",
     "contains_latex_figure": true,
     "id": 61,
-    "level": "Undefined",
+    "level": "1",
     "from": "1999-2000_XVIII-1.tex.json",
     "images": {
       "image1": "\\begin{picture}(120.00,15.00)(0,-2.5) \\put(0,0){\\line(1,0){9.00}} \\put(9,0){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(0,0){\\line(0,1){9.00}} \\put(0,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(10,0){\\line(0,1){9.00}} \\put(10,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(10,10){\\line(-1,0){9.00}} \\put(1,10){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(10,10){\\line(2,-1){9.00}} \\put(19,5.5){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(10,0){\\line(2,1){9.00}} \\put(19,4.5){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(30,0){\\line(1,0){9.00}} \\put(39,0){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(30,0){\\line(0,1){9.00}} \\put(30,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(40,0){\\line(0,1){9.00}} \\put(40,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(40,10){\\line(-1,0){9.00}} \\put(31,10){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(40,0){\\line(1,0){9.00}} \\put(49,0){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(40,0){\\line(0,1){9.00}} \\put(40,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(50,0){\\line(0,1){9.00}} \\put(50,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(50,10){\\line(-1,0){9.00}} \\put(41,10){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(50,10){\\line(2,-1){9.00}} \\put(59,5.5){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(50,0){\\line(2,1){9.00}} \\put(59,4.5){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(70,0){\\line(1,0){9.00}} \\put(79,0){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(70,0){\\line(0,1){9.00}} \\put(70,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(80,0){\\line(0,1){9.00}} \\put(80,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(80,10){\\line(-1,0){9.00}} \\put(71,10){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(80,0){\\line(1,0){9.00}} \\put(89,0){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(80,0){\\line(0,1){9.00}} \\put(80,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(90,0){\\line(0,1){9.00}} \\put(90,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(90,10){\\line(-1,0){9.00}} \\put(81,10){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(90,0){\\line(1,0){9.00}} \\put(99,0){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(90,0){\\line(0,1){9.00}} \\put(90,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(100,0){\\line(0,1){9.00}} \\put(100,9){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(100,10){\\line(-1,0){9.00}} \\put(91,10){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(100,10){\\line(2,-1){9.00}} \\put(109,5.5){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(100,0){\\line(2,1){9.00}} \\put(109,4.5){\\makebox(0,0)[cc]{\\tiny $\\bullet$}} \\put(120.00,5){\\makebox(0,0)[cc]{$\\cdots$}} \\end{picture}"
@@ -411,7 +411,7 @@
     "answer_text": "Como 2002=400× 5+2, o colar da Cleópatra tem (5+3+2+1)×400+2 =11×400+2 =4402 pedras. Opção correcta: D)",
     "contains_latex_figure": true,
     "id": 81,
-    "level": "Undefined",
+    "level": "3",
     "from": "2000-2001_XXfinalA.tex.json",
     "images": {
       "image1": "\\begin{array}{l} \\\\\\\\\\\\ \\diamond\\diamond\\diamond\\diamond\\diamond\\diamond \\diamond \\diamond \\diamond \\diamond \\diamond \\diamond \\diamond \\diamond \\diamond \\hspace*{0.6cm} ...\\\\ \\hspace*{2.8mm}\\hspace*{2.8mm}\\diamond\\diamond\\diamond\\hspace*{2.8mm} \\hspace*{2.7mm}\\diamond\\diamond \\diamond \\hspace*{2.7mm} \\hspace*{2.8mm}\\diamond \\diamond \\diamond \\hspace*{2.7mm} \\\\ \\hspace*{2.8mm}\\hspace*{2.8mm}\\diamond\\diamond\\hspace*{2.7mm}\\hspace*{2.8mm} \\hspace*{2.7mm}\\diamond\\diamond \\hspace*{2.7mm}\\hspace*{2.8mm} \\hspace*{2.7mm}\\diamond \\;\\diamond \\hspace*{2.7mm} \\hspace*{2.7mm}\\\\ \\hspace*{2.8mm}\\hspace*{2.8mm}\\hspace*{2.8mm}\\diamond\\hspace*{2.7mm} \\hspace*{2.8mm}\\hspace*{2.8mm}\\hspace*{2.7mm}\\diamond \\hspace*{2.8mm}\\hspace*{2.8mm} \\hspace*{2.7mm}\\hspace*{2.7mm}\\diamond \\hspace*{2.7mm} \\hspace*{2.7mm} \\hspace*{2.7mm} \\end{array}"
@@ -440,7 +440,7 @@
     "answer_text": "(11+13+15+…+97+99)-(10+12+14+…+96+98) =(11-10)+(13-12)+(15-14)+ …+(97-96)+(99-98) =45× 1=45. Opção correcta: A)",
     "contains_latex_figure": false,
     "id": 82,
-    "level": "Undefined",
+    "level": "3",
     "from": "2000-2001_XXfinalA.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -466,7 +466,7 @@
     "answer_text": "Sejam l o comprimento do lado do quadrado e r a medida do raio do círculo. O círculo e o quadrado têm a mesma área, ou seja, l^2=π r^2, logo l=√(π)r. Assim a razão entre o perímetro do círculo e o perímetro do quadrado é 2π r/4l=π r/2√(π)r=√(π)/2. Opção correcta: D)",
     "contains_latex_figure": false,
     "id": 83,
-    "level": "Undefined",
+    "level": "3",
     "from": "2000-2001_XXfinalA.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -492,7 +492,7 @@
     "answer_text": "Sejam S_1 e S_2 as quantidades de suor de gato preto das poções do Harry e do Ron. As correspondentes quantidades de lágrimas de crocodilo são 3S_1 e 2S_2. Como as duas poções têm igual volume tem-se 4S_1=3S_2 e a razão obtida é 3S_1+2S_2/S_1+S_2=4(3S_1+2S_2)/4(S_1+S_2)=3(4S_1)+8S_2/4S _1+4S_2 =3(3S_2)+8S_2/3S_2+4S_2= 17/7. Opção correcta: C)",
     "contains_latex_figure": false,
     "id": 84,
-    "level": "Undefined",
+    "level": "3",
     "from": "2000-2001_XXfinalA.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -518,7 +518,7 @@
     "answer_text": "(C)",
     "contains_latex_figure": true,
     "id": 104,
-    "level": "Undefined",
+    "level": "1",
     "from": "2001-2002_elimin1.tex.json",
     "images": {
       "image1": "\\begin{picture}(0.00,0.00)(-300,-40) \\multiput(80.00,130.00)(1.60,-0.10){4}{\\line(1,0){1.60}} \\multiput(86.39,129.59)(0.57,-0.11){11}{\\line(1,0){0.57}} \\multiput(92.68,128.36)(0.36,-0.12){17}{\\line(1,0){0.36}} \\multiput(98.76,126.35)(0.24,-0.12){24}{\\line(1,0){0.24}} \\multiput(104.54,123.57)(0.18,-0.12){30}{\\line(1,0){0.18}} \\multiput(109.91,120.07)(0.14,-0.12){35}{\\line(1,0){0.14}} \\multiput(114.78,115.92)(0.12,-0.13){36}{\\line(0,-1){0.13}} \\multiput(119.09,111.17)(0.12,-0.17){31}{\\line(0,-1){0.17}} \\multiput(122.76,105.92)(0.12,-0.23){25}{\\line(0,-1){0.23}} \\multiput(125.72,100.24)(0.12,-0.32){19}{\\line(0,-1){0.32}} \\multiput(127.93,94.23)(0.12,-0.52){12}{\\line(0,-1){0.52}} \\multiput(129.36,87.98)(0.10,-1.06){6}{\\line(0,-1){1.06}} \\multiput(129.97,81.60)(-0.10,-3.20){2}{\\line(0,-1){3.20}} \\multiput(129.77,75.20)(-0.11,-0.70){9}{\\line(0,-1){0.70}} \\multiput(128.75,68.87)(-0.11,-0.38){16}{\\line(0,-1){0.38}} \\multiput(126.92,62.73)(-0.12,-0.27){22}{\\line(0,-1){0.27}} \\multiput(124.33,56.87)(-0.12,-0.20){14}{\\line(0,-1){0.20}} \\multiput(114.73,44.1)(-0.12,-0.12){19}{\\line(-1,0){0.12}} \\multiput(112.41,41.93)(-0.16,-0.12){32}{\\line(-1,0){0.16}} \\multiput(107.28,38.10)(-0.21,-0.12){27}{\\line(-1,0){0.21}} \\multiput(101.69,34.95)(-0.28,-0.11){21}{\\line(-1,0){0.28}} \\multiput(95.76,32.55)(-0.44,-0.12){14}{\\line(-1,0){0.44}} \\multiput(89.56,30.92)(-0.91,-0.12){7}{\\line(-1,0){0.91}} \\put(83.20,30.10){\\line(-1,0){6.41}} \\multiput(76.80,30.10)(-0.91,0.12){7}{\\line(-1,0){0.91}} \\multiput(70.44,30.92)(-0.44,0.12){14}{\\line(-1,0){0.44}} \\multiput(64.24,32.55)(-0.28,0.11){21}{\\line(-1,0){0.28}} \\multiput(47.59,41.93)(-0.12,0.12){38}{\\line(-1,0){0.12}} \\multiput(42.99,46.38)(-0.12,0.15){34}{\\line(0,1){0.15}} \\multiput(38.99,51.39)(-0.12,0.20){28}{\\line(0,1){0.20}} \\multiput(35.67,56.87)(-0.12,0.27){22}{\\line(0,1){0.27}} \\multiput(30.23,75.20)(-0.10,3.20){2}{\\line(0,1){3.20}} \\multiput(30.03,81.60)(0.10,1.06){6}{\\line(0,1){1.06}} \\multiput(30.64,87.98)(0.12,0.52){12}{\\line(0,1){0.52}} \\multiput(32.07,94.23)(0.12,0.32){19}{\\line(0,1){0.32}} \\multiput(34.28,100.24)(0.12,0.23){25}{\\line(0,1){0.23}} \\multiput(37.24,105.92)(0.12,0.17){31}{\\line(0,1){0.17}} \\multiput(40.91,111.17)(0.12,0.13){36}{\\line(0,1){0.13}} \\multiput(45.22,115.92)(0.14,0.12){35}{\\line(1,0){0.14}} \\multiput(50.09,120.07)(0.18,0.12){30}{\\line(1,0){0.18}} \\multiput(55.46,123.57)(0.24,0.12){24}{\\line(1,0){0.24}} \\multiput(61.24,126.35)(0.36,0.12){17}{\\line(1,0){0.36}} \\multiput(67.32,128.36)(0.91,0.12){14}{\\line(1,0){0.91}} \\put(135,120){\\makebox(0,0)[cc]{\\small $C$}} \\end{picture}",
@@ -550,7 +550,7 @@
     "answer_text": "(B)",
     "contains_latex_figure": false,
     "id": 105,
-    "level": "Undefined",
+    "level": "1",
     "from": "2001-2002_elimin1.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -576,7 +576,7 @@
     "answer_text": "(D)",
     "contains_latex_figure": false,
     "id": 106,
-    "level": "Undefined",
+    "level": "1",
     "from": "2001-2002_elimin1.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -602,7 +602,7 @@
     "answer_text": "(A)",
     "contains_latex_figure": true,
     "id": 107,
-    "level": "Undefined",
+    "level": "1",
     "from": "2001-2002_elimin1.tex.json",
     "images": {
       "image1": "\\begin{picture}(0,0)(-850,-10) \\multiput(80,130)(0.14695,-0.45225){200}{\\line(1,0){0.14695}} \\multiput(109.39,39.55)(-0.3847,0.2795){200}{\\line(1,0){0.3847}} \\put(32.45,95.45){\\line(1,0){95.55}} \\multiput(80,130)(-0.14695,-0.45225){200}{\\line(-1,0){0.14695}} \\multiput(50.61,39.55)(0.3847,0.2795){200}{\\line(1,0){0.3847}} \\put(80,140){\\makebox(0,0)[lc]{\\small $1$}} \\put(113,32){\\makebox(0,0)[lc]{\\small $2$}} \\put(28,95){\\makebox(0,0)[rc]{\\small $3$}} \\put(133,95){\\makebox(0,0)[lc]{\\small $4$}} \\put(47,32){\\makebox(0,0)[rc]{\\small $5$}} \\end{picture}"
@@ -631,7 +631,7 @@
     "answer_text": "(C)",
     "contains_latex_figure": false,
     "id": 141,
-    "level": "Undefined",
+    "level": "1",
     "from": "2002-2003_elimin1.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -657,7 +657,7 @@
     "answer_text": "(E)",
     "contains_latex_figure": false,
     "id": 142,
-    "level": "Undefined",
+    "level": "1",
     "from": "2002-2003_elimin1.tex.json",
     "multiple_choice_question": true,
     "options_text": {
@@ -683,7 +683,7 @@
     "answer_text": "(B)",
     "contains_latex_figure": false,
     "id": 143,
-    "level": "Undefined",
+    "level": "1",
     "from": "2002-2003_elimin1.tex.json",
     "multiple_choice_question": true,
     "options_text": {
