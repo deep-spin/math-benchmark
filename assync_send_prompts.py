@@ -6,6 +6,7 @@ from typing import Iterable, Set, Any, Dict
 from openai import AsyncOpenAI, APITimeoutError
 import tenacity
 from tqdm import tqdm 
+from dotenv import load_dotenv
 
 def iter_jsonl(path: str) -> Iterable[Dict[str, Any]]:
     """Yield JSON objects from a JSONL file, skipping invalid/blank lines."""
@@ -93,12 +94,12 @@ async def main():
     parser.add_argument(
         "--base_url",
         required=True,
-        help="Base URL of the model server (e.g., http://localhost:8000/v1)",
+        help="Base URL of the model server (e.g., http://localhost:8000/v1, https://openrouter.ai/api/v1)",
     )
     parser.add_argument(
         "--api_key",
         required=True,
-        help="API key for authentication with the model server",
+        help="API key for authentication with the model server. Use 'openrouter' to load from OPEN_ROUTER_API_KEY environment variable.",
     )
     parser.add_argument(
         "--prompts_path",
@@ -122,8 +123,15 @@ async def main():
         help="Number of concurrent requests to send",
     )
     args = parser.parse_args()
+
+    if args.api_key == "openrouter":
+        load_dotenv()  # Load environment variables from .env file
+        api_key = os.getenv("OPEN_ROUTER_API_KEY")
+    else:
+        api_key = args.api_key
+
     # Create a chat model instance
-    chat = ChatModel(model_name=args.model, base_url=args.base_url, api_key=args.api_key, timeout=1800)
+    chat = ChatModel(model_name=args.model, base_url=args.base_url, api_key=api_key, timeout=1800)
 
     # Get list of prompts from the provided JSON file
     with open(args.prompts_path, "r", encoding="utf-8") as f:
