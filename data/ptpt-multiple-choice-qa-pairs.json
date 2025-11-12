@@ -2714,34 +2714,6 @@
     "correct_option": "D"
   },
   {
-    "id": 400,
-    "level": 3,
-    "from": "2012-2013-CatA-Final.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": false,
-    "question_verbatim": "Dois triãngulos equiláteros dentro de um trianguylo isósceles- finalndesas",
-    "answer_verbatim": "Como $3 \\times 670= 2010$ há $670$ múltiplos de $3$ entre $1$ e $2012$. Como $7 \\times 287= 2009$ há $287$ múltiplos de $7$ entre $1$ e $2012$. Como $21 \\times 95= 1995$ há $95$ múltiplos de $21$ entre $1$ e $2012$. Assim o número de inteiros entre $1$ e $2002$ que não são divisíveis por $3$ nem por $7$ é $2012-670-287+95= 1150$. Opção correta: C).",
-    "question_text": "Dois triãngulos equiláteros dentro de um trianguylo isósceles- finalndesas",
-    "answer_text": "Como 3 × 670= 2010 há 670 múltiplos de 3 entre 1 e 2012. Como 7 × 287= 2009 há 287 múltiplos de 7 entre 1 e 2012. Como 21 × 95= 1995 há 95 múltiplos de 21 entre 1 e 2012. Assim o número de inteiros entre 1 e 2002 que não são divisíveis por 3 nem por 7 é 2012-670-287+95= 1150. Opção correta: C).",
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "957",
-      "B": "960",
-      "C": "1055",
-      "D": "1150",
-      "E": "1725"
-    },
-    "options_verbatim": {
-      "A": "$957$",
-      "B": "$960$",
-      "C": "$1055$",
-      "D": "$1150$",
-      "E": "$1725$"
-    },
-    "correct_option": "C"
-  },
-  {
     "id": 401,
     "level": 3,
     "from": "2012-2013-CatA-Final.tex.json",
@@ -6009,34 +5981,6 @@
       "E": "$164$"
     },
     "correct_option": "D"
-  },
-  {
-    "id": 684,
-    "level": 2,
-    "from": "2017-2018-CatJ-Final.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": false,
-    "question_verbatim": "Num dos problemas da prova aparecem os seguintes três números: Qual das seguintes afirmações é verdadeira?",
-    "answer_verbatim": "Uma vez que $2017<2018$ e $(1+2+\\cdots+2016+2017+2016)<(1+2+\\cdots+2016+2017+2017)$, conclui-se que $2017(1+2+\\cdots+2016+2017+2016)<2018(1+2+\\cdots+2016+2017+2017)$, ou seja, $y<z$. Vamos agora reescrever os números $x$ e $y$ para melhor os podermos comparar. É imediato que $2016<1+2+\\cdots+2016+2017$, e portanto$2016(1+2+\\cdots+2016+2017)+2016\\times 2017+2016<2016(1+2+\\cdots+2016+2017)+2016\\times 2017+(1+2+\\cdots+2016+2017)$, ou seja $x<y$. Opção correta: E).",
-    "question_text": "Num dos problemas da prova aparecem os seguintes três números: Qual das seguintes afirmações é verdadeira?",
-    "answer_text": "Uma vez que 2017<2018 e (1+2+⋯+2016+2017+2016)<(1+2+⋯+2016+2017+2017), conclui-se que 2017(1+2+⋯+2016+2017+2016)<2018(1+2+⋯+2016+2017+2017), ou seja, y<z. Vamos agora reescrever os números x e y para melhor os podermos comparar. É imediato que 2016<1+2+⋯+2016+2017, e portanto2016(1+2+⋯+2016+2017)+2016× 2017+2016<2016(1+2+⋯+2016+2017)+2016× 2017+(1+2+⋯+2016+2017), ou seja x<y. Opção correta: E).",
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "x>y>z",
-      "B": "x>z>y",
-      "C": "y>z>x",
-      "D": "z>x>y",
-      "E": "z>y>x"
-    },
-    "options_verbatim": {
-      "A": "$x>y>z$",
-      "B": "$x>z>y$",
-      "C": "$y>z>x$",
-      "D": "$z>x>y$",
-      "E": "$z>y>x$"
-    },
-    "correct_option": "E"
   },
   {
     "id": 687,
@@ -12239,34 +12183,6 @@
       "E": "$200$"
     },
     "correct_option": "C"
-  },
-  {
-    "id": 1118,
-    "level": 2,
-    "from": "2024-2025-CatJ-Final.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": false,
-    "question_verbatim": "O número $2025$ satisfaz as seguintes propriedades: Quantos números entre $1000$ e $9999$ satisfazem estas duas propriedades?",
-    "answer_verbatim": "Para um número ser múltiplo de $25$ os seus dois últimos algarismos têm de ser $00$ ou $25$ ou $50$ ou $75$. Os números de quatro algarismos que terminam em $00$ terão de ter a soma dos outros dois algarismos igual a $9$: $9000$, $8100$, $1800$, $7200$, $2700$, $6300$, $3600$, $5400$ e $4500$. Os números de quatro algarismos que terminam em $25$ terão de ter a soma dos outros dois algarismos igual a $2$: $2025$, $1125$. Os números de quatro algarismos que terminam em $50$ terão de ter a soma dos outros dois algarismos igual a $4$: $4050$, $3150$, $1350$ e $2250$. Os números pretendidos não podem terminar em $75$ porque a soma dos seus algarismos nunca seria igual a $9$. Portanto há $15$ números que satisfazem as duas propriedades. Opção correta: D)",
-    "question_text": "O número 2025 satisfaz as seguintes propriedades: Quantos números entre 1000 e 9999 satisfazem estas duas propriedades?",
-    "answer_text": "Para um número ser múltiplo de 25 os seus dois últimos algarismos têm de ser 00 ou 25 ou 50 ou 75. Os números de quatro algarismos que terminam em 00 terão de ter a soma dos outros dois algarismos igual a 9: 9000, 8100, 1800, 7200, 2700, 6300, 3600, 5400 e 4500. Os números de quatro algarismos que terminam em 25 terão de ter a soma dos outros dois algarismos igual a 2: 2025, 1125. Os números de quatro algarismos que terminam em 50 terão de ter a soma dos outros dois algarismos igual a 4: 4050, 3150, 1350 e 2250. Os números pretendidos não podem terminar em 75 porque a soma dos seus algarismos nunca seria igual a 9. Portanto há 15 números que satisfazem as duas propriedades. Opção correta: D)",
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "12",
-      "B": "13",
-      "C": "14",
-      "D": "15",
-      "E": "16"
-    },
-    "options_verbatim": {
-      "A": "$12$",
-      "B": "$13$",
-      "C": "$14$",
-      "D": "$15$",
-      "E": "$16$"
-    },
-    "correct_option": "D"
   },
   {
     "id": 1119,
