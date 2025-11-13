@@ -1,0 +1,110 @@
+Per-level results (levels 1..4):
+
+Level 1:
+  Golden items (denominator for 'including missing') : 80
+  Answered (have final_answer)                          : 76
+  Correct among answered                               : 71
+  Accuracy (answered only)                             : 93.42%
+  Accuracy (missing counted as incorrect)              : 88.75%
+
+Level 2:
+  Golden items (denominator for 'including missing') : 172
+  Answered (have final_answer)                          : 163
+  Correct among answered                               : 143
+  Accuracy (answered only)                             : 87.73%
+  Accuracy (missing counted as incorrect)              : 83.14%
+
+Level 3:
+  Golden items (denominator for 'including missing') : 143
+  Answered (have final_answer)                          : 135
+  Correct among answered                               : 122
+  Accuracy (answered only)                             : 90.37%
+  Accuracy (missing counted as incorrect)              : 85.31%
+
+Level 4:
+  Golden items (denominator for 'including missing') : 31
+  Answered (have final_answer)                          : 31
+  Correct among answered                               : 29
+  Accuracy (answered only)                             : 93.55%
+  Accuracy (missing counted as incorrect)              : 93.55%
+
+GLOBAL (all levels combined):
+  Golden items total: 426
+  Answered total     : 405
+  Correct (answered) : 365
+  Accuracy (answered only)         : 90.12%
+  Accuracy (missing counted wrong) : 85.68%
+
+By question figure presence:
+
+WITH figures:
+Level 1:
+  Golden items (denominator for 'including missing') : 27
+  Answered (have final_answer)                          : 25
+  Correct among answered                               : 20
+  Accuracy (answered only)                             : 80.00%
+  Accuracy (missing counted as incorrect)              : 74.07%
+
+Level 2:
+  Golden items (denominator for 'including missing') : 54
+  Answered (have final_answer)                          : 49
+  Correct among answered                               : 39
+  Accuracy (answered only)                             : 79.59%
+  Accuracy (missing counted as incorrect)              : 72.22%
+
+Level 3:
+  Golden items (denominator for 'including missing') : 47
+  Answered (have final_answer)                          : 40
+  Correct among answered                               : 31
+  Accuracy (answered only)                             : 77.50%
+  Accuracy (missing counted as incorrect)              : 65.96%
+
+Level 4:
+  Golden items (denominator for 'including missing') : 9
+  Answered (have final_answer)                          : 9
+  Correct among answered                               : 8
+  Accuracy (answered only)                             : 88.89%
+  Accuracy (missing counted as incorrect)              : 88.89%
+
+GLOBAL (WITH figures):
+  Golden items total: 137
+  Answered total     : 123
+  Correct (answered) : 98
+  Accuracy (answered only)         : 79.67%
+  Accuracy (missing counted wrong) : 71.53%
+
+WITHOUT figures:
+Level 1:
+  Golden items (denominator for 'including missing') : 53
+  Answered (have final_answer)                          : 51
+  Correct among answered                               : 51
+  Accuracy (answered only)                             : 100.00%
+  Accuracy (missing counted as incorrect)              : 96.23%
+
+Level 2:
+  Golden items (denominator for 'including missing') : 118
+  Answered (have final_answer)                          : 114
+  Correct among answered                               : 104
+  Accuracy (answered only)                             : 91.23%
+  Accuracy (missing counted as incorrect)              : 88.14%
+
+Level 3:
+  Golden items (denominator for 'including missing') : 96
+  Answered (have final_answer)                          : 95
+  Correct among answered                               : 91
+  Accuracy (answered only)                             : 95.79%
+  Accuracy (missing counted as incorrect)              : 94.79%
+
+Level 4:
+  Golden items (denominator for 'including missing') : 22
+  Answered (have final_answer)                          : 22
+  Correct among answered                               : 21
+  Accuracy (answered only)                             : 95.45%
+  Accuracy (missing counted as incorrect)              : 95.45%
+
+GLOBAL (WITHOUT figures):
+  Golden items total: 289
+  Answered total     : 282
+  Correct (answered) : 267
+  Accuracy (answered only)         : 94.68%
+  Accuracy (missing counted wrong) : 92.39%

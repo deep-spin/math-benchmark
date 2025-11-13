@@ -1,0 +1,110 @@
+Per-level results (levels 1..4):
+
+Level 1:
+  Golden items (denominator for 'including missing') : 118
+  Answered (have final_answer)                          : 118
+  Correct among answered                               : 105
+  Accuracy (answered only)                             : 88.98%
+  Accuracy (missing counted as incorrect)              : 88.98%
+
+Level 2:
+  Golden items (denominator for 'including missing') : 140
+  Answered (have final_answer)                          : 134
+  Correct among answered                               : 125
+  Accuracy (answered only)                             : 93.28%
+  Accuracy (missing counted as incorrect)              : 89.29%
+
+Level 3:
+  Golden items (denominator for 'including missing') : 270
+  Answered (have final_answer)                          : 258
+  Correct among answered                               : 230
+  Accuracy (answered only)                             : 89.15%
+  Accuracy (missing counted as incorrect)              : 85.19%
+
+Level 4:
+  Golden items (denominator for 'including missing') : 0
+  Answered (have final_answer)                          : 0
+  Correct among answered                               : 0
+  Accuracy (answered only)                             : N/A
+  Accuracy (missing counted as incorrect)              : N/A
+
+GLOBAL (all levels combined):
+  Golden items total: 528
+  Answered total     : 510
+  Correct (answered) : 460
+  Accuracy (answered only)         : 90.20%
+  Accuracy (missing counted wrong) : 87.12%
+
+By question figure presence:
+
+WITH figures:
+Level 1:
+  Golden items (denominator for 'including missing') : 0
+  Answered (have final_answer)                          : 0
+  Correct among answered                               : 0
+  Accuracy (answered only)                             : N/A
+  Accuracy (missing counted as incorrect)              : N/A
+
+Level 2:
+  Golden items (denominator for 'including missing') : 0
+  Answered (have final_answer)                          : 0
+  Correct among answered                               : 0
+  Accuracy (answered only)                             : N/A
+  Accuracy (missing counted as incorrect)              : N/A
+
+Level 3:
+  Golden items (denominator for 'including missing') : 0
+  Answered (have final_answer)                          : 0
+  Correct among answered                               : 0
+  Accuracy (answered only)                             : N/A
+  Accuracy (missing counted as incorrect)              : N/A
+
+Level 4:
+  Golden items (denominator for 'including missing') : 0
+  Answered (have final_answer)                          : 0
+  Correct among answered                               : 0
+  Accuracy (answered only)                             : N/A
+  Accuracy (missing counted as incorrect)              : N/A
+
+GLOBAL (WITH figures):
+  Golden items total: 0
+  Answered total     : 0
+  Correct (answered) : 0
+  Accuracy (answered only)         : N/A
+  Accuracy (missing counted wrong) : N/A
+
+WITHOUT figures:
+Level 1:
+  Golden items (denominator for 'including missing') : 118
+  Answered (have final_answer)                          : 118
+  Correct among answered                               : 105
+  Accuracy (answered only)                             : 88.98%
+  Accuracy (missing counted as incorrect)              : 88.98%
+
+Level 2:
+  Golden items (denominator for 'including missing') : 140
+  Answered (have final_answer)                          : 134
+  Correct among answered                               : 125
+  Accuracy (answered only)                             : 93.28%
+  Accuracy (missing counted as incorrect)              : 89.29%
+
+Level 3:
+  Golden items (denominator for 'including missing') : 270
+  Answered (have final_answer)                          : 258
+  Correct among answered                               : 230
+  Accuracy (answered only)                             : 89.15%
+  Accuracy (missing counted as incorrect)              : 85.19%
+
+Level 4:
+  Golden items (denominator for 'including missing') : 0
+  Answered (have final_answer)                          : 0
+  Correct among answered                               : 0
+  Accuracy (answered only)                             : N/A
+  Accuracy (missing counted as incorrect)              : N/A
+
+GLOBAL (WITHOUT figures):
+  Golden items total: 528
+  Answered total     : 510
+  Correct (answered) : 460
+  Accuracy (answered only)         : 90.20%
+  Accuracy (missing counted wrong) : 87.12%

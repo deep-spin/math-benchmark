@@ -78,15 +78,39 @@ class ChatModel:
         choice = completion.choices[0]
         message = choice.message
         content = getattr(message, "content", None)
-        if content is not None:
+        finish_reason = getattr(choice, "finish_reason", None)
+
+        # Do not retry if the model stopped due to length/token limit.
+        if finish_reason == "length":
             return {
                 "choice.message.content": content,
-                "finish_reason": getattr(choice, "finish_reason", None),
+                "finish_reason": finish_reason,
+                "model": getattr(completion, "model", None),
+                "usage": completion.usage.model_dump() if getattr(completion, "usage", None) else None,
+            }
+
+        # Treat empty or whitespace-only content as an error to trigger a retry.
+        # Some providers return "" with finish_reason=None; retrying often yields a valid answer.
+        if isinstance(content, str):
+            if content.strip():
+                return {
+                    "choice.message.content": content,
+                    "finish_reason": finish_reason,
+                    "model": getattr(completion, "model", None),
+                    "usage": completion.usage.model_dump() if getattr(completion, "usage", None) else None,
+                }
+            else:
+                raise ValueError("Received empty or whitespace-only content from API")
+        elif content is not None:
+            # Non-string content (e.g., structured outputs) – accept as-is
+            return {
+                "choice.message.content": content,
+                "finish_reason": finish_reason,
                 "model": getattr(completion, "model", None),
                 "usage": completion.usage.model_dump() if getattr(completion, "usage", None) else None,
             }
         else:
-            raise ValueError("Received empty content from API")
+            raise ValueError("Received null content from API")
 
 
 async def main():
