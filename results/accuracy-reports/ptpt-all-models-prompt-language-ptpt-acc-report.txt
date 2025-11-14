@@ -1,0 +1,63 @@
+=== With figures only ===
+
+Model: gpt-5
+  Level 1: 24/27 correct (88.89%)
+  Level 2: 49/54 correct (90.74%)
+  Level 3: 44/47 correct (93.62%)
+  Level 4: 8/9 correct (88.89%)
+
+Model: qwen3-14b
+  Level 1: 19/27 correct (70.37%)
+  Level 2: 44/54 correct (81.48%)
+  Level 3: 35/47 correct (74.47%)
+  Level 4: 8/9 correct (88.89%)
+
+Model: qwen3-235b-a22b
+  Level 1: 21/27 correct (77.78%)
+  Level 2: 43/54 correct (79.63%)
+  Level 3: 34/47 correct (72.34%)
+  Level 4: 8/9 correct (88.89%)
+
+Model: qwen3-30b-a3b
+  Level 1: 17/27 correct (62.96%)
+  Level 2: 38/54 correct (70.37%)
+  Level 3: 33/47 correct (70.21%)
+  Level 4: 8/9 correct (88.89%)
+
+Model: qwen3-32b
+  Level 1: 20/27 correct (74.07%)
+  Level 2: 39/54 correct (72.22%)
+  Level 3: 31/47 correct (65.96%)
+  Level 4: 8/9 correct (88.89%)
+
+=== Without figures ===
+
+Model: gpt-5
+  Level 1: 53/53 correct (100.00%)
+  Level 2: 114/118 correct (96.61%)
+  Level 3: 94/96 correct (97.92%)
+  Level 4: 22/22 correct (100.00%)
+
+Model: qwen3-14b
+  Level 1: 52/53 correct (98.11%)
+  Level 2: 110/118 correct (93.22%)
+  Level 3: 89/96 correct (92.71%)
+  Level 4: 18/22 correct (81.82%)
+
+Model: qwen3-235b-a22b
+  Level 1: 52/53 correct (98.11%)
+  Level 2: 107/118 correct (90.68%)
+  Level 3: 92/96 correct (95.83%)
+  Level 4: 21/22 correct (95.45%)
+
+Model: qwen3-30b-a3b
+  Level 1: 49/53 correct (92.45%)
+  Level 2: 104/118 correct (88.14%)
+  Level 3: 91/96 correct (94.79%)
+  Level 4: 18/22 correct (81.82%)
+
+Model: qwen3-32b
+  Level 1: 51/53 correct (96.23%)
+  Level 2: 104/118 correct (88.14%)
+  Level 3: 91/96 correct (94.79%)
+  Level 4: 21/22 correct (95.45%)
