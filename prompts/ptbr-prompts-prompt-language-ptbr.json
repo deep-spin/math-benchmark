@@ -2110,5 +2110,445 @@
   {
     "id": 1660,
     "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Mateus deseja pintar as casas de um tabuleiro $7 \\times 7$ de vermelho, de azul e de amarelo, da seguinte maneira:\n\n\\begin{enumerate}\n\\item Em cada linha, o número de casas vermelhas não pode ser menor que o número de casas com cada uma das outras cores.\n\n\\item Em cada coluna, o número de casas azuis não pode ser menor que o número de casas com cada uma das outras cores.\n\n\\item Todas as linhas e colunas devem conter casas das três cores.\n\\end{enumerate}\n\nA quantidade de casas que serão pintadas de vermelho e quantidade de casas que serão pintadas de amarelo, são respectivamente:\n\nA) 21 e 7\nB) 21 e 21\nC) 10 e 21\nD) 7 e 10\nE) 7 e 7\n"
+  },
+  {
+    "id": 1661,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $f : \\mathbb{N} \\to \\mathbb{N}$ uma função definida por \n$f(n) = \\begin{cases} 1, & \\text{se } n \\text{ é par} \\\\ 2, & \\text{se } n \\text{ é ímpar} \\end{cases}$ \nDefinindo $S(x) = \\sum_{n \\le x} f(n)$, podemos afirmar que $\\lim_{x \\to \\infty} \\frac{S(x)}{x}$ é igual a:\n\nA) $\\frac{1}{2}$\nB) $\\frac{2}{3}$\nC) $\\frac{3}{2}$\nD) $\\frac{3}{4}$\nE) $\\frac{4}{3}$\n"
+  },
+  {
+    "id": 1662,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A parte inteira do número real $x$ é o maior inteiro que não é maior que $x$ e é denotado por $\\lfloor x \\rfloor$. A parte fracionária do número real $x$ é o valor $\\{x\\} = x - \\lfloor x \\rfloor$. Podemos afirmar que o limite \n\\[ \\lim_{x \\to \\infty} \\left\\{ (e^x + \\pi^x)^{\\frac{1}{x}} \\right\\} \\]\né igual a:\n\nA) $e - 2$\nB) $\\frac{\\ln 2}{3}$\nC) $\\frac{\\ln 3}{2}$\nD) $\\pi - 3$\nE) $\\frac{\\pi - e}{2}$\n"
+  },
+  {
+    "id": 1663,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A cada número natural com 4 algarismos $n = (abcd)_{10}$ escrito na base 10, associamos o seguinte determinante \n\\[ A_n = \\begin{vmatrix} a^2 & b^2 \\\\ c^2 & d^2 \\end{vmatrix}. \\]\nSeja $A$ a soma de todos os determinantes associados a todos os números com 4 algarismos. Qual das alternativas abaixo é igual ao resto da divisão de $A$ por 7:\n\nA) 1\nB) 2\nC) 3\nD) 4\nE) 5\n"
+  },
+  {
+    "id": 1664,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considerando a sequência de Fibonacci \n$$f_1=1, f_2 = 1, \\text{ e } f_n = f_{n-1} + f_{n-2}, \\forall n \\geq 3$$\ne o operador linear $T: \\mathbb{R}^2 \\to \\mathbb{R}^2$ definido por $T((x,y) = (y,x+y)$, podemos afirmar que:\n\nA) $T^n(0,1) = (f_n, f_{n+1}), \\forall n \\in \\mathbb{N}$\nB) $T^n(0,1) = (f_{n+1}, f_n), \\forall n \\in \\mathbb{N}$\nC) $T^n(0,1) = (f_n^2, f_{n+1}^2), \\forall n \\in \\mathbb{N}$\nD) $T^n(0,1) = (f_{n+1}^2, f_{n}^2), \\forall n \\in \\mathbb{N}$\nE) $T^n(0,1) = (f_{n+1}, f_{n+2}), \\forall n \\in \\mathbb{N}$\n"
+  },
+  {
+    "id": 1665,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $A=\\begin{pmatrix} 4 & 3 \\\\ 8 & 4 \\end{pmatrix}$ e considere a sua 2024-ésima potência $B=A^{2024}$, uma matriz $2 \\times 2$ com entradas inteiras. O resto na divisão por 5 do traço de $B$ é (lembre que o traço de uma matriz quadrada é a soma dos elementos de sua diagonal principal):\n\nA) 0\nB) 1\nC) 2\nD) 3\nE) 4\n"
+  },
+  {
+    "id": 1666,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $\\mathcal{M}(n,\\mathbb{R})$, onde $n$ é um inteiro positivo, o conjunto das matrizes reais de ordem $n$ e $A,B \\in \\mathcal{M}(n,\\mathbb{R})$ tais que $AB-BA=A$. Podemos afirmar que:\n\nA) Todos os autovalores de $A$ são números complexos não reais\nB) A possui pelo menos um autovalor igual a 0\nC) Se $\\lambda$ é um autovalor de $A$ então a matriz $A-\\lambda I_n$ (onde $I_n$ é a matriz identidade de ordem $n$) é invertível\nD) Todos os autovalores de $A$ são números complexos de módulo 1\nE) $A$ é invertível\n"
+  },
+  {
+    "id": 1667,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $C$ a curva plana real de equação $y^3-x^2y+x=0$. Se $(x,y)$ se aproxima da origem $(0,0)$ ao longo de $C$, de qual valor a expressão $$E=\\frac{x^2-y^6}{x^4+y^{10}}$$ se aproxima?\n\nA) 0\nB) $-2$\nC) 1\nD) $-1$\nE) $E$ não se aproxima de nenhum número real\n"
+  },
+  {
+    "id": 1668,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $a_n$ a sequência dada por $a_n = \\cos(2\\pi\\cdot(4+2\\sqrt{3})^n)$ para $n \\in \\mathbb{N}$. Então $\\lim_{n\\rightarrow\\infty} a_n$ é\n\nA) $-1$\nB) $1$\nC) $1/2$\nD) $-\\sqrt{3}/2$\nE) não existe\n"
+  },
+  {
+    "id": 1669,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a função $T:\\mathbb{Z}^2 \\rightarrow \\mathbb{Z}^2$ dada por $T(x,y) = (7x+9y,2x+3y)$. Escolhendo-se aleatoriamente um ponto de $\\mathbb{Z}^2$, qual a probabilidade de que ele pertença à imagem de $T$?\n\nA) $1/2$\nB) $3/7$\nC) $1/9$\nD) $1/3$\nE) $7/9$\n"
+  },
+  {
+    "id": 1670,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Para todo inteiro $n > 0$, seja $p(n)$ o maior divisor ímpar de $n$. O valor da expressão $$p(2024)+p(2025)+p(2026)+\\ldots+p(4048)$$ é igual a:\n\nA) $2024 + 253$\nB) $2024^2 + 253$\nC) $2024^3 + 253$\nD) $2024^4 + 253$\nE) $2024^5 + 253$\n"
+  },
+  {
+    "id": 1671,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $f : (a,b) \\subset \\mathbb{R} \\rightarrow \\mathbb{R}$ uma função contínua e diferenciável tal que \n$$f(x) \\cdot f'(x) \\geq x \\sqrt{1 - (f(x))^4}, \\forall x \\in (a,b)$$\n$$\\lim_{x \\rightarrow a^+} (f(x))^2 = 1 \\text{ e } \\lim_{x \\rightarrow b^-} (f(x))^2 = \\frac{1}{2}$$\nO valor mínimo de $a^2 - b^2$ é\n\nA) 1\nB) $\\frac{\\pi}{3}$\nC) $\\frac{\\pi}{6}$\nD) $\\frac{\\pi}{2}$\nE) $\\pi$\n"
+  },
+  {
+    "id": 1672,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: De quantas formas distintas 30 bolas de tênis idênticas podem ser distribuídas entre 6 tenistas, de modo que cada tenista receba pelo menos 3 bolas?\n\nA) $1286$\nB) $2894$\nC) $4032$\nD) $6188$\nE) $8744$\n"
+  },
+  {
+    "id": 1673,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Um transmissor $E$ transmite informação binária (ou seja, assumindo apenas o valor 0 ou o valor 1), um receptor $R$ recebe esta informação que pode ou não estar em conformidade com a informação transmitida por $E$. Qualquer que seja a informação emitida por $E$ (0 ou 1), a probabilidade de a informação recebida por $R$ ser consistente com a informação emitida por $E$ é igual a $p$ com $0<p<1$ e a probabilidade de a informação recebida por $R$ não estar em conformidade com a informação transmitida é igual a $1 - p$. Supõe-se que a informação binária é transmitida ao longo de uma cadeia de $n+1$ transmissores eletrônicos $E_0, E_1,\\ldots,E_n$, onde Cada elemento $E_k$ é sucessivamente receptor e depois transmissor, exceto o primeiro elemento $E_0$ que é apenas transmissor e o último elemento $E_n$ que é apenas receptor, que a informação transmitida por um transmissor é sempre idêntica à recebida e que para todo $k = 0,1,\\ldots,n$ , a transmissão de informação do elemento $E_k$ para o próximo elemento $E_{k+1}$ segue a lei definida acima. Assumindo que\n- A qualidade da transmissão de um elemento $E_k$ para o próximo elemento $E_{k+1}$ não depende do que aconteceu durante transmissões anteriores.\n- $A_k(0 \\le k \\le n)$ é evento em que o valor recebido por $E_k$ é idêntico ao emitido por $E_0$, e designando sua probabilidade de ocorrência por $p_k$ e definindo $p_0=1$.\nPodemos afirmar que:\n\nA) $\\lim_{k\\to\\infty} p_k = \\frac{1}{2}$\nB) $\\lim_{k\\to\\infty} p_k = \\frac{2}{3}$\nC) $\\lim_{k\\to\\infty} p_k = \\frac{1}{3}$\nD) $\\lim_{k\\to\\infty} p_k = \\frac{3}{8}$\nE) $\\lim_{k\\to\\infty} p_k = \\frac{7}{9}$\n"
+  },
+  {
+    "id": 1674,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Se $m$ e $n$ são inteiros positivos tais que $m = 6^n - 7771$. Se $m$ é primo, podemos afirmar que:\n\nA) $m=n$\nB) $m=n+5$\nC) $m=n+7$\nD) $m=n+11$\nE) $m=n+13$\n"
+  },
+  {
+    "id": 1675,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Qual o número de pares ordenados $(a,b)$ de inteiros positivos $a,b$ tais que as seguintes condições sejam simultaneamente satisfeitas?\n\n(i) $a \\mid 6000$;\n\n(ii) $1 \\leq b \\leq \\frac{6000}{a}$;\n\nA) 10600\nB) 12400\nC) 12000\nD) 15800\nE) 14400\n"
+  },
+  {
+    "id": 1676,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $r(x)$ o polinômio que é o resto na divisão de $x^{2050}$ por $x^5 + x^2 + 1$. Quantos coeficientes ímpares possui $r(x)$?\n\nA) 0\nB) 1\nC) 2\nD) 3\nE) 4\n"
+  },
+  {
+    "id": 1677,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a família de parábolas \n\n$\\mathcal{F}_a:=\\{(x,y) \\in \\mathbb{R}^2 \\mid y=x^2 + 2ax + a, a \\in \\mathbb{R}\\}$\n\nCom respeito às família $\\mathcal{F}_a$, quando $a$ percorre o conjunto dos números reais, podemos afirmar que:\n\nA) Não existe nenhum ponto que seja comum a todas as parábolas da família $\\mathcal{F}_a$\nB) Os vértices de todas as parábolas de $\\mathcal{F}_a$ pertencem à parábola de equação $y = -x^2$\nC) O ponto $P = \\left(-\\frac{1}{2},-\\frac{1}{4}\\right)$ é o único ponto comum à todas as parábolas da família $\\mathcal{F}_a$\nD) Para cada $a \\in \\mathbb{R} \\setminus \\{0\\}$, $\\mathcal{F}_{-a}$ é uma família parábolas que são simétricas em relação à origem das palábolas que compõem À família $\\mathcal{F}_a$\nE) Os vértices de todas as parábolas de $\\mathcal{F}_a$ pertencem à parábola de equação $y = -x^2 - x$\n"
+  },
+  {
+    "id": 1678,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $f : \\mathbb{R} \\to \\mathbb{R}$ uma função tal que $\\lim_{x \\to \\infty} f(x)(2-f(x))= 1$, então $\\lim_{x \\to \\infty} f(x)$ é igual a:\n\nA) 1\nB) 2\nC) $\\frac{1}{2}$\nD) $\\frac{3}{4}$\nE) $\\frac{1}{5}$\n"
+  },
+  {
+    "id": 1679,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $\\alpha$ e $\\beta$ são as raízes distintas da equação $ax^2 + bx + c = 0$. Então $\\lim_{x\\rightarrow\\alpha} \\frac{1-\\cos (ax^2+bx+c)}{(x-\\alpha)^2}$ é igual a:\n\nA) $0$\nB) $\\frac{a^2}{2}(\\alpha - \\beta)^2$\nC) $\\frac{1}{2}(\\alpha - \\beta)^2$\nD) $-\\frac{a^2}{2}(\\alpha - \\beta)^2$\nE) $1$\n"
+  },
+  {
+    "id": 1680,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: O limite $\\lim_{x\\rightarrow 0} \\frac{1}{x}[\\log_3 2 - \\log_3 (2+x)]$ é igual a:\n\nA) $-\\frac{1}{\\ln 9}$\nB) $1$\nC) $0$\nD) $\\ln 3$\nE) $-\\frac{3}{4}$\n"
+  },
+  {
+    "id": 1681,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Com as letras $\\text{E} , \\text{L} , \\text{O} , \\text{N}$ vamos formar sequências de $2023$ letras de modo que não hajam duas letras $\\text{E}$ consecutivas. A quantidade de dessas sequências é:\n\nA) $\\left(\\frac{63-15\\sqrt{21}}{126}\\right) \\left(\\frac{3-\\sqrt{21}}{2}\\right)^{2023} + \\left(\\frac{63+15\\sqrt{21}}{126}\\right) \\left(\\frac{3+\\sqrt{21}}{2}\\right)^{2023}$\nB) $\\left(\\frac{-63-15\\sqrt{21}}{126}\\right) \\left(\\frac{3-\\sqrt{21}}{2}\\right)^{2023} + \\left(\\frac{-63+15\\sqrt{21}}{126}\\right) \\left(\\frac{3+\\sqrt{21}}{2}\\right)^{2023}$\nC) $\\left(\\frac{42-15\\sqrt{21}}{126}\\right) \\left(\\frac{3-\\sqrt{21}}{2}\\right)^{2023} + \\left(\\frac{42+15\\sqrt{21}}{126}\\right) \\left(\\frac{3+\\sqrt{21}}{2}\\right)^{2023}$\nD) $\\left(\\frac{-31+5\\sqrt{29}}{42}\\right) (7-\\sqrt{17})^{2023} + \\left(\\frac{31+5\\sqrt{29}}{42}\\right) (7+\\sqrt{17})^{2023}$\nE) $\\left(\\frac{-19+5\\sqrt{23}}{21}\\right) (5-\\sqrt{19})^{2023} + \\left(\\frac{19+5\\sqrt{23}}{21}\\right) (5+\\sqrt{19})^{2023}$\n"
+  },
+  {
+    "id": 1682,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considera a recursão dada por \n$a_0=2, a_1=4, \\quad a_{n+2}=4 a_{n+1}-a_n$ para $n \\geq 0$ \nEntão $a_n$ nunca é múltiplo de\n\nA) $13$\nB) $17$\nC) $31$\nD) $79$\nE) $97$\n"
+  },
+  {
+    "id": 1683,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $E = \\mathbb{R}_n[X]$ o espaço vetorial dos polinômios na variável $X$, coeficientes reais e de grau menor do que ou igual a $n$. Definindo a aplicação\n\n$$\\Phi : \\mathbb{R}_n[X] \\rightarrow \\mathbb{R}_n[X]$$\n\n$$P \\mapsto \\Phi(P) = (X - 1) \\cdot P'(x)$$\n\nonde $P'(X)$ representa da derivada do polinômio $P(X)$ em relação à variável $X$. Se $\\alpha = \\{1, X, X^2, ..., X^{n-1}\\}$ é a base canônica do $\\mathbb{R}$-espaço vetorial $E$, podemos afirmar que:\n\nA) $\\Phi$ é diagonalizável\nB) Os autovalores de $\\Phi$ pertencem ao conjunto $\\{n+1, n+2, ..., 2n\\}$\nC) $\\det(\\Phi) = n^2$\nD) $\\{X, X-1, (X-1)^2, ..., (X-1)^n\\}$ são autovetores de $\\Phi$\nE) A matriz do operador $\\Phi$ em relação à base $\\alpha$ é a matriz\n"
+  },
+  {
+    "id": 1684,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Denote por $R_\\theta: \\mathbb{R}^2 \\rightarrow \\mathbb{R}^2$ a rotação do plano $\\mathbb{R}^2$ no sentido anti-horário com centro na origem $(0,0)$ e ângulo $\\theta$ e por $S: \\mathbb{R}^2 \\rightarrow \\mathbb{R}^2$ a reflexão com relação ao eixo $y$. Então a composição \n\n$$R_{30^\\circ} \\circ S \\circ R_{60^\\circ} \\circ S \\circ S \\circ S \\circ R_{15^\\circ} \\circ S \\circ R_{45^\\circ}$$\né uma\n\nA) rotação $R_{45^\\circ}$\nB) reflexão com relação à reta $y = x$\nC) reflexão com relação à reta $y = x\\sqrt{3}$\nD) rotação $R_{-45^\\circ}$\nE) reflexão com relação à reta $y = x + 1$\n"
+  },
+  {
+    "id": 1685,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $M (n \\times n, \\mathbb{R})$ o conjunto das matrizes de ordem $n$ com entradas reais e \n   \n   $\\mathbb{B} :=\\{A \\in M(n \\times n, \\mathbb{R}) ; a_{ij} \\in\\{-1,1\\}, \\forall 1 \\leq i, j \\leq n\\}$.\n   Se $S = \\sum_{A\\in \\mathbb{B}} \\det(A)$, podemos afirmar que:\n\nA) $S = -1.$\nB) $S = 1.$\nC) $S = 0.$\nD) $S = 2^n.$\nE) $S = \\frac{n}{2}.$\n"
+  },
+  {
+    "id": 1686,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $V$ um subespaço vetorial de $\\mathbb{R}^3$. Uma transformação linear $P: \\mathbb{R}^3 \\rightarrow \\mathbb{R}^3$ é uma projeção de $\\mathbb{R}^3$ sobre $V$ se ela satisfaz $P^2=P$ e a imagem de $P$ é $V$. Se $T:\\mathbb{R}^3 \\rightarrow \\mathbb{R}^3$ é a transformação linear dada na base canônica pela matriz \n\n$$\n\\begin{pmatrix}\n5 & 28 & -19 \\\\\n0 & 7 & -2 \\\\\n0 & 6 & 0 \\\\\n\\end{pmatrix}\n$$\nentão qual das alternativas a seguir é uma projeção de $\\mathbb{R}^3$ sobre o subespaço gerado pelo vetor $(1,2,3)$? Aqui $I$ denota a identidade.\n\nA) $P = -15I + 8T - T^2$\nB) $P = -11I + 7T - T^2$\nC) $P = -10I + 6T - T^2$\nD) $P = -4I + 5T - T^2$\nE) $P = -I + 12T - T^2$\n"
+  },
+  {
+    "id": 1687,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A integral definida $\\int_{0}^{1} \\frac{x^e}{x} (e + x) dx$ é igual a:\n\nA) $1.$\nB) $\\ln 2.$\nC) $e.$\nD) $\\frac{1}{e}.$\nE) $2^e.$\n"
+  },
+  {
+    "id": 1688,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Com respeito a série $\\sum_{n=0}^{\\infty} a_n$, onde $a_n = \\int_{n \\pi}^{(n+1) \\pi} e^{-x} \\sen x dx$, podemos afirmar que:\n\nA) É convergente e sua soma é $\\frac{1}{2}$\nB) É convergente e sua soma é $\\frac{1}{4}$\nC) É convergente e sua soma é $\\frac{3}{2}$\nD) É convergente e sua soma é $\\frac{3}{5}$\nE) É divergente\n"
+  },
+  {
+    "id": 1689,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Uma capivara se locomove às margens de um rio, que estão cobertas de lama. A lama fica mais pegajosa quanto mais próxima do rio, de modo que a cada instante a velocidade da capivara é diretamente proporcional à sua distância ao rio. Suponha que, num modelo no plano $\\mathbb{R}^2$, o rio se encontra sobre o eixo $x$ e que a capivara quer ir do ponto $(0,2)$ ao ponto $(1,\\sqrt{3})$ utilizando um de dois trajetos, o primeiro em linha reta $L$, e o segundo seguindo o arco $C$ de circunferência com centro na origem $(0,0)$ que liga os dois pontos. A razão entre os tempos gastos para percorrer os trajetos $L$ e $C$, nesta ordem, é\n\nA) $\\sqrt{3}$\nB) $(\\sqrt{2}+\\sqrt{6}) \\cdot \\log_3(4/3)$\nC) $2\\sqrt{2}+\\ln(3)$\nD) $\\ln(3)+\\sqrt{3}$\nE) $\\sqrt{3} \\cdot \\ln(2)$\n"
+  },
+  {
+    "id": 1690,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere um polígono regular com $2023$ lados de comprimento $2$ e sejam $P_1,\\ldots,P_{2023}$ seus vértices. Seja $Q$ um ponto que está a uma distância $1000$ do centro deste polígono. Então a soma $QP_1^2+QP_2^2+\\cdots+QP_{2023}^2$ é igual a\n\nA) depende da posição do ponto $Q$\nB) $2023 \\cdot (1000^2 + \\csc^2 \\frac{\\pi}{2023})$\nC) $2023 \\cdot (1000^2 + \\cos^2 \\frac{\\pi}{2023})$\nD) $2023 \\cdot (1000^2 + \\cos \\frac{2\\pi}{2023})$\nE) $2023 \\cdot (1000^2 + \\sec \\frac{2\\pi}{2023})$\n"
+  },
+  {
+    "id": 1691,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere duas moedas $A$ e $B$ tais que na moeda $A$ a probabilidade de sair cara é $\\frac{1}{4}$, enquanto que na moeda $B$ a probabilidade de sair cara é $\\frac{1}{2}$. Escolhe-se uma dessas duas moedas ao caso e a arremessa. Se sair cara essa mesma moeda será arremessada novamente, caso contrário será arremessada a outra moeda. Para cada inteiro positivo $n$, seja $p_n$ a probabilidade de que a moeda lançada no $n$-ésimo arremesso seja a moeda $A$. Podemos afirmar que:\n\nA) $p_n = \\frac{2}{5} - \\frac{1}{10} \\left(-\\frac{1}{4}\\right)^{n-1}$\nB) $p_n = \\frac{2}{5} + \\frac{1}{10} \\left(-\\frac{1}{4}\\right)^{n-1}$\nC) $p_n = \\frac{2}{5} + \\frac{1}{10} \\left(\\frac{1}{4}\\right)^{n-1}$\nD) $p_n = \\frac{1}{10} \\left(-\\frac{1}{4}\\right)^{n-1}$\nE) $p_n = -\\frac{2}{5} + \\frac{1}{10} \\left(-\\frac{1}{4}\\right)^{n-1}$\n"
+  },
+  {
+    "id": 1692,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $$ A=\\begin{pmatrix} 1 & 2 & \\dots & 1000 \\\\ 1001 & 1002 & \\dots & 2000 \\\\ \\vdots & \\ddots & \\vdots & \\\\ 999001 & 999002 & \\dots & 1000^2 \\end{pmatrix}. $$ Escolha qualquer entrada e a denote por $x_1$. Em seguida, apague a linha e a coluna contendo $x_1$ para obtermos uma matriz $999\\times999$. Então escolha qualquer entrada e a denote por $x_2$. Apague a linha e a coluna contendo $x_2$ para obter uma matriz $998\\times998$. Realize essa operação 1000 vezes. Determine o valor da soma $$ x_1+x_2+\\dots+x_{1000}. $$\n\nA) 1000\nB) $\\frac{1000^3+1000}{2}$\nC) $1000^2$\nD) $\\frac{1000^2+1000}{2}$\nE) $\\frac{1001}{2}$\n"
+  },
+  {
+    "id": 1693,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Quantos termos racionais aparecem na expansão binomial de $(\\sqrt[4]{2}+\\sqrt{6})^{100}$?\n\nA) 16\nB) 17\nC) 66\nD) 33\nE) 50\n"
+  },
+  {
+    "id": 1694,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $f :\\{1,2,...\\} \\to \\mathbb{R}$ uma função tal que $f(n) - f(n + 1) = f(n) f(n+1)$ para todo $n \\geq 1$. Sabendo que $f(2020) = \\frac{1}{4040}$, o valor de $f(1)$ é:\n\nA) $\\frac{1}{2}$\nB) $\\frac{1}{4040}$\nC) $\\frac{1}{2021}$\nD) $1$\nE) $\\frac{1}{2020}$\n"
+  },
+  {
+    "id": 1695,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a sequência $a_n$ definida por $a_1 = 2$ e para todo $n \\in \\mathbb{N}$ \n$a_{n+1} =(a_n)^2 +6a_n +6$.\nDetermine o resto de $a_{100}$ na divisão por $7$.\n\nA) $0$\nB) $1$\nC) $2$\nD) $3$\nE) $4$\n"
+  },
+  {
+    "id": 1696,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere o número real, escrito em notação decimal,\n$r = 0,235831 \\ldots$ \nem que, a partir da terceira casa decimal após a vírgula, todo dígito é igual ao resto na divisão por 10 da soma dos dois dígitos anteriores. Podemos afirmar que\n\nA) $(10^{60} - 1) \\cdot r$ é inteiro\nB) $(10^{25} - 1) \\cdot r$ é inteiro\nC) $(10^{17} - 1) \\cdot r$ é inteiro\nD) $r$ é irracional algébrico\nE) $r$ é irracional não algébrico (Lembre que um número complexo é dito algébrico se ele é raiz de um polinômio não nulo com coeficientes inteiros)\n"
+  },
+  {
+    "id": 1697,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a sequência $a_n$ definida por $a_1 = 337$ e, para $n > 1$,\n$a_n = \\frac{n^2}{n^2+n-2} a_{n-1}$.\nDetermine $\\lim_{n\\to\\infty}(2020+n)a_n$.\n\nA) $337$\nB) $674$\nC) $1011$\nD) $2022$\nE) $4044$\n"
+  },
+  {
+    "id": 1698,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Encontre o valor de \n\\[ \\int_{0}^{1} \\left( \\sum_{k=0}^{\\infty} (x^{3k+1} - x^{3k+2}) \\right) dx. \\]\n\nA) 1\nB) $\\frac{\\sqrt{3}}{2}$\nC) $\\frac{\\ln 2}{2}$\nD) $\\frac{\\ln 3}{2}$\nE) $\\frac{\\ln 3}{2} - \\frac{\\sqrt{3} \\pi}{18}$\n"
+  },
+  {
+    "id": 1699,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Calcule $\\lim_{x\\to\\infty} (\\sen(\\sqrt{x+1}) - \\sen(\\sqrt{x}))$.\n\nA) $+\\infty$\nB) $-\\infty$\nC) $0$\nD) $1/2$\nE) $1$\n"
+  },
+  {
+    "id": 1700,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Em uma moeda viciada, a probabilidade de se obter cara é $1/5$. Um jogador lança sucessivamente esta moeda até obter duas caras consecutivas. Qual é o número esperado de tais lançamentos?\n\nA) $10$\nB) $25$\nC) $30$\nD) $40$\nE) $64$\n"
+  },
+  {
+    "id": 1701,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $f_1(x) = x^2+4x+2$, e para $n \\geq 2$, seja $f_n(x)$ a $n$-ésima composição do polinômio $f_1(x)$ consigo mesmo. Por exemplo, $f_2(x) = f_1(f_1(x))= x^4 + 8x^3 + 24x^2 + 32x + 14$. Seja $s_n$ a soma dos coeficientes dos termos de grau par de $f_n(x)$. Por exemplo, $s_2=1+24+14 = 39$. Encontre o valor de $s_{2020}$\n\nA) $0$\nB) $12357$\nC) $2^{3^{2019}}$\nD) $3^{2021}+3\\cdot2^{2020}$\nE) $\\frac{3^{2020}-3}{2}$\n"
+  },
+  {
+    "id": 1702,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a curva plana $E$ de equação $y^2=4x^3-4x^2+1$ e a função $T:E \\rightarrow E$ a seguir. Dado um ponto $P \\in E$, seja $r$ a reta tangente a $E$ no ponto $P$; se $r$ intercepta $E$ em dois pontos, defina $T(P) \\in E$ como sendo o ponto de interseção distinto de $P$, caso contrário defina $T(P) = P$. Sendo $P_0 = (0,1)$ e $P_{n+1}=T(P_n)$ para $n \\geq 0$, então\n\nA) $P_{2021}=(0,-1)$\nB) $P_{2021}=(0,1)$\nC) $P_{2021}=(1,1)$\nD) $P_{2021}=(1/2,\\sqrt{2}/2)$\nE) $P_{2021}=(1,-1)$\n"
+  },
+  {
+    "id": 1703,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Encontre o número de inteiros positivos $n$ menores que $2020$ tais que o polinômio $(x^4-1)^n + (x^2-x)^n$ seja divisível por $x^5 - 1$.\n\nA) $202$\nB) $201$\nC) $1010$\nD) $2020$\nE) $20$\n"
+  },
+  {
+    "id": 1704,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $Q_8=\\{\\pm1,\\pm i, \\pm j, \\pm k\\}$ o grupo dos quatérnios, cujo produto (não comutativo) é determinado pelas equações: $i^2=j^2=k^2=ijk=-1$. Escolhendo-se aleatoriamente e independentemente dois elementos $a,b \\in Q_8$ (não necessariamente distintos), qual é a probabilidade de que $ab=ba$?\n\nA) $5/16$\nB) $3/8$\nC) $1/2$\nD) $5/8$\nE) $3/4$\n"
+  },
+  {
+    "id": 1705,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sobre o número $\\theta = \\cos(2\\pi/11)$, podemos afirmar que\n\nA) é raiz do polinômio $8x^3+4x^2-4x-1$\nB) é raiz do polinômio $x^5+x^4+x^3+x^2+x+1$\nC) é raiz do polinômio $32x^5+16x^4-32x^3-12x^2+6x+1$\nD) $\\theta$ não é algébrico\nE) é raiz do polinômio $32x^5-26x^4+11x^3+6x^2-1$\n"
+  },
+  {
+    "id": 1706,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Para um inteiro positivo $n$, considere todas as funções não crescentes $f: \\{1,2,...,n\\} \\rightarrow \\{1,2,...,n\\}$. Algumas delas possuem pontos fixos, i.e., admitem $c$ tal que $f(c) = c$, enquanto algumas outras não possuem tal propriedade. Determine a diferença entre os tamanhos desses dois conjuntos de funções.\n\nA) $\\binom{2n-2}{n-2}$\nB) $\\binom{2n-1}{n-2}$\nC) $\\binom{2n}{n}$\nD) $\\frac{1}{n} \\cdot \\binom{2n-1}{n-1}$\nE) $n^2$\n"
+  },
+  {
+    "id": 1707,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Tardigrados, também conhecidos como ursos d'água, são os únicos animais nativos do planeta Terra capazes de sobreviver às condições do espaço extraterrestre sem a ajuda de equipamentos de que se tem conhecimento (para saber mais, veja por exemplo o artigo na Wikipedia). Neste exercício, um tardigrado anda no plano $\\mathbb{R}^2$, saindo da origem $(0,0)$ e andando $1$ unidade até $(1,0)$; em seguida, ele vira para a esquerda $80^{\\circ}$ e anda mais $1/2$ unidade até $\\left(1 + \\frac{\\cos 80^{\\circ}}{2}, \\frac{\\sin 80^{\\circ}}{2}\\right)$; em seguida, vira novamente para a esquerda $80^{\\circ}$ e anda mais $1/4$ unidade; em seguida, vira para a esquerda $80^{\\circ}$ novamente e anda mais $1/8$ unidade e assim por diante, sempre virando à esquerda $80^{\\circ}$ e andando metade da distância que andou na vez anterior. Eventualmente ele convergirá a um ponto. Qual?\n\nA) $\\left(\\frac{4 + \\cos 80^{\\circ}}{3 - 2 \\cos 80^{\\circ}}, \\frac{\\sin 80^{\\circ}}{3 - 2 \\cos 80^{\\circ}}\\right)$\nB) $\\left(\\frac{2 \\cos 80^{\\circ}}{5 - 4 \\cos 80^{\\circ}}, \\frac{\\sin 80^{\\circ}}{5 - 4 \\cos 80^{\\circ}}\\right)$\nC) $\\left(\\frac{1 - \\sin 80^{\\circ}}{1 - \\sin 80^{\\circ}}, \\frac{\\cos 80^{\\circ}}{1 - \\sin 80^{\\circ}}\\right)$\nD) $\\left(\\frac{4 - 2 \\cos 80^{\\circ}}{5 - 4 \\cos 80^{\\circ}}, \\frac{2 \\sin 80^{\\circ}}{5 - 4 \\cos 80^{\\circ}}\\right)$\nE) $\\left(\\frac{4 - 2 \\sin 80^{\\circ}}{5 - 4 \\sin 80^{\\circ}}, \\frac{2 \\cos 80^{\\circ}}{5 - 4 \\sin 80^{\\circ}}\\right)$\n"
+  },
+  {
+    "id": 1708,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: O limite \n$$\\lim_{n \\to \\infty} \\frac{\\left(\\sum_{k=1}^{n} \\frac{1}{k^{1/k}}\\right)}{n}$$\né dado por:\n\nA) $1$\nB) $2$\nC) $\\pi$\nD) $\\pi^2/6$\nE) $e$\n"
+  },
+  {
+    "id": 1709,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Para cada inteiro positivo $n$, seja \n$$I_n = \\frac{1}{2} \\int_{-\\pi/2}^{\\pi/2} \\sin(2nx) \\tan(x) dx.$$\nSe $I_1 = A$ e $I_2 = B$, então $I_{2020}$ vale\n\nA) $A + B$\nB) $A$\nC) $B$\nD) $A - B$\nE) $2B$\n"
+  },
+  {
+    "id": 1710,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Uma cônica é uma curva em $\\mathbb{R}^2$ da forma $\\{(x,y) \\in \\mathbb{R}^2 \\mid ax^2 + bxy + cy^2 + dx + ey + f = 0\\}$, onde $a,b,c,d,e,f$ não são todos nulos (alguns de seus exemplos são elipses, hipérboles e parábolas). São fixados três pontos distintos no plano e duas retas não coincidentes. Quantas cônicas, no máximo, contêm os três pontos e são tangentes às duas retas?\n\nA) 2\nB) 3\nC) 4\nD) 5\nE) 6\n"
+  },
+  {
+    "id": 1711,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Qual é o menor grau de um polinômio $p(x)$, mônico e de coeficientes inteiros, de modo que $p(n)$ seja múltiplo de 2021 para todo inteiro positivo $n$?\n\nA) 43\nB) 44\nC) 45\nD) 46\nE) 47\n"
+  },
+  {
+    "id": 1712,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A quantidade de soluções da equação $y^2 = x^3$ (uma curva elíptica singular) em $\\mathbb{Z}/57\\mathbb{Z}$ é igual a:\n\nA) 1\nB) 3\nC) 19\nD) 36\nE) 57\n"
+  },
+  {
+    "id": 1713,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a transformação linear $T: \\mathbb{C}^3 \\rightarrow \\mathbb{C}^3$ dada na base standard pela matriz\n$$\n\\left(\\begin{array}{ccc}\n1/10 & 71/10 & -29/10 \\\\\n3/2 & -1/2 & 3/2 \\\\\n7/5 & -18/5 & 22/5\n\\end{array}\\right)\n$$\ncujo polinômio característico é $p(x) = (x-3)^2(x+2)$. Seja $V = \\{\\mathbf{v} \\in \\mathbb{C}^3 | T\\mathbf{v}=-2\\mathbf{v}\\}$ o autoespaço associado ao autovalor $-2$. Qual das seguintes transformações lineares $\\pi: \\mathbb{C}^3 \\rightarrow \\mathbb{C}^3$ é uma projeção sobre $V$ (ou seja, $\\pi(\\mathbb{C}^3) = V$ e formações lineares $\\pi = \\pi^2$)? Aqui, $I: \\mathbb{C}^3 \\rightarrow \\mathbb{C}^3$ denota a identidade.\n\nA) $\\pi = \\frac{1}{25}(T^2 - 6T + 9I)$\nB) $\\pi = \\frac{1}{25}(-T^2 + 6T + 16I)$\nC) $\\pi = T^2 - T - 6I$\nD) $\\pi = \\frac{1}{3}(T^2 + 6T + 16I)$\nE) $\\pi = \\frac{1}{3}(-T^2 - 5T + 2I)$\n"
+  },
+  {
+    "id": 1714,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A soma das raízes da equação em $\\mathbb{C}$, $z^8 -17z^4 + 16 = 0$, tais que $z -|z| = 0$, é\n\nA ( ) 1.\n\nB ( ) 2.\n\nC ( ) 3.\n\nD ( ) 4.\n\nE ( ) 5.\n\nA) $\nB) $\nC) $\nD) $\nE) $\n"
+  },
+  {
+    "id": 1715,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a equação em $\\mathbb{C}$, $(z - 5 + 3i)^4 = 1$. Se $z_0$ é a solução que apresenta o menor argumento principal dentre as quatro soluções, então o valor de $|z_0|$ é\n\nA ( ) $\\sqrt{29}$.\n\nB ( ) $\\sqrt{41}$.\n\nC ( ) $3\\sqrt{5}$.\n\nD ( ) $4\\sqrt{3}$.\n\nE ( ) $3\\sqrt{6}$.\n\nA) $\\sqrt{29}$\nB) $\\sqrt{41}$\nC) $3\\sqrt{5}$\nD) $4\\sqrt{3}$\nE) $3\\sqrt{6}$\n"
+  },
+  {
+    "id": 1716,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A soma de todos os números reais $x$ que satisfazem a equação\n\n$8^{\\sqrt{x+1}} + 44 \\left(2^{\\sqrt{x+1}}\\right) + 64 = 19 \\left(4^{\\sqrt{x+1}}\\right)$\n\né igual a\n\nA ( ) 8.\n\nB ( ) 12.\n\nC ( ) 16.\n\nD ( ) 18.\n\nE ( ) 20.\n\nA) $\nB) 1$\nC) 1$\nD) 1$\nE) 2$\n"
+  },
+  {
+    "id": 1717,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Se os números reais $a$ e $b$ satisfazem, simultaneamente, as equações\n\n$\\sqrt{a \\sqrt{b}} = \\frac{1}{2} \\quad \\text{e} \\quad \\ln(a^2+b) + \\ln 8 = \\ln 5,$\n\num possível valor de $\\frac{a}{b}$ é\n\nA ( ) $\\frac{\\sqrt{2}}{2}$.\n\nB ( ) 1.\n\nC ( ) $\\sqrt{2}$.\n\nD ( ) 2.\n\nE ( ) $3\\sqrt{2}$.\n\nA) $\\frac{\\sqrt{2}}{2}$\nB) $\nC) $\\sqrt{2}$\nD) $\nE) $3\\sqrt{2}$\n"
+  },
+  {
+    "id": 1718,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere as funções $f$ e $g$, da variável real $x$, definidas, respectivamente, por\n\n$f(x) = e^{x^2 + ax + b} \\quad \\text{e} \\quad g(x) = \\ln \\left(\\frac{ax}{3b}\\right)$,\n\nem que $a$ e $b$ são números reais. Se $f(-1) = 1 = f(-2)$, então pode-se afirmar sobre a função composta $g \\circ f$ que\n\nA ( ) $g \\circ f(1) = \\ln 3$.\n\nB ( ) $\\nexists g \\circ f(0)$.\n\nC ( ) $g \\circ f$ nunca se anula.\n\nD ( ) $g \\circ f$ está definida apenas em $\\{x \\in \\mathbb{R}: x > 0\\}$.\n\nE ( ) $g \\circ f$ admite dois zeros reais distintos.\n\nA) $g \\circ f(1) = \\ln 3$\nB) $\\nexists g \\circ f(0)$\nC) $g \\circ f$ nunca se anul$\nD) $g \\circ f$ está definida apenas em $\\{x \\in \\mathbb{R}: x > 0\\}$\nE) $g \\circ f$ admite dois zeros reais distinto$\n"
+  },
+  {
+    "id": 1719,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere funções $f, g, f + g: \\mathbb{R} \\rightarrow \\mathbb{R}$. Das afirmações:\n\nI. Se $f$ e $g$ são injetoras, $f + g$ é injetora;\n\nII. Se $f$ e $g$ são sobrejetoras, $f + g$ é sobrejetora;\n\nIII. Se $f$ e $g$ não são injetoras, $f + g$ não é injetora;\n\nIV. Se $f$ e $g$ não são sobrejetoras, $f + g$ não é sobrejetora,\n\né (são) verdadeira(s)\n\nA ( ) nenhuma.\n\nB ( ) apenas I e II.\n\nC ( ) apenas I e III.\n\nD ( ) apenas III e IV.\n\nE ( ) todas.\n\nA) nenhum$\nB) apenas I e I$\nC) apenas I e II$\nD) apenas III e I$\nE) toda$\n"
+  },
+  {
+    "id": 1720,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $n > 6$ um inteiro positivo não divisível por 6. Se, na divisão de $n^2$ por 6, o quociente é um número ímpar, então o resto da divisão de $n$ por 6 é\n\nA ( ) 1.\n\nB ( ) 2.\n\nC ( ) 3.\n\nD ( ) 4.\n\nE ( ) 5.\n\nA) $\nB) $\nC) $\nD) $\nE) $\n"
+  },
+  {
+    "id": 1721,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere a equação $\\sum_{n=0}^{5} a_n x^n = 0$ em que a soma das raízes é igual a  $-2$ e os coeficientes $a_0, a_1, a_2, a_3, a_4$ e $a_5$ formam, nesta ordem, uma progressão geométrica com $a_0 = 1$. Então $\\sum_{n=0}^{5} a_n$ é igual a\n\nA ( ) $-21$.\n\nB ( ) $-\\frac{2}{3}$.\n\nC ( ) $\\frac{21}{32}$.\n\nD ( ) $\\frac{63}{32}$.\n\nE ( ) $63$.\n\nA) $-21$\nB) $-\\frac{2}{3}$\nC) $\\frac{21}{32}$\nD) $\\frac{63}{32}$\nE) $63$\n"
+  },
+  {
+    "id": 1722,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $\\lambda$ solução real da equação $\\sqrt{\\lambda+9} + \\sqrt{2\\lambda+17} = 12$. Então a soma das soluções $z$, com $\\mathrm{Re} z > 0$, da equação $z^4 = \\lambda - 32$, é\n\nA ( ) $\\sqrt{2}$.\n\nB ( ) $2\\sqrt{2}$.\n\nC ( ) $4\\sqrt{2}$.\n\nD ( ) $4$.\n\nE ( ) $16$.\n\nA) $\\sqrt{2}$\nB) $2\\sqrt{2}$\nC) $4\\sqrt{2}$\nD) $4$\nE) $16$\n"
+  },
+  {
+    "id": 1723,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $p$ uma probabilidade sobre um espaço amostral finito $\\Omega$. Se $A$ e $B$ são eventos de $\\Omega$ tais que $p(A) = \\frac{1}{2}$, $p(B) = \\frac{1}{3}$ e $p(A \\cap B) = \\frac{1}{4}$, as probabilidades dos eventos $A \\cap B$, $A \\cup B$ e $A^C \\cup B^C$ são, respectivamente\n\nA) $\\frac{1}{4}$; $\\frac{5}{6}$ e $\\frac{1}{4}$\nB) $\\frac{1}{6}$; $\\frac{5}{6}$ e $\\frac{1}{4}$\nC) $\\frac{1}{6}$; $\\frac{7}{12}$ e $\\frac{3}{4}$\nD) $\\frac{1}{3}$; $\\frac{5}{6}$ e $\\frac{1}{3}$\nE) $\\frac{1}{4}$; $\\frac{7}{12}$ e $\\frac{3}{4}$\n"
+  },
+  {
+    "id": 1724,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere os seguintes resultados relativamente ao lançamento de uma moeda: I. Ocorrência de duas caras em dois lançamentos. II. Ocorrência de três caras e uma coroa em quatro lançamentos. III. Ocorrência de cinco caras e três coroas em oito lançamentos. Pode-se afirmar que\n\nA) dos três resultados, I é o mais prováve$\nB) dos três resultados, II é o mais prováve$\nC) dos três resultados, III é o mais prováve$\nD) os resultados I e II são igualmente provávei$\nE) os resultados II e III são igualmente provávei$\n"
+  },
+  {
+    "id": 1725,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere $A \\in M_{5\\times 5}(\\mathbb{R})$ com $\\det(A) = \\sqrt{6}$ e $\\alpha \\in \\mathbb{R} \\setminus \\{0\\}$. Se $\\det(\\alpha A^t A A^t) = \\sqrt{6} \\alpha^2$, o valor de $\\alpha$ é\n\nA) $\\frac{1}{6}$\nB) $\\frac{\\sqrt{6}}{6}$\nC) $\\frac{\\sqrt[3]{36}}{6}$\nD) $1$\nE) $\\sqrt{216}$\n"
+  },
+  {
+    "id": 1726,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $a$ um número real e $n$ o número de todas as soluções reais e distintas $x \\in [0,2\\pi]$ da equação $\\cos^8 x - \\mathrm{sen}^8 x + 4 \\mathrm{sen}^6 x = a$. Das afirmações: I. Se $a = 0$, então $n = 0$; II. Se $a = \\frac{1}{2}$, então $n = 8$; III. Se $a = 1$, então $n = 7$; IV. Se $a = 3$, então $n = 2$, é (são) verdadeira(s)\n\nA) apenas $\nB) apenas II$\nC) apenas I e II$\nD) apenas II e I$\nE) toda$\n"
+  },
+  {
+    "id": 1727,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Se $\\cos 2x = \\frac{1}{2}$, então um possível valor de $\\frac{\\cotg x - 1}{\\cosec(x - \\pi) - \\sec(\\pi - x)}$ é\n\nA) $\\frac{\\sqrt{3}}{2}$\nB) $1$\nC) $\\sqrt{2}$\nD) $\\sqrt{3}$\nE) $2$\n"
+  },
+  {
+    "id": 1728,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Uma reta $r$ tangencia uma circunferência num ponto $B$ e intercepta uma reta $s$ num ponto $A$ exterior à circunferência. A reta $s$ passa pelo centro desta circunferência e a intercepta num ponto $C$, tal que o ângulo $\\widehat{ABC}$ seja obtuso. Então o ângulo $\\widehat{CAB}$ é igual a\n\nA) $\\frac{1}{2}\\widehat{ABC}$\nB) $\\frac{3}{2}\\pi-2\\widehat{ABC}$\nC) $\\frac{2}{3}\\widehat{ABC}$\nD) $2\\widehat{ABC}-\\pi$\nE) $\\widehat{ABC}-\\frac{\\pi}{2}$\n"
+  },
+  {
+    "id": 1729,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sobre a parábola definida pela equação $x^2+2xy+y^2-2x+4y+1=0$ pode-se afirmar que\n\nA) ela não admite reta tangente paralela ao eixo $Ox$\nB) ela admite apenas uma reta tangente paralela ao eixo $Ox$\nC) ela admite duas retas tangentes paralelas ao eixo $Ox$\nD) a abscissa do vértice da parábola é $x = -1$\nE) a abscissa do vértice da parábola é $x = -\\frac{2}{3}$\n"
+  },
+  {
+    "id": 1730,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Das afirmações: I. Duas retas coplanares são concorrentes; II. Duas retas que não têm ponto em comum são reversas; III. Dadas duas retas reversas, existem dois, e apenas dois, planos paralelos, cada um contendo uma das retas; IV. Os pontos médios dos lados de um quadrilátero reverso definem um paralelogramo, é (são) verdadeira(s) apenas\n\nA) II$\nB) I e II$\nC) II e II$\nD) III e I$\nE) I e II e I$\n"
+  },
+  {
+    "id": 1731,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Um plano intercepta as arestas de um triedro triretângulo de vértice $V$, determinando um triângulo $ABC$ cujos lados medem, respectivamente, $\\sqrt{10}$, $\\sqrt{17}$ e $5 \\text{ cm}$. O volume, em $\\text{cm}^3$, do sólido $VABC$ é\n\nA) $2$\nB) $4$\nC) $\\sqrt{17}$\nD) $6$\nE) $5\\sqrt{10}$\n"
+  },
+  {
+    "id": 1732,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: No sistema $xOy$ os pontos $A=(2,0)$, $B=(2,5)$ e $C=(0,1)$ são vértices de um triângulo inscrito na base de um cilindro circular reto de altura $8$. Para este cilindro, a razão $\\frac{\\text{volume}}{\\text{área total da superfície}}$, em unidade de comprimento, é igual a\n\nA) $1$\nB) $\\frac{100}{105}$\nC) $\\frac{10}{11}$\nD) $\\frac{100}{115}$\nE) $\\frac{5}{6}$\n"
+  },
+  {
+    "id": 1733,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere uma população de igual número de homens e mulheres, em que sejam daltônicos 5% dos homens e 0,25% das mulheres. Indique a probabilidade de que seja mulher uma pessoa daltônica selecionada ao acaso nessa população.\n\nA) $\\frac{1}{21}$\nB) $\\frac{1}{8}$\nC) $\\frac{3}{21}$\nD) $\\frac{5}{21}$\nE) $\\frac{1}{4}$\n"
+  },
+  {
+    "id": 1734,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere o sistema $Ax=b$, em que \n\\[ \nA = \\left( \n\\begin{array}{ccc}\n1 & -2 & 3 \\\\\n2 & k & 6 \\\\\n-1 & 3 & k-3 \n\\end{array} \n\\right), \\quad \nb = \\left( \n\\begin{array}{c}\n1 \\\\\n6 \\\\\n0 \n\\end{array} \n\\right) \n\\] \ne $k \\in \\mathbb{R}$. Sendo $T$ a soma de todos os valores de $k$ que tornam o sistema impossível e sendo $S$ a soma de todos os valores de $k$ que tornam o sistema possível e indeterminado, então o valor de $T - S$ é\n\nA) $-4$\nB) $-3$\nC) $0$\nD) $1$\nE) $4$\n"
+  },
+  {
+    "id": 1735,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $A$ e $C$ matrizes $n \\times n$ inversíveis tais que $\\det(I+C^{-1} A) = 1/3$ e $\\det A = 5$. Sabendo-se que $B=3 \\left( A^{-1}+C^{-1} \\right)^t$, então o determinante de $B$ é igual a\n\nA) $3^n$\nB) $2 \\cdot \\frac{3^n}{5^2}$\nC) $\\frac{1}{5}$\nD) $\\frac{3^{n-1}}{5}$\nE) $5 \\cdot 3^{n-1}$\n"
+  },
+  {
+    "id": 1736,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Um polinômio $P$ é dado pelo produto de 5 polinômios cujos graus formam uma progressão geométrica. Se o polinômio de menor grau tem grau igual a 2 e o grau de $P$ é 62, então o de maior grau tem grau igual a\n\nA) $30$\nB) $32$\nC) $34$\nD) $36$\nE) $38$\n"
+  },
+  {
+    "id": 1737,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Um diedro mede $120^\\circ$. A distância da aresta do diedro ao centro de uma esfera de volume $4\\sqrt{3} \\pi$ cm$^3$ que tangencia as faces do diedro é, em cm, igual a\n\nA) $3\\sqrt{3}$\nB) $3\\sqrt{2}$\nC) $2\\sqrt{3}$\nD) $2\\sqrt{2}$\nE) $2$\n"
+  },
+  {
+    "id": 1738,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere o quadrado $ABCD$ com lados de 10 m de comprimento. Seja $M$ um ponto sobre o lado $\\overline{AB}$ e $N$ um ponto sobre o lado $\\overline{AD}$, eqüidistantes de $A$. Por $M$ traça-se uma reta $r$ paralela ao lado $\\overline{AD}$ e por $N$ uma reta $s$ paralela ao lado $\\overline{AB}$, que se interceptam no ponto $O$. Considere os quadrados $AMON$ e $OPCQ$, onde $P$ é a intersecção de $s$ com o lado $\\overline{BC}$ e $Q$ é a intersecção de $r$ com o lado $\\overline{DC}$. Sabendo-se que as áreas dos quadrados $AMON, OPCQ$ e $ABCD$ constituem, nesta ordem, uma progressão geométrica, então a distância entre os pontos $A$ e $M$ é igual, em metros, a\n\nA) $15+5\\sqrt{5}$\nB) $10+5\\sqrt{5}$\nC) $10-\\sqrt{5}$\nD) $15-5\\sqrt{5}$\nE) $10-3\\sqrt{5}$\n"
+  },
+  {
+    "id": 1739,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere o polinômio $p(x) = a_5 x^5 + a_4 x^4 + a_3 x^3 + a_2 x^2 - a_1$, em que uma das raízes é $x = -1$. Sabendo-se que $a_1, a_2, a_3, a_4$ e $a_5$ são reais e formam, nesta ordem, uma progressão aritmética com $a_4 = 1/2$, então $p(-2)$ é igual a\n\nA) $-25$\nB) $-27$\nC) $-36$\nD) $-39$\nE) $-40$\n"
+  },
+  {
+    "id": 1740,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: É dada a equação polinomial $$(a+c+2) x^3 + (b+3c+1) x^2 + (c-a) x + (a+b+4) = 0$$ com $a,b,c$ reais. Sabendo-se que esta equação é recíproca de primeira espécie e que 1 é uma raiz, então o produto $abc$ é igual a\n\nA) $-2$\nB) $4$\nC) $6$\nD) $9$\nE) $12$\n"
+  },
+  {
+    "id": 1741,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sendo $[-\\pi/2,\\pi/2]$ o contradomínio da função arcseno e $[0,\\pi]$ o contradomínio da função arcocosseno, assinale o valor de \n\n$$\\cos \\left(\\arcsen \\frac{3}{5} +\\arccos \\frac{4}{5}\\right).$$\n\nA) $\\frac{1}{\\sqrt{12}}$\nB) $\\frac{7}{25}$\nC) $\\frac{4}{15}$\nD) $\\frac{1}{\\sqrt{15}}$\nE) $\\frac{1}{2\\sqrt{5}}$\n"
+  },
+  {
+    "id": 1742,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Dada a cônica $\\lambda : x^2 -y^2 = 1$, qual das retas abaixo é perpendicular à $\\lambda$ no ponto $P =(2,\\sqrt{3})$?\n\nA) $y =\\sqrt{3}(x-1)$\nB) $y = \\frac{\\sqrt{3}}{2} x$\nC) $y =\\frac{\\sqrt{3}}{3}(x+1)$\nD) $y =\\frac{-\\sqrt{3}}{5}(x-7)$\nE) $y =\\frac{-\\sqrt{3}}{2}(x-4)$\n"
+  },
+  {
+    "id": 1743,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: O conjunto imagem e o período de $f(x) =2 \\operatorname{sen}^2 (3x) +\\operatorname{sen}(6x) -1$ são, respectivamente,\n\nA) $[-3,3]$ e $2 \\pi$\nB) $[-2,2]$ e $\\frac{2 \\pi}{3}$\nC) $[-\\sqrt{2},\\sqrt{2}]$ e $\\frac{\\pi}{3}$\nD) $[-1,3]$ e $\\frac{\\pi}{3}$\nE) $[-1,3]$ e $\\frac{2 \\pi}{3}$\n"
+  },
+  {
+    "id": 1744,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Para $x \\in \\mathbb{R}$, o conjunto solução de $\\left|5^{3x} -5^{2x+1} +4 \\cdot 5^x\\right| =\\left|5^{x} -1\\right|$ é\n\nA) $\\{0, 2 \\pm \\sqrt{5}, 2 \\pm \\sqrt{3}\\}$\nB) $\\{0, 1, \\log_5 (2+\\sqrt{5})\\}$\nC) $\\{0, \\frac{1}{2} \\log_5 2, \\frac{1}{2} \\log_5 3, \\log_5 (\\frac{\\sqrt{2}}{2})\\}$\nD) $\\{0, \\log_5 (2+\\sqrt{5}), \\log_5 (2+\\sqrt{3}), \\log_5 (2- \\sqrt{3})\\}$\nE) A única solução é $x =0$\n"
+  },
+  {
+    "id": 1745,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Um subconjunto $D$ de $\\mathbb{R}$ tal que a função $f : D \\rightarrow \\mathbb{R}$, definida por $f(x)=|\\ln (x^2-x + 1)|$ é injetora, é dado por\n\nA) $\\mathbb{R}$\nB) $(-\\infty,1]$\nC) $[0,1/2]$\nD) $(0,1)$\nE) $[1/2,\\infty)$\n"
+  },
+  {
+    "id": 1746,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A soma de todas as soluções distintas da equação \n$\\cos 3x + 2 \\cos 6x + \\cos 9x = 0,$\nque estão no intervalo $0 \\le x \\le \\pi/2$, é igual a\n\nA) $2\\pi$\nB) $\\frac{23}{12} \\pi$\nC) $\\frac{9}{6} \\pi$\nD) $\\frac{7}{6} \\pi$\nE) $\\frac{13}{12} \\pi$\n"
+  },
+  {
+    "id": 1747,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere o conjunto $D =\\{n \\in \\mathbb{N}; 1 \\le n \\le 365\\}$ e $H \\subset \\mathcal{P}(D)$ formado por todos os subconjuntos de $D$ com $2$ elementos. Escolhendo ao acaso um elemento $B \\in H$, a probabilidade de a soma de seus elementos ser $183$ é igual a\n\nA) $\\frac{1}{730}$\nB) $\\frac{46}{33215}$\nC) $\\frac{1}{365}$\nD) $\\frac{92}{33215}$\nE) $\\frac{91}{730}$\n"
+  },
+  {
+    "id": 1748,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere o triângulo $ABC$ isósceles em que o ângulo distinto dos demais, $BAC$, mede $40^\\circ$. Sobre o lado $AB$, tome o ponto $E$ tal que $ACB = 15^\\circ$. Sobre o lado $AC$, tome o ponto $D$ tal que $D \\hat{B} C = 35^\\circ$. Então, o ângulo $E \\hat{D} B$ vale\n\nA) $35^\\circ$\nB) $45^\\circ$\nC) $55^\\circ$\nD) $75^\\circ$\nE) $85^\\circ$\n"
+  },
+  {
+    "id": 1749,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $X, Y, Z, W$ subconjuntos de $\\mathbb{N}$ tais que $(X -Y) \\cap Z =\\{1,2,3,4\\}$, $Y =\\{5,6\\}$, $Z \\cap Y =\\emptyset$, $W \\cap (X -Z) =\\{7,8\\}$, $X \\cap W \\cap Z =\\{2,4\\}$. Então o conjunto \n\n$[X \\cap (Z \\cup W)] -[W \\cap (Y \\cup Z)]$ \n\né igual a\n\nA) $\\{1,2,3,4,5\\}$\nB) $\\{1,2,3,4,7\\}$\nC) $\\{1,3,7,8\\}$\nD) $\\{1,3\\}$\nE) $\\{7,8\\}$\n"
+  },
+  {
+    "id": 1750,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $r$ e $s$ duas retas paralelas distando $10$ cm entre si. Seja $P$ um ponto no plano definido por $r$ e $s$ e exterior à região limitada por estas retas, distando $5$ cm de $r$. As respectivas medidas da área e do perímetro, em $\\text{cm}^2$ e $\\text{cm}$, do triângulo equilátero $PQR$ cujos vértices $Q$ e $R$ estão, respectivamente, sobre as retas $r$ e $s$, são iguais a\n\nA) $175 \\frac{\\sqrt{3}}{3}$ e $5\\sqrt{21}$\nB) $175 \\frac{\\sqrt{3}}{3}$ e $10\\sqrt{21}$\nC) $175\\sqrt{3}$ e $10\\sqrt{21}$\nD) $175\\sqrt{3}$ e $5\\sqrt{21}$\nE) $700$ e $10\\sqrt{21}$\n"
+  },
+  {
+    "id": 1751,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $A$ e $B$ subconjuntos do conjunto universo $U =\\{a,b,c,d,e,f,g,h\\}$. Sabendo que $(B^C \\cup A)^C =\\{f,g,h\\}$, $B^C \\cap A=\\{a,b\\}$ e $A^C \\backslash B =\\{d,e\\}$, então, $n(P(A \\cap B))$ é igual a\n\nA) $\nB) $\nC) $\nD) $\nE) $\n"
+  },
+  {
+    "id": 1752,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Uma empresa possui 1000 carros, sendo uma parte com motor a gasolina e o restante com motor \"flex\" (que funciona com álcool e com gasolina). Numa determinada época, neste conjunto de 1000 carros, $36\\%$ dos carros com motor a gasolina e $36\\%$ dos carros com motor \"flex\" sofrem conversão para também funcionar com gás GNV. Sabendo-se que, após esta conversão, 556 dos 1000 carros desta empresa são bicombustíveis, pode-se afirmar que o número de carros tricombustíveis é igual a\n\nA) 24$\nB) 25$\nC) 26$\nD) 26$\nE) 28$\n"
+  },
+  {
+    "id": 1753,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $f : \\mathbb{R} \\longrightarrow \\mathbb{R}\\backslash\\{0\\}$ uma função satisfazendo às condições: $f(x+y) = f(x) f(y)$, para todo $x,y \\in \\mathbb{R}$ e $f(x) \\neq 1$, para todo $x \\in \\mathbb{R}\\backslash\\{0\\}$. Das afirmações: I. $f$ pode ser ímpar. II. $f(0) = 1$. III. $f$ é injetiva. IV. $f$ não é sobrejetiva, pois $f(x) > 0$ para todo $x \\in \\mathbb{R}$. é (são) falsa(s) apenas\n\nA) I e II$\nB) II e II$\nC) I e I$\nD) I$\nE) $\n"
+  },
+  {
+    "id": 1754,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Se $a = \\cos \\frac{\\pi}{5}$ e $b = \\sin \\frac{\\pi}{5}$, então, o número complexo $\\left(\\cos \\frac{\\pi}{5} + i \\sin \\frac{\\pi}{5}\\right)^{54}$ é igual a\n\nA) $a+bi$\nB) $-a+bi$\nC) $(1-2a^2b^2)+ab(1+b^2)i$\nD) $a-bi$\nE) $1-4a^2b^2+2ab(1-b^2)i$\n"
+  },
+  {
+    "id": 1755,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: O polinômio de grau 4 \n$(a+2b+c)x^4+(a+b+c)x^3-(a-b)x^2+(2a-b+c)x+2(a+c), \ncom $a,b,c \\in \\mathbb{R}$, é uma função par. Então, a soma dos módulos de suas raízes é igual a\n\nA) $3+\\sqrt{3}$\nB) $2+3\\sqrt{3}$\nC) $2+\\sqrt{2}$\nD) $1+2\\sqrt{2}$\nE) $2+2\\sqrt{2}$\n"
+  },
+  {
+    "id": 1756,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere as funções $f(x) = x^4 + 2x^3 - 2x - 1$ e $g(x) = x^2 - 2x + 1$. A multiplicidade das raízes não reais da função composta $f \\circ g$ é igual a\n\nA) $1$\nB) $2$\nC) $3$\nD) $4$\nE) $5$\n"
+  },
+  {
+    "id": 1757,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Suponha que os coeficientes reais $a$ e $b$ da equação $x^4+ax^3+bx^2+ax+1=0$ são tais que a equação admite solução não real $r$ com $|r| \\neq 1$. Das seguintes afirmações: \nI. A equação admite quatro raízes distintas, sendo todas não reais. \nII. As raízes podem ser duplas. \nIII. Das quatro raízes, duas podem ser reais. \né (são) verdadeira(s)\n\nA) apenas $\nB) apenas I$\nC) apenas II$\nD) apenas II e II$\nE) nenhum$\n"
+  },
+  {
+    "id": 1758,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Se as soluções da equação algébrica $2x^3-ax^2+bx+54=0$, com coeficientes $a,b \\in \\mathbb{R}$, $b \\neq 0$, formam, numa determinada ordem, uma progressão geométrica, então, $\\frac{a}{b}$ é igual a\n\nA) $-3$\nB) $-\\frac{1}{3}$\nC) $\\frac{1}{3}$\nD) $1$\nE) $3$\n"
+  },
+  {
+    "id": 1759,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Dados $A \\in M_{3 \\times 2}(\\mathbb{R})$ e $b \\in M_{3 \\times 1}(\\mathbb{R})$, dizemos que $X_0 \\in M_{2 \\times 1}(\\mathbb{R})$ é a melhor aproximação quadrática do sistema $AX=b$ quando $\\sqrt{(AX_0-b)^t(AX_0-b)}$ assume o menor valor possível. Então, dado o sistema \n$\\begin{bmatrix} -1 & 0 \\\\ 0 & 1 \\\\ 1 & 0 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\\\ 1 \\end{bmatrix}$,\na sua melhor aproximação quadrática é\n\nA) $\\begin{bmatrix} 1 \\\\ -1 \\end{bmatrix}$\nB) $\\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix}$\nC) $\\begin{bmatrix} -2 \\\\ 0 \\end{bmatrix}$\nD) $\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}$\nE) $\\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix}$\n"
+  },
+  {
+    "id": 1760,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: O sistema \n\\[\\begin{cases} \na_1x+b_1y = c_1 \\\\\na_2x+b_2y = c_2 \n\\end{cases}, a_1,a_2,b_1,b_2,c_1,c_2 \\in \\mathbb{R}, \n\\] \ncom $(c_1,c_2) \\neq (0,0), a_1c_1+a_2c_2=b_1c_1+b_2c_2=0$, é\n\nA) determinad$\nB) determinado somente quando $c_1 \\neq 0$ e $c_2 \\neq 0$\nC) determinado somente quando $c_1 \\neq 0$ e $c_2 = 0$ ou $c_1 = 0$ e $c_2 \\neq 0$\nD) impossíve$\nE) indeterminad$\n"
+  },
+  {
+    "id": 1761,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Seja $A \\in M_{2 \\times 2}(\\mathbb{R})$ uma matriz simétrica e não nula, cujos elementos são tais que $a_{11},a_{12}$ e $a_{22}$ formam, nesta ordem, uma progressão geométrica de razão $q \\neq 1$ e $tr A=5a_{11}$. Sabendo-se que o sistema $AX=X$ admite solução não nula $X \\in M_{2 \\times 1}(\\mathbb{R})$, pode-se afirmar que $a_{11}^2+q^2$ é igual a\n\nA) $\\frac{101}{25}$\nB) $\\frac{121}{25}$\nC) $5$\nD) $\\frac{49}{9}$\nE) $\\frac{25}{4}$\n"
+  },
+  {
+    "id": 1762,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Um certo exame de inglês é utilizado para classificar a proficiência de estrangeiros nesta língua. Dos estrangeiros que são proficientes em inglês, $75\\%$ são bem avaliados neste exame. Entre os não proficientes em inglês, $7\\%$ são eventualmente bem avaliados. Considere uma amostra de estrangeiros em que $18\\%$ são proficientes em inglês. Um estrangeiro, escolhido desta amostra ao acaso, realizou o exame sendo classificado como proficiente em inglês. A probabilidade deste estrangeiro ser efetivamente proficiente nesta língua é de aproximadamente\n\nA) $73\\%$\nB) $70\\%$\nC) $68\\%$\nD) $65\\%$\nE) $64\\%$\n"
+  },
+  {
+    "id": 1763,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Considere o triângulo $ABC$ de lados $a=\\overline{BC}$, $b=\\overline{AC}$ e $c=\\overline{AB}$ e ângulos internos $\\alpha=C\\widehat{A}B$, $\\beta=A\\widehat{B}C$ e $\\gamma=B\\widehat{C}A$. Sabendo-se que a equação $x^2-2bx\\cos\\alpha+b^2-a^2=0$ admite $c$ como raiz dupla, pode-se afirmar que\n\nA) $\\alpha=90^{\\circ}$\nB) $\\beta=60^{\\circ}$\nC) $\\gamma=90^{\\circ}$\nD) O triângulo é retângulo apenas se $\\alpha=45^{\\circ}$\nE) O triângulo é retângulo e $b$ é hipotenus$\n"
+  },
+  {
+    "id": 1764,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: No plano, considere $S$ o lugar geométrico dos pontos cuja soma dos quadrados de suas distâncias à reta $t: x = 1$ e ao ponto $A=(3,2)$ é igual a $4$. Então, $S$ é\n\nA) uma circunferência de raio $\\sqrt{2}$ e centro $(2,1)$\nB) uma circunferência de raio $1$ e centro $(1,2)$\nC) uma hipérbol$\nD) uma elipse de eixos de comprimento $2\\sqrt{2}$ e $2$\nE) uma elipse de eixos de comprimento $2$ e $1$\n"
+  },
+  {
+    "id": 1765,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Do triângulo de vértices $A,B$ e $C$, inscrito em uma circunferência de raio $R = 2 \\text{ cm}$, sabe-se que o lado $\\overline{BC}$ mede $2 \\text{ cm}$ e o ângulo interno $A$ mede $30^\\circ$. Então, o raio da circunferência inscrita neste triângulo tem o comprimento, em $\\text{cm}$, igual a\n\nA) $2-\\sqrt{3}$\nB) $\\frac{1}{3}$\nC) $\\frac{\\sqrt{2}}{4}$\nD) $2\\sqrt{3}-3$\nE) $\\frac{1}{2}$\n"
+  },
+  {
+    "id": 1766,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A distância entre o vértice e o foco da parábola de equação $2x^2-4x-4y+3=0$ é igual a\n\nA) $2$\nB) $\\frac{3}{2}$\nC) $1$\nD) $\\frac{3}{4}$\nE) $\\frac{1}{2}$\n"
+  },
+  {
+    "id": 1767,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: A expressão $\\frac{2[\\,\\text{sen}\\,(x+\\frac{11}{2}\\pi)+\\text{cotg}^2x]\\,\\text{tg}\\,\\frac{x}{2}}{1+\\text{tg}^2\\,\\frac{x}{2}}$ é equivalente a\n\nA) $[\\cos x - \\text{sen}^2 x]\\,\\text{cotg}\\,x$\nB) $[\\text{sen}\\,x + \\cos x]\\,\\text{tg}\\,x$\nC) $[\\cos^2x - \\text{sen}\\,x]\\,\\text{cotg}^2x$\nD) $[1-\\text{cotg}^2 x]\\,\\text{sen}\\,x$\nE) $[1+\\text{cotg}^2 x][\\text{sen}\\,x + \\cos x]$\n"
+  },
+  {
+    "id": 1768,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Sejam $C$ uma circunferência de raio $R > 4$ e centro $(0,0)$ e $\\overline{AB}$ uma corda de $C$. Sabendo que $(1,3)$ é ponto médio de $\\overline{AB}$, então uma equação da reta que contém $\\overline{AB}$ é\n\nA) $y+3x-6=0$\nB) $3y+x-10=0$\nC) $2y+x-7=0$\nD) $y+x-4=0$\nE) $2y+3x-9=0$\n"
+  },
+  {
+    "id": 1769,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Dado $z = \\frac{1}{2} (-1 + \\sqrt{3} i)$, então $\\sum_{n=1}^{89} z^n$ é igual a\n\nA) $-\\frac{89}{2}\\sqrt{3}i.$\nB) $-1.$\nC) $0.$\nD) $1.$\nE) $\\frac{89}{6} \\sqrt{3}i.$\n"
+  },
+  {
+    "id": 1770,
+    "prompt": "Resolva a seguinte questão de múltipla escolha de matemática. Certifique-se de colocar a letra da opção correta (A,B,C,D or E), e somente a letra da opção correta, dentro de \\boxed{}. Use Português do Brasil para pensar e responder.\n\nQuestão: Das afirmações abaixo sobre números complexos $z_1$ e $z_2$: $I - |z_1-z_2| \\le ||z_1| - |z_2||$. $II - |z_1.z_2| = |z_2|.|z_2|$. $III - $ Se $z_1=|z_1|(\\cos \\theta + i \\sin \\theta) \\neq 0$, então $z_1^{-1}=|z_1|^{-1}(\\cos \\theta - i \\sin \\theta)$. é(são) sempre verdadeira(s)\n\nA) apenas $I$\nB) apenas $II$\nC) apenas $III.$\nD) apenas $II$ e $III$\nE) toda$\n"
   }
 ]

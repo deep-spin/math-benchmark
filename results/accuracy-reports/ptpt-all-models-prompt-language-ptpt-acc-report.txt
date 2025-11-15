@@ -1,10 +1,28 @@
 === Overall (fig and no fig) ===
 
+Model: deepseek-chat-v3.1
+  Level 1: 70/80 correct (87.50%)
+  Level 2: 144/172 correct (83.72%)
+  Level 3: 127/143 correct (88.81%)
+  Level 4: 25/31 correct (80.65%)
+
+Model: gemma-3-27b-it
+  Level 1: 45/80 correct (56.25%)
+  Level 2: 85/172 correct (49.42%)
+  Level 3: 70/143 correct (48.95%)
+  Level 4: 17/31 correct (54.84%)
+
 Model: gpt-5
   Level 1: 77/80 correct (96.25%)
   Level 2: 163/172 correct (94.77%)
   Level 3: 138/143 correct (96.50%)
   Level 4: 30/31 correct (96.77%)
+
+Model: llama-3.3-70b-instruct
+  Level 1: 33/80 correct (41.25%)
+  Level 2: 55/172 correct (31.98%)
+  Level 3: 34/143 correct (23.78%)
+  Level 4: 8/31 correct (25.81%)
 
 Model: qwen3-14b
   Level 1: 71/80 correct (88.75%)
@@ -30,13 +48,37 @@ Model: qwen3-32b
   Level 3: 122/143 correct (85.31%)
   Level 4: 29/31 correct (93.55%)
 
+Model: qwen3-8b
+  Level 1: 68/80 correct (85.00%)
+  Level 2: 130/172 correct (75.58%)
+  Level 3: 112/143 correct (78.32%)
+  Level 4: 21/31 correct (67.74%)
+
 === With figures only ===
+
+Model: deepseek-chat-v3.1
+  Level 1: 18/27 correct (66.67%)
+  Level 2: 33/54 correct (61.11%)
+  Level 3: 36/47 correct (76.60%)
+  Level 4: 7/9 correct (77.78%)
+
+Model: gemma-3-27b-it
+  Level 1: 10/27 correct (37.04%)
+  Level 2: 15/54 correct (27.78%)
+  Level 3: 14/47 correct (29.79%)
+  Level 4: 3/9 correct (33.33%)
 
 Model: gpt-5
   Level 1: 24/27 correct (88.89%)
   Level 2: 49/54 correct (90.74%)
   Level 3: 44/47 correct (93.62%)
   Level 4: 8/9 correct (88.89%)
+
+Model: llama-3.3-70b-instruct
+  Level 1: 7/27 correct (25.93%)
+  Level 2: 9/54 correct (16.67%)
+  Level 3: 3/47 correct (6.38%)
+  Level 4: 2/9 correct (22.22%)
 
 Model: qwen3-14b
   Level 1: 19/27 correct (70.37%)
@@ -62,13 +104,37 @@ Model: qwen3-32b
   Level 3: 31/47 correct (65.96%)
   Level 4: 8/9 correct (88.89%)
 
+Model: qwen3-8b
+  Level 1: 16/27 correct (59.26%)
+  Level 2: 34/54 correct (62.96%)
+  Level 3: 29/47 correct (61.70%)
+  Level 4: 5/9 correct (55.56%)
+
 === Without figures ===
+
+Model: deepseek-chat-v3.1
+  Level 1: 52/53 correct (98.11%)
+  Level 2: 111/118 correct (94.07%)
+  Level 3: 91/96 correct (94.79%)
+  Level 4: 18/22 correct (81.82%)
+
+Model: gemma-3-27b-it
+  Level 1: 35/53 correct (66.04%)
+  Level 2: 70/118 correct (59.32%)
+  Level 3: 56/96 correct (58.33%)
+  Level 4: 14/22 correct (63.64%)
 
 Model: gpt-5
   Level 1: 53/53 correct (100.00%)
   Level 2: 114/118 correct (96.61%)
   Level 3: 94/96 correct (97.92%)
   Level 4: 22/22 correct (100.00%)
+
+Model: llama-3.3-70b-instruct
+  Level 1: 26/53 correct (49.06%)
+  Level 2: 46/118 correct (38.98%)
+  Level 3: 31/96 correct (32.29%)
+  Level 4: 6/22 correct (27.27%)
 
 Model: qwen3-14b
   Level 1: 52/53 correct (98.11%)
@@ -93,3 +159,9 @@ Model: qwen3-32b
   Level 2: 104/118 correct (88.14%)
   Level 3: 91/96 correct (94.79%)
   Level 4: 21/22 correct (95.45%)
+
+Model: qwen3-8b
+  Level 1: 52/53 correct (98.11%)
+  Level 2: 96/118 correct (81.36%)
+  Level 3: 83/96 correct (86.46%)
+  Level 4: 16/22 correct (72.73%)
