@@ -1,3 +1,35 @@
+=== Overall (fig and no fig) ===
+
+Model: gpt-5
+  Level 1: 77/80 correct (96.25%)
+  Level 2: 163/172 correct (94.77%)
+  Level 3: 138/143 correct (96.50%)
+  Level 4: 30/31 correct (96.77%)
+
+Model: qwen3-14b
+  Level 1: 71/80 correct (88.75%)
+  Level 2: 154/172 correct (89.53%)
+  Level 3: 124/143 correct (86.71%)
+  Level 4: 26/31 correct (83.87%)
+
+Model: qwen3-235b-a22b
+  Level 1: 73/80 correct (91.25%)
+  Level 2: 150/172 correct (87.21%)
+  Level 3: 126/143 correct (88.11%)
+  Level 4: 29/31 correct (93.55%)
+
+Model: qwen3-30b-a3b
+  Level 1: 66/80 correct (82.50%)
+  Level 2: 142/172 correct (82.56%)
+  Level 3: 124/143 correct (86.71%)
+  Level 4: 26/31 correct (83.87%)
+
+Model: qwen3-32b
+  Level 1: 71/80 correct (88.75%)
+  Level 2: 143/172 correct (83.14%)
+  Level 3: 122/143 correct (85.31%)
+  Level 4: 29/31 correct (93.55%)
+
 === With figures only ===
 
 Model: gpt-5
