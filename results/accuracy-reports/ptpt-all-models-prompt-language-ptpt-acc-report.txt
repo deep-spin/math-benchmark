@@ -1,203 +1,167 @@
 === Overall (fig and no fig) ===
 
-Model: claude-haiku-4.5
-  Level 1: 64/80 correct (80.00%)
-  Level 2: 128/172 correct (74.42%)
-  Level 3: 110/143 correct (76.92%)
-  Level 4: 22/31 correct (70.97%)
-
 Model: deepseek-chat-v3.1
-  Level 1: 70/80 correct (87.50%)
-  Level 2: 144/172 correct (83.72%)
+  Level 1: 68/78 correct (87.18%)
+  Level 2: 142/169 correct (84.02%)
   Level 3: 127/143 correct (88.81%)
-  Level 4: 25/31 correct (80.65%)
-
-Model: gemini-2.5-flash
-  Level 1: 67/80 correct (83.75%)
-  Level 2: 131/172 correct (76.16%)
-  Level 3: 120/143 correct (83.92%)
-  Level 4: 25/31 correct (80.65%)
+  Level 4: 23/29 correct (79.31%)
 
 Model: gemma-3-27b-it
-  Level 1: 45/80 correct (56.25%)
-  Level 2: 85/172 correct (49.42%)
+  Level 1: 45/78 correct (57.69%)
+  Level 2: 83/169 correct (49.11%)
   Level 3: 70/143 correct (48.95%)
-  Level 4: 17/31 correct (54.84%)
+  Level 4: 17/29 correct (58.62%)
 
 Model: gpt-5
-  Level 1: 77/80 correct (96.25%)
-  Level 2: 163/172 correct (94.77%)
+  Level 1: 75/78 correct (96.15%)
+  Level 2: 160/169 correct (94.67%)
   Level 3: 138/143 correct (96.50%)
-  Level 4: 30/31 correct (96.77%)
+  Level 4: 28/29 correct (96.55%)
 
 Model: llama-3.3-70b-instruct
-  Level 1: 33/80 correct (41.25%)
-  Level 2: 55/172 correct (31.98%)
+  Level 1: 32/78 correct (41.03%)
+  Level 2: 55/169 correct (32.54%)
   Level 3: 34/143 correct (23.78%)
-  Level 4: 8/31 correct (25.81%)
+  Level 4: 7/29 correct (24.14%)
 
 Model: qwen3-14b
-  Level 1: 71/80 correct (88.75%)
-  Level 2: 154/172 correct (89.53%)
+  Level 1: 69/78 correct (88.46%)
+  Level 2: 151/169 correct (89.35%)
   Level 3: 124/143 correct (86.71%)
-  Level 4: 26/31 correct (83.87%)
+  Level 4: 24/29 correct (82.76%)
 
 Model: qwen3-235b-a22b
-  Level 1: 73/80 correct (91.25%)
-  Level 2: 150/172 correct (87.21%)
+  Level 1: 71/78 correct (91.03%)
+  Level 2: 147/169 correct (86.98%)
   Level 3: 126/143 correct (88.11%)
-  Level 4: 29/31 correct (93.55%)
+  Level 4: 27/29 correct (93.10%)
 
 Model: qwen3-30b-a3b
-  Level 1: 66/80 correct (82.50%)
-  Level 2: 142/172 correct (82.56%)
+  Level 1: 64/78 correct (82.05%)
+  Level 2: 140/169 correct (82.84%)
   Level 3: 124/143 correct (86.71%)
-  Level 4: 26/31 correct (83.87%)
+  Level 4: 24/29 correct (82.76%)
 
 Model: qwen3-32b
-  Level 1: 71/80 correct (88.75%)
-  Level 2: 143/172 correct (83.14%)
+  Level 1: 69/78 correct (88.46%)
+  Level 2: 141/169 correct (83.43%)
   Level 3: 122/143 correct (85.31%)
-  Level 4: 29/31 correct (93.55%)
+  Level 4: 27/29 correct (93.10%)
 
 Model: qwen3-8b
-  Level 1: 68/80 correct (85.00%)
-  Level 2: 130/172 correct (75.58%)
+  Level 1: 66/78 correct (84.62%)
+  Level 2: 129/169 correct (76.33%)
   Level 3: 112/143 correct (78.32%)
-  Level 4: 21/31 correct (67.74%)
+  Level 4: 19/29 correct (65.52%)
 
 === With figures only ===
 
-Model: claude-haiku-4.5
-  Level 1: 14/27 correct (51.85%)
-  Level 2: 29/54 correct (53.70%)
-  Level 3: 30/47 correct (63.83%)
-  Level 4: 5/9 correct (55.56%)
-
 Model: deepseek-chat-v3.1
-  Level 1: 18/27 correct (66.67%)
+  Level 1: 16/25 correct (64.00%)
   Level 2: 33/54 correct (61.11%)
   Level 3: 36/47 correct (76.60%)
-  Level 4: 7/9 correct (77.78%)
-
-Model: gemini-2.5-flash
-  Level 1: 17/27 correct (62.96%)
-  Level 2: 31/54 correct (57.41%)
-  Level 3: 37/47 correct (78.72%)
-  Level 4: 7/9 correct (77.78%)
+  Level 4: 6/8 correct (75.00%)
 
 Model: gemma-3-27b-it
-  Level 1: 10/27 correct (37.04%)
+  Level 1: 10/25 correct (40.00%)
   Level 2: 15/54 correct (27.78%)
   Level 3: 14/47 correct (29.79%)
-  Level 4: 3/9 correct (33.33%)
+  Level 4: 3/8 correct (37.50%)
 
 Model: gpt-5
-  Level 1: 24/27 correct (88.89%)
+  Level 1: 22/25 correct (88.00%)
   Level 2: 49/54 correct (90.74%)
   Level 3: 44/47 correct (93.62%)
-  Level 4: 8/9 correct (88.89%)
+  Level 4: 7/8 correct (87.50%)
 
 Model: llama-3.3-70b-instruct
-  Level 1: 7/27 correct (25.93%)
+  Level 1: 6/25 correct (24.00%)
   Level 2: 9/54 correct (16.67%)
   Level 3: 3/47 correct (6.38%)
-  Level 4: 2/9 correct (22.22%)
+  Level 4: 1/8 correct (12.50%)
 
 Model: qwen3-14b
-  Level 1: 19/27 correct (70.37%)
+  Level 1: 17/25 correct (68.00%)
   Level 2: 44/54 correct (81.48%)
   Level 3: 35/47 correct (74.47%)
-  Level 4: 8/9 correct (88.89%)
+  Level 4: 7/8 correct (87.50%)
 
 Model: qwen3-235b-a22b
-  Level 1: 21/27 correct (77.78%)
+  Level 1: 19/25 correct (76.00%)
   Level 2: 43/54 correct (79.63%)
   Level 3: 34/47 correct (72.34%)
-  Level 4: 8/9 correct (88.89%)
+  Level 4: 7/8 correct (87.50%)
 
 Model: qwen3-30b-a3b
-  Level 1: 17/27 correct (62.96%)
+  Level 1: 15/25 correct (60.00%)
   Level 2: 38/54 correct (70.37%)
   Level 3: 33/47 correct (70.21%)
-  Level 4: 8/9 correct (88.89%)
+  Level 4: 7/8 correct (87.50%)
 
 Model: qwen3-32b
-  Level 1: 20/27 correct (74.07%)
+  Level 1: 18/25 correct (72.00%)
   Level 2: 39/54 correct (72.22%)
   Level 3: 31/47 correct (65.96%)
-  Level 4: 8/9 correct (88.89%)
+  Level 4: 7/8 correct (87.50%)
 
 Model: qwen3-8b
-  Level 1: 16/27 correct (59.26%)
+  Level 1: 14/25 correct (56.00%)
   Level 2: 34/54 correct (62.96%)
   Level 3: 29/47 correct (61.70%)
-  Level 4: 5/9 correct (55.56%)
+  Level 4: 4/8 correct (50.00%)
 
 === Without figures ===
 
-Model: claude-haiku-4.5
-  Level 1: 50/53 correct (94.34%)
-  Level 2: 99/118 correct (83.90%)
-  Level 3: 80/96 correct (83.33%)
-  Level 4: 17/22 correct (77.27%)
-
 Model: deepseek-chat-v3.1
   Level 1: 52/53 correct (98.11%)
-  Level 2: 111/118 correct (94.07%)
+  Level 2: 109/115 correct (94.78%)
   Level 3: 91/96 correct (94.79%)
-  Level 4: 18/22 correct (81.82%)
-
-Model: gemini-2.5-flash
-  Level 1: 50/53 correct (94.34%)
-  Level 2: 100/118 correct (84.75%)
-  Level 3: 83/96 correct (86.46%)
-  Level 4: 18/22 correct (81.82%)
+  Level 4: 17/21 correct (80.95%)
 
 Model: gemma-3-27b-it
   Level 1: 35/53 correct (66.04%)
-  Level 2: 70/118 correct (59.32%)
+  Level 2: 68/115 correct (59.13%)
   Level 3: 56/96 correct (58.33%)
-  Level 4: 14/22 correct (63.64%)
+  Level 4: 14/21 correct (66.67%)
 
 Model: gpt-5
   Level 1: 53/53 correct (100.00%)
-  Level 2: 114/118 correct (96.61%)
+  Level 2: 111/115 correct (96.52%)
   Level 3: 94/96 correct (97.92%)
-  Level 4: 22/22 correct (100.00%)
+  Level 4: 21/21 correct (100.00%)
 
 Model: llama-3.3-70b-instruct
   Level 1: 26/53 correct (49.06%)
-  Level 2: 46/118 correct (38.98%)
+  Level 2: 46/115 correct (40.00%)
   Level 3: 31/96 correct (32.29%)
-  Level 4: 6/22 correct (27.27%)
+  Level 4: 6/21 correct (28.57%)
 
 Model: qwen3-14b
   Level 1: 52/53 correct (98.11%)
-  Level 2: 110/118 correct (93.22%)
+  Level 2: 107/115 correct (93.04%)
   Level 3: 89/96 correct (92.71%)
-  Level 4: 18/22 correct (81.82%)
+  Level 4: 17/21 correct (80.95%)
 
 Model: qwen3-235b-a22b
   Level 1: 52/53 correct (98.11%)
-  Level 2: 107/118 correct (90.68%)
+  Level 2: 104/115 correct (90.43%)
   Level 3: 92/96 correct (95.83%)
-  Level 4: 21/22 correct (95.45%)
+  Level 4: 20/21 correct (95.24%)
 
 Model: qwen3-30b-a3b
   Level 1: 49/53 correct (92.45%)
-  Level 2: 104/118 correct (88.14%)
+  Level 2: 102/115 correct (88.70%)
   Level 3: 91/96 correct (94.79%)
-  Level 4: 18/22 correct (81.82%)
+  Level 4: 17/21 correct (80.95%)
 
 Model: qwen3-32b
   Level 1: 51/53 correct (96.23%)
-  Level 2: 104/118 correct (88.14%)
+  Level 2: 102/115 correct (88.70%)
   Level 3: 91/96 correct (94.79%)
-  Level 4: 21/22 correct (95.45%)
+  Level 4: 20/21 correct (95.24%)
 
 Model: qwen3-8b
   Level 1: 52/53 correct (98.11%)
-  Level 2: 96/118 correct (81.36%)
+  Level 2: 95/115 correct (82.61%)
   Level 3: 83/96 correct (86.46%)
-  Level 4: 16/22 correct (72.73%)
+  Level 4: 15/21 correct (71.43%)

@@ -3695,34 +3695,6 @@
     "correct_option": "B"
   },
   {
-    "id": 492,
-    "level": 2,
-    "from": "2013-2014-CatJ-2elim.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": false,
-    "question_verbatim": "Para evitar que o seu irmão descubra o que escreve no seu diário, o Francisco inventou um código secreto em que cada letra corresponde a um número com um ou dois algarismos. Infelizmente o seu irmão descobriu que a frase O dia estava de sol tinha sido codificada para $$ 52\\quad 85567 \\quad 534437467 \\quad 855 \\quad 34526\\quad \\quad $$ Qual é o código que corresponde à letra $T$?",
-    "answer_verbatim": "Opção D.",
-    "question_text": "Para evitar que o seu irmão descubra o que escreve no seu diário, o Francisco inventou um código secreto em que cada letra corresponde a um número com um ou dois algarismos. Infelizmente o seu irmão descobriu que a frase O dia estava de sol tinha sido codificada para 52 85567 534437467 855 34526 Qual é o código que corresponde à letra T?",
-    "answer_text": "Opção D.",
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "3",
-      "B": "4",
-      "C": "37",
-      "D": "43",
-      "E": "44"
-    },
-    "options_verbatim": {
-      "A": "$3$",
-      "B": "$4$",
-      "C": "$37$",
-      "D": "$43$",
-      "E": "$44$"
-    },
-    "correct_option": "D"
-  },
-  {
     "id": 495,
     "level": 2,
     "from": "2013-2014-CatJ-Final.tex.json",
@@ -6948,37 +6920,6 @@
     "correct_option": "A"
   },
   {
-    "id": 753,
-    "level": 4,
-    "from": "2019-2020-CatB-1elim.tex.json",
-    "contains_latex_figure_in_question": true,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": true,
-    "question_verbatim": "A figura ao lado é composta por seis triângulos equiláteros e um hexágono regular, que está pintado. Sabendo que o comprimento dos lados de cada um dos triângulos é $2$ e o comprimento dos lados do hexágono é $1$, qual é a fração da figura que está pintada? (image1)",
-    "answer_verbatim": "Opção D. (A área do hexágono é igual a $1,5$ vezes a área de cada triângulo)",
-    "question_text": "A figura ao lado é composta por seis triângulos equiláteros e um hexágono regular, que está pintado. Sabendo que o comprimento dos lados de cada um dos triângulos é 2 e o comprimento dos lados do hexágono é 1, qual é a fração da figura que está pintada? (image1)",
-    "answer_text": "Opção D. (A área do hexágono é igual a 1,5 vezes a área de cada triângulo)",
-    "images": {
-      "image1": "\\begin{pspicture}(0,0)(0,0) \\def\\tria{\\psline(0,0)(2,0)(1,1.73205)(0,0)} \\def\\triainv{\\psline(0,0)(2,0)(1,-1.73205)(0,0)} \\pspolygon[fillcolor=azullogotipo,fillstyle=solid,linestyle=none](1;0)(1;60)(1;120)(1;180)(1;240)(1;300) \\rput(-1.5,0.86603){\\tria} \\rput(-2,-1.73205){\\tria} \\rput(0.5,-0.86603){\\tria} \\rput(0,1.73205){\\triainv} \\rput(-2.5,0.86603){\\triainv} \\rput(-0.5,-0.86603){\\triainv} \\end{pspicture}"
-    },
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "1/2",
-      "B": "1/3",
-      "C": "1/4",
-      "D": "1/5",
-      "E": "1/6"
-    },
-    "options_verbatim": {
-      "A": "$1/2$",
-      "B": "$1/3$",
-      "C": "$1/4$",
-      "D": "$1/5$",
-      "E": "$1/6$"
-    },
-    "correct_option": "D"
-  },
-  {
     "id": 754,
     "level": 4,
     "from": "2019-2020-CatB-1elim.tex.json",
@@ -7388,37 +7329,6 @@
       "E": "$52$"
     },
     "correct_option": "B"
-  },
-  {
-    "id": 781,
-    "level": 1,
-    "from": "2019-2020-PreOlimp-1elim.tex.json",
-    "contains_latex_figure_in_question": true,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": true,
-    "question_verbatim": "De seguida, a Laura pegou num retângulo de lados $5$ dm e $12$ dm e recortou um triângulo, tendo obtido a bandeirola da figura. Sabendo que a diagonal do retângulo mede $13$ dm, qual é o perímetro da bandeirola, em decímetros? (image1)",
-    "answer_verbatim": "Opção C. (As diagonais intersetam-se nos pontos médios. O perímetro é $12+5+12+13/2+13/2$)",
-    "question_text": "De seguida, a Laura pegou num retângulo de lados 5 dm e 12 dm e recortou um triângulo, tendo obtido a bandeirola da figura. Sabendo que a diagonal do retângulo mede 13 dm, qual é o perímetro da bandeirola, em decímetros? (image1)",
-    "answer_text": "Opção C. (As diagonais intersetam-se nos pontos médios. O perímetro é 12+5+12+13/2+13/2)",
-    "images": {
-      "image1": "\\begin{pspicture}(0,0)(0,0) \\pspolygon[linestyle=none,fillstyle=solid,fillcolor=verdelogotipo](0,0)(12,0)(0,5)(12,5) \\pspolygon[linestyle=none,fillstyle=solid,fillcolor=verdelogotipo](0,0)(6,2.5)(0,5) \\psline(0,0)(12,0) \\psline(12,0)(0,5) \\psline(0,5)(0,0) \\psline(0,0)(12,5) \\psline(12,5)(0,5) \\psline[linestyle=dashed](12,0)(12,5) \\end{pspicture}"
-    },
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "29",
-      "B": "34",
-      "C": "42",
-      "D": "55",
-      "E": "60"
-    },
-    "options_verbatim": {
-      "A": "$29$",
-      "B": "$34$",
-      "C": "$42$",
-      "D": "$55$",
-      "E": "$60$"
-    },
-    "correct_option": "C"
   },
   {
     "id": 782,
@@ -9265,37 +9175,6 @@
     "correct_option": "E"
   },
   {
-    "id": 912,
-    "level": 1,
-    "from": "2021-2022-PreOlimp-1elim.tex.json",
-    "contains_latex_figure_in_question": true,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": true,
-    "question_verbatim": "O Bruno vai de casa até à escola de bicicleta, por ruas de sentido único. Na figura está representado o sentido de cada rua. De quantas formas pode o Bruno escolher o trajeto? (image1)",
-    "answer_verbatim": "Opção C. (O Bruno tem de escolher um dos cinco caminhos ascendentes.)",
-    "question_text": "O Bruno vai de casa até à escola de bicicleta, por ruas de sentido único. Na figura está representado o sentido de cada rua. De quantas formas pode o Bruno escolher o trajeto? (image1)",
-    "answer_text": "Opção C. (O Bruno tem de escolher um dos cinco caminhos ascendentes.)",
-    "images": {
-      "image1": "\\begin{pspicture}(0,0)(5,1.732) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](0,0)(2,0) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](2,0)(4,0) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](1,1.732)(3,1.732) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](3,1.732)(5,1.732) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](0,0)(1,1.732) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](2,0)(1,1.732) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](2,0)(3,1.732) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](4,0)(3,1.732) \\psline[linewidth=0.5pt,ArrowInside=->,arrowscale=2.5](4,0)(5,1.732) \\rput(-0.5,0){Casa} \\rput(5.6,1.732){Escola} \\end{pspicture}"
-    },
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "1",
-      "B": "3",
-      "C": "5",
-      "D": "7",
-      "E": "9"
-    },
-    "options_verbatim": {
-      "A": "$1$",
-      "B": "$3$",
-      "C": "$5$",
-      "D": "$7$",
-      "E": "$9$"
-    },
-    "correct_option": "C"
-  },
-  {
     "id": 913,
     "level": 1,
     "from": "2021-2022-PreOlimp-1elim.tex.json",
@@ -9708,34 +9587,6 @@
       "E": "$99$"
     },
     "correct_option": "D"
-  },
-  {
-    "id": 940,
-    "level": 4,
-    "from": "2022-2023-CatB-1elim.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": false,
-    "question_verbatim": "O Pedro retirou $5$ cm$^3$ a um cubo de plasticina e com o volume restante formou um paralelepípedo com um lado igual ao cubo original, outro lado $1$ cm maior e o terceiro lado $1$ cm menor. Quanto media o lado do cubo original?",
-    "answer_verbatim": "Opção C. (O cubo tem volume $5^3=125$ cm$^3$ e o paralelepípedo $5\\times 6\\times 4=120$ cm$^3$.)",
-    "question_text": "O Pedro retirou 5 cm^3 a um cubo de plasticina e com o volume restante formou um paralelepípedo com um lado igual ao cubo original, outro lado 1 cm maior e o terceiro lado 1 cm menor. Quanto media o lado do cubo original?",
-    "answer_text": "Opção C. (O cubo tem volume 5^3=125 cm^3 e o paralelepípedo 5× 6× 4=120 cm^3.)",
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "3 cm",
-      "B": "4 cm",
-      "C": "5 cm",
-      "D": "6 cm",
-      "E": "7 cm"
-    },
-    "options_verbatim": {
-      "A": "$3$ cm",
-      "B": "$4$ cm",
-      "C": "$5$ cm",
-      "D": "$6$ cm",
-      "E": "$7$ cm"
-    },
-    "correct_option": "C"
   },
   {
     "id": 941,
@@ -11088,34 +10939,6 @@
     "correct_option": "E"
   },
   {
-    "id": 1040,
-    "level": 2,
-    "from": "2023-2024-CatJ-2elim.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": false,
-    "question_verbatim": "Na escola do João realizou-se uma festa de dia de Reis. Na entrada da festa estava uma torre composta por dois paralelepípedos empilhados, cada um com volume $128$ cm$^3$. Duas das faces de um paralelepípedo têm áreas iguais a $4$ cm$^2$ e a $32$ cm$^2$. Duas das faces do outro paralelepípedo têm área igual a $16$ cm$^2$ e a $64$ cm$^2$. A torre era a mais alta possível construída com estes dois sólidos, e, entre as torres com esta altura, a área da superfície exposta da torre era a menor possível. Quanto mede, em cm$^2$, a área da superfície exposta desta torre?",
-    "answer_verbatim": "Opção D. (As dimensões dos paralelepípedos são $1,4,32$ e $2,8,8$, respetivamente, logo a área da superfície exposta é $2\\times(128+32+4+64+16+16)-16-2\\times 4=496$.)",
-    "question_text": "Na escola do João realizou-se uma festa de dia de Reis. Na entrada da festa estava uma torre composta por dois paralelepípedos empilhados, cada um com volume 128 cm^3. Duas das faces de um paralelepípedo têm áreas iguais a 4 cm^2 e a 32 cm^2. Duas das faces do outro paralelepípedo têm área igual a 16 cm^2 e a 64 cm^2. A torre era a mais alta possível construída com estes dois sólidos, e, entre as torres com esta altura, a área da superfície exposta da torre era a menor possível. Quanto mede, em cm^2, a área da superfície exposta desta torre?",
-    "answer_text": "Opção D. (As dimensões dos paralelepípedos são 1,4,32 e 2,8,8, respetivamente, logo a área da superfície exposta é 2×(128+32+4+64+16+16)-16-2× 4=496.)",
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "172",
-      "B": "256",
-      "C": "384",
-      "D": "496",
-      "E": "520"
-    },
-    "options_verbatim": {
-      "A": "$172$",
-      "B": "$256$",
-      "C": "$384$",
-      "D": "$496$",
-      "E": "$520$"
-    },
-    "correct_option": "D"
-  },
-  {
     "id": 1041,
     "level": 2,
     "from": "2023-2024-CatJ-2elim.tex.json",
@@ -12183,34 +12006,6 @@
       "E": "$200$"
     },
     "correct_option": "C"
-  },
-  {
-    "id": 1119,
-    "level": 2,
-    "from": "2024-2025-CatJ-Final.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": false,
-    "contains_latex_figure": false,
-    "question_verbatim": "Uma peça foi colocada num tabuleiro com $2025$ linhas e $2025$ colunas. Em cada movimento, a peça pode deslocar-se uma casa na vertical ou uma casa na horizontal. O número mínimo de movimentos que a peça precisa de fazer para chegar ao canto superior esquerdo é $1000$, e o número mínimo de movimentos que a peça precisa de fazer para chegar ao canto superior direito é $1500$. Quantos movimentos, no mínimo, tem a peça que fazer para chegar à linha inferior do tabuleiro?",
-    "answer_verbatim": "A soma do número de movimentos para chegar ao canto superior direito com o número de movimentos para chegar ao canto superior esquerdo é $2500$. Este número contém todos os movimentos feitos na horizontal, que foram $2024$ (a largura de todo o tabuleiro menos a casa onde o peão se encontra) e duas vezes o número de movimentos feitos na vertical. Ou seja, a peça encontra-se a $(2500-2024):2=476:2=238$ casas da linha superior do tabuleiro. Deste modo, para chegar à linha inferior do tabuleiro a peça terá de se deslocar $2024-238$ casas, ou seja $1786$ casas para baixo. Opção correta: D)",
-    "question_text": "Uma peça foi colocada num tabuleiro com 2025 linhas e 2025 colunas. Em cada movimento, a peça pode deslocar-se uma casa na vertical ou uma casa na horizontal. O número mínimo de movimentos que a peça precisa de fazer para chegar ao canto superior esquerdo é 1000, e o número mínimo de movimentos que a peça precisa de fazer para chegar ao canto superior direito é 1500. Quantos movimentos, no mínimo, tem a peça que fazer para chegar à linha inferior do tabuleiro?",
-    "answer_text": "A soma do número de movimentos para chegar ao canto superior direito com o número de movimentos para chegar ao canto superior esquerdo é 2500. Este número contém todos os movimentos feitos na horizontal, que foram 2024 (a largura de todo o tabuleiro menos a casa onde o peão se encontra) e duas vezes o número de movimentos feitos na vertical. Ou seja, a peça encontra-se a (2500-2024):2=476:2=238 casas da linha superior do tabuleiro. Deste modo, para chegar à linha inferior do tabuleiro a peça terá de se deslocar 2024-238 casas, ou seja 1786 casas para baixo. Opção correta: D)",
-    "multiple_choice_question": true,
-    "options_text": {
-      "A": "475",
-      "B": "476",
-      "C": "1500",
-      "D": "1786",
-      "E": "1787"
-    },
-    "options_verbatim": {
-      "A": "$475$",
-      "B": "$476$",
-      "C": "$1500$",
-      "D": "$1786$",
-      "E": "$1787$"
-    },
-    "correct_option": "D"
   },
   {
     "id": 1122,
