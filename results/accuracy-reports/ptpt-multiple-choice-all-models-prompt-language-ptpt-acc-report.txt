@@ -1,9 +1,21 @@
 === Overall (fig and no fig) ===
 
+Model: claude-haiku-4.5
+  Level 1: 63/78 correct (80.77%)
+  Level 2: 126/169 correct (74.56%)
+  Level 3: 110/143 correct (76.92%)
+  Level 4: 20/29 correct (68.97%)
+
 Model: deepseek-chat-v3.1
   Level 1: 68/78 correct (87.18%)
   Level 2: 142/169 correct (84.02%)
   Level 3: 127/143 correct (88.81%)
+  Level 4: 23/29 correct (79.31%)
+
+Model: gemini-2.5-flash
+  Level 1: 65/78 correct (83.33%)
+  Level 2: 128/169 correct (75.74%)
+  Level 3: 120/143 correct (83.92%)
   Level 4: 23/29 correct (79.31%)
 
 Model: gemma-3-27b-it
@@ -56,10 +68,22 @@ Model: qwen3-8b
 
 === With figures only ===
 
+Model: claude-haiku-4.5
+  Level 1: 13/25 correct (52.00%)
+  Level 2: 29/54 correct (53.70%)
+  Level 3: 30/47 correct (63.83%)
+  Level 4: 4/8 correct (50.00%)
+
 Model: deepseek-chat-v3.1
   Level 1: 16/25 correct (64.00%)
   Level 2: 33/54 correct (61.11%)
   Level 3: 36/47 correct (76.60%)
+  Level 4: 6/8 correct (75.00%)
+
+Model: gemini-2.5-flash
+  Level 1: 15/25 correct (60.00%)
+  Level 2: 31/54 correct (57.41%)
+  Level 3: 37/47 correct (78.72%)
   Level 4: 6/8 correct (75.00%)
 
 Model: gemma-3-27b-it
@@ -112,10 +136,22 @@ Model: qwen3-8b
 
 === Without figures ===
 
+Model: claude-haiku-4.5
+  Level 1: 50/53 correct (94.34%)
+  Level 2: 97/115 correct (84.35%)
+  Level 3: 80/96 correct (83.33%)
+  Level 4: 16/21 correct (76.19%)
+
 Model: deepseek-chat-v3.1
   Level 1: 52/53 correct (98.11%)
   Level 2: 109/115 correct (94.78%)
   Level 3: 91/96 correct (94.79%)
+  Level 4: 17/21 correct (80.95%)
+
+Model: gemini-2.5-flash
+  Level 1: 50/53 correct (94.34%)
+  Level 2: 97/115 correct (84.35%)
+  Level 3: 83/96 correct (86.46%)
   Level 4: 17/21 correct (80.95%)
 
 Model: gemma-3-27b-it

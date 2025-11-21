@@ -3764,22 +3764,6 @@
     "multiple_choice_question": false
   },
   {
-    "id": 457,
-    "level": 3,
-    "from": "2013-2014-CatA-2elim.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": true,
-    "contains_latex_figure": true,
-    "question_verbatim": "",
-    "answer_verbatim": "Considere-se o ponto $G$ de $[BC]$ tal que $[FG]$ é paralelo a $[AB]$. Como $[FG]$ e $[DE]$ são pa­ra­le­los, os triângulos $[DEC]$ e $[FGC]$ são semelhantes, com razão de semelhança $\\frac{\\overline{DC}}{\\overline{FC}}=\\frac{6+4}{4}=\\frac{5}{2}=\\frac{\\overline{DE}}{\\overline{FG}}$. Por outro lado, sendo $[DB]$ e $[FE]$ parelelos, tem-se $\\angle BDE=\\angle EFG$. Do mesmo modo, $\\angle DEB=\\angle FGE$. Portanto, os triângulos $[DEB]$ e $[FGE]$ são semelhantes, com razão de semelhança $\\frac{\\overline{DE}}{\\overline{FG}}=\\frac{5}{2}= \\frac{\\overline{DB}}{\\overline{FE}}$. Analogamente, os triângulos $[ADB]$ e $[DFE]$ são semelhantes, com razão de semelhança $\\frac{\\overline{DB}}{\\overline{FE}}=\\frac{5}{2}= \\frac{\\overline{AD}}{\\overline{FD}}$. Portanto, tem-se $\\overline{AD}=\\frac{5}{2}\\times \\overline{FD}=\\frac{5}{2}\\times 6=15$. (image1)",
-    "question_text": "",
-    "answer_text": "Considere-se o ponto G de [BC] tal que [FG] é paralelo a [AB]. Como [FG] e [DE] são pa­ra­le­los, os triângulos [DEC] e [FGC] são semelhantes, com razão de semelhança DC/FC=6+4/4=5/2=DE/FG. Por outro lado, sendo [DB] e [FE] parelelos, tem-se ∠ BDE=∠ EFG. Do mesmo modo, ∠ DEB=∠ FGE. Portanto, os triângulos [DEB] e [FGE] são semelhantes, com razão de semelhança DE/FG=5/2= DB/FE. Analogamente, os triângulos [ADB] e [DFE] são semelhantes, com razão de semelhança DB/FE=5/2= AD/FD. Portanto, tem-se AD=5/2×FD=5/2× 6=15. (image1)",
-    "images": {
-      "image1": "\\begin{pspicture}(0,0)(0,0) \\small \\pspolygon(0,0)(4,0)(1.5,3) \\psline(4,0)(0.93,1.8)(2.47,1.8)(1.26,2.47)(1.94,2.47) \\rput(-0.15,-0.15){$A$} \\rput(4.15,-0.15){$B$} \\rput(0.7,1.8){$D$} \\rput(2.7,1.8){$E$} \\rput(1.1,2.5){$F$} \\rput(2.1,2.49){$G$} \\rput(1.5,3.15){$C$} \\end{pspicture}"
-    },
-    "multiple_choice_question": false
-  },
-  {
     "id": 462,
     "level": 3,
     "from": "2013-2014-CatA-Final.tex.json",
