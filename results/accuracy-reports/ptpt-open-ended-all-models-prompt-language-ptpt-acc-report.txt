@@ -1,0 +1,23 @@
+=== Overall (fig and no fig) ===
+
+Model: qwen3-14b
+  Level 1: no data
+  Level 2: no data
+  Level 3: 4/4 correct (100.00%)
+  Level 4: no data
+
+=== With figures only ===
+
+Model: qwen3-14b
+  Level 1: no data
+  Level 2: no data
+  Level 3: 1/1 correct (100.00%)
+  Level 4: no data
+
+=== Without figures ===
+
+Model: qwen3-14b
+  Level 1: no data
+  Level 2: no data
+  Level 3: 3/3 correct (100.00%)
+  Level 4: no data

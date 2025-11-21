@@ -1,0 +1,30 @@
+[
+  {
+    "id": 4,
+    "question": "Um criador de galinhas foi verificar qual o preço por pintainho que tinha cobrado no ano anterior. Encontrou uma factura, meio apagada, onde se lia: $72$ pintainhos vendidos por $*679*$ escudos. Isto é, os algarismos das unidades e das dezenas de milhar estavam ilegíveis. Qual o preço a que, no ano anterior, foi vendido cada pintainho?\n",
+    "level": 3,
+    "contains_latex_figure_in_question": false,
+    "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: Um criador de galinhas foi verificar qual o preço por pintainho que tinha cobrado no ano anterior. Encontrou uma factura, meio apagada, onde se lia: $72$ pintainhos vendidos por $*679*$ escudos. Isto é, os algarismos das unidades e das dezenas de milhar estavam ilegíveis. Qual o preço a que, no ano anterior, foi vendido cada pintainho?\n"
+  },
+  {
+    "id": 5,
+    "question": "A diagonal dum trapézio isósceles mede 16 metros e forma com a base do trapézio um ângulo de $45^{\\circ}$. Quanto mede a área do trapézio? (image1)\n\n\nConteúdo referenciado:\n[image1]\n\\begin{picture}(90.00,30.00)(0,50) \\put(50.00,50.00){\\line(1,0){40.00}} \\multiput(50.00,50.00)(0.12,0.12){250}{\\line(0,1){0.12}} \\multiput(80.00,80.00)(0.12,-0.36){84}{\\line(0,-1){0.36}} \\put(57.00,52.67){\\makebox(0,0)[cc]{$45^{\\circ}$}} \\multiput(50.00,50.00)(0.12,0.36){84}{\\line(0,1){0.36}} \\put(60.00,80.00){\\line(1,0){20.00}} \\end{picture}\n",
+    "level": 3,
+    "contains_latex_figure_in_question": true,
+    "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: A diagonal dum trapézio isósceles mede 16 metros e forma com a base do trapézio um ângulo de $45^{\\circ}$. Quanto mede a área do trapézio? (image1)\n\n\nConteúdo referenciado:\n[image1]\n\\begin{picture}(90.00,30.00)(0,50) \\put(50.00,50.00){\\line(1,0){40.00}} \\multiput(50.00,50.00)(0.12,0.12){250}{\\line(0,1){0.12}} \\multiput(80.00,80.00)(0.12,-0.36){84}{\\line(0,-1){0.36}} \\put(57.00,52.67){\\makebox(0,0)[cc]{$45^{\\circ}$}} \\multiput(50.00,50.00)(0.12,0.36){84}{\\line(0,1){0.36}} \\put(60.00,80.00){\\line(1,0){20.00}} \\end{picture}\n"
+  },
+  {
+    "id": 6,
+    "question": "Quatro suspeitos de um crime fizeram as seguintes declarações à polícia: António: O Carlos cometeu-o. Bernardo: Eu não o fiz. Carlos: O David cometeu-o. David: O Carlos mentiu quando disse que fui eu. Sabendo que exactamente uma das quatro declarações é verdadeira, quem cometeu o crime?\n",
+    "level": 3,
+    "contains_latex_figure_in_question": false,
+    "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: Quatro suspeitos de um crime fizeram as seguintes declarações à polícia: António: O Carlos cometeu-o. Bernardo: Eu não o fiz. Carlos: O David cometeu-o. David: O Carlos mentiu quando disse que fui eu. Sabendo que exactamente uma das quatro declarações é verdadeira, quem cometeu o crime?\n"
+  },
+  {
+    "id": 8,
+    "question": "O Nuno comprou 3 patos, 7 galinhas e 1 coelho. Pagou 17 mil e 200 escudos. O Pedro comprou 4 patos, 10 galinhas e 1 coelho e pagou 20 mil escudos. A Inês comprou 1 pato, 1 galinha e 1 coelho. Quanto pagou?\n",
+    "level": 3,
+    "contains_latex_figure_in_question": false,
+    "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: O Nuno comprou 3 patos, 7 galinhas e 1 coelho. Pagou 17 mil e 200 escudos. O Pedro comprou 4 patos, 10 galinhas e 1 coelho e pagou 20 mil escudos. A Inês comprou 1 pato, 1 galinha e 1 coelho. Quanto pagou?\n"
+  }
+]
