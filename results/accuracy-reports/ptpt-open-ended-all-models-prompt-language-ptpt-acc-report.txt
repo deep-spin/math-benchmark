@@ -1,23 +1,23 @@
 === Overall (fig and no fig) ===
 
 Model: qwen3-14b
-  Level 1: no data
-  Level 2: no data
-  Level 3: 4/4 correct (100.00%)
-  Level 4: no data
+  Level 1: 29/34 correct (85.29%)
+  Level 2: 71/96 correct (73.96%)
+  Level 3: 152/196 correct (77.55%)
+  Level 4: 157/221 correct (71.04%)
 
 === With figures only ===
 
 Model: qwen3-14b
-  Level 1: no data
-  Level 2: no data
-  Level 3: 1/1 correct (100.00%)
-  Level 4: no data
+  Level 1: 10/15 correct (66.67%)
+  Level 2: 30/44 correct (68.18%)
+  Level 3: 47/69 correct (68.12%)
+  Level 4: 38/54 correct (70.37%)
 
 === Without figures ===
 
 Model: qwen3-14b
-  Level 1: no data
-  Level 2: no data
-  Level 3: 3/3 correct (100.00%)
-  Level 4: no data
+  Level 1: 19/19 correct (100.00%)
+  Level 2: 41/52 correct (78.85%)
+  Level 3: 105/127 correct (82.68%)
+  Level 4: 119/167 correct (71.26%)
