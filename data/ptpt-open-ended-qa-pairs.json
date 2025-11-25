@@ -462,57 +462,9 @@
     "contains_latex_figure_in_question": false,
     "contains_latex_figure_in_answer": true,
     "contains_latex_figure": true,
-    "question_verbatim": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? o Arsénio e o Belmiro ganharam um total de 11 contos;",
+    "question_verbatim": "No concurso de televisão Casa Vazia, o Arsénio e o Belmiro ganharam um total de 11 contos, o Belmiro e o Casimiro ganharam um total de 17 contos, o Casimiro e o Durão ganharam um total de 11 contos, o Durão e a Esmeraldina ganharam um total de 33 contos, a Esmeraldina e a Felismina ganharam um total de 53 contos, a Felismina e o Belmiro ganharam um total de 32 contos. Quanto ganhou cada concorrente?",
     "answer_verbatim": "Designemos por $A$ o valor do prémio do Arsénio, por $B$ o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: $$ \\left\\{ (image1) \\right. $$ Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se $A-B=11-17+11-33+53-32$, isto é, $A-B=-7$. Somando esta equação com a primeira do sistema vem $2A=4$, logo $A=2$. Por substituições sucessivas nas equações do sistema vem $B=9, \\; C=8, \\; D=3, \\; E=30, \\; F=23.$",
-    "question_text": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? o Arsénio e o Belmiro ganharam um total de 11 contos;",
-    "answer_text": "Designemos por A o valor do prémio do Arsénio, por B o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: { (image1) . Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se A-B=11-17+11-33+53-32, isto é, A-B=-7. Somando esta equação com a primeira do sistema vem 2A=4, logo A=2. Por substituições sucessivas nas equações do sistema vem B=9, C=8, D=3, E=30, F=23.",
-    "images": {
-      "image1": "\\begin{array}{c} A+B=11 \\\\ B+C=17 \\\\ C+D=11 \\\\ D+E=33 \\\\ E+F=53 \\\\ F+B=32 \\end{array}"
-    },
-    "multiple_choice_question": false
-  },
-  {
-    "id": 48,
-    "level": 3,
-    "from": "1998-99_Final99.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": true,
-    "contains_latex_figure": true,
-    "question_verbatim": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? o Durão e a Esmeraldina ganharam um total de 33 contos;",
-    "answer_verbatim": "Designemos por $A$ o valor do prémio do Arsénio, por $B$ o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: $$ \\left\\{ (image1) \\right. $$ Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se $A-B=11-17+11-33+53-32$, isto é, $A-B=-7$. Somando esta equação com a primeira do sistema vem $2A=4$, logo $A=2$. Por substituições sucessivas nas equações do sistema vem $B=9, \\; C=8, \\; D=3, \\; E=30, \\; F=23.$",
-    "question_text": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? o Durão e a Esmeraldina ganharam um total de 33 contos;",
-    "answer_text": "Designemos por A o valor do prémio do Arsénio, por B o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: { (image1) . Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se A-B=11-17+11-33+53-32, isto é, A-B=-7. Somando esta equação com a primeira do sistema vem 2A=4, logo A=2. Por substituições sucessivas nas equações do sistema vem B=9, C=8, D=3, E=30, F=23.",
-    "images": {
-      "image1": "\\begin{array}{c} A+B=11 \\\\ B+C=17 \\\\ C+D=11 \\\\ D+E=33 \\\\ E+F=53 \\\\ F+B=32 \\end{array}"
-    },
-    "multiple_choice_question": false
-  },
-  {
-    "id": 49,
-    "level": 3,
-    "from": "1998-99_Final99.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": true,
-    "contains_latex_figure": true,
-    "question_verbatim": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Esmeraldina e a Felismina ganharam um total de 53 contos;",
-    "answer_verbatim": "Designemos por $A$ o valor do prémio do Arsénio, por $B$ o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: $$ \\left\\{ (image1) \\right. $$ Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se $A-B=11-17+11-33+53-32$, isto é, $A-B=-7$. Somando esta equação com a primeira do sistema vem $2A=4$, logo $A=2$. Por substituições sucessivas nas equações do sistema vem $B=9, \\; C=8, \\; D=3, \\; E=30, \\; F=23.$",
-    "question_text": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Esmeraldina e a Felismina ganharam um total de 53 contos;",
-    "answer_text": "Designemos por A o valor do prémio do Arsénio, por B o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: { (image1) . Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se A-B=11-17+11-33+53-32, isto é, A-B=-7. Somando esta equação com a primeira do sistema vem 2A=4, logo A=2. Por substituições sucessivas nas equações do sistema vem B=9, C=8, D=3, E=30, F=23.",
-    "images": {
-      "image1": "\\begin{array}{c} A+B=11 \\\\ B+C=17 \\\\ C+D=11 \\\\ D+E=33 \\\\ E+F=53 \\\\ F+B=32 \\end{array}"
-    },
-    "multiple_choice_question": false
-  },
-  {
-    "id": 50,
-    "level": 3,
-    "from": "1998-99_Final99.tex.json",
-    "contains_latex_figure_in_question": false,
-    "contains_latex_figure_in_answer": true,
-    "contains_latex_figure": true,
-    "question_verbatim": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Felismina e o Belmiro ganharam um total de 32 contos.",
-    "answer_verbatim": "Designemos por $A$ o valor do prémio do Arsénio, por $B$ o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: $$ \\left\\{ (image1) \\right. $$ Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se $A-B=11-17+11-33+53-32$, isto é, $A-B=-7$. Somando esta equação com a primeira do sistema vem $2A=4$, logo $A=2$. Por substituições sucessivas nas equações do sistema vem $B=9, \\; C=8, \\; D=3, \\; E=30, \\; F=23.$",
-    "question_text": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Felismina e o Belmiro ganharam um total de 32 contos.",
+    "question_text": "No concurso de televisão Casa Vazia, o Arsénio e o Belmiro ganharam um total de 11 contos, o Belmiro e o Casimiro ganharam um total de 17 contos, o Casimiro e o Durão ganharam um total de 11 contos, o Durão e a Esmeraldina ganharam um total de 33 contos, a Esmeraldina e a Felismina ganharam um total de 53 contos, a Felismina e o Belmiro ganharam um total de 32 contos. Quanto ganhou cada concorrente?",
     "answer_text": "Designemos por A o valor do prémio do Arsénio, por B o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: { (image1) . Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se A-B=11-17+11-33+53-32, isto é, A-B=-7. Somando esta equação com a primeira do sistema vem 2A=4, logo A=2. Por substituições sucessivas nas equações do sistema vem B=9, C=8, D=3, E=30, F=23.",
     "images": {
       "image1": "\\begin{array}{c} A+B=11 \\\\ B+C=17 \\\\ C+D=11 \\\\ D+E=33 \\\\ E+F=53 \\\\ F+B=32 \\end{array}"

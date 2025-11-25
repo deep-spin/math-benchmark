@@ -248,30 +248,6 @@
     "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? o Arsénio e o Belmiro ganharam um total de 11 contos;\n"
   },
   {
-    "id": 48,
-    "question": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? o Durão e a Esmeraldina ganharam um total de 33 contos;\n",
-    "correct_answer": "Designemos por $A$ o valor do prémio do Arsénio, por $B$ o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: $$ \\left\\{ (image1) \\right. $$ Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se $A-B=11-17+11-33+53-32$, isto é, $A-B=-7$. Somando esta equação com a primeira do sistema vem $2A=4$, logo $A=2$. Por substituições sucessivas nas equações do sistema vem $B=9, \\; C=8, \\; D=3, \\; E=30, \\; F=23.$",
-    "level": 3,
-    "contains_latex_figure_in_question": false,
-    "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? o Durão e a Esmeraldina ganharam um total de 33 contos;\n"
-  },
-  {
-    "id": 49,
-    "question": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Esmeraldina e a Felismina ganharam um total de 53 contos;\n",
-    "correct_answer": "Designemos por $A$ o valor do prémio do Arsénio, por $B$ o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: $$ \\left\\{ (image1) \\right. $$ Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se $A-B=11-17+11-33+53-32$, isto é, $A-B=-7$. Somando esta equação com a primeira do sistema vem $2A=4$, logo $A=2$. Por substituições sucessivas nas equações do sistema vem $B=9, \\; C=8, \\; D=3, \\; E=30, \\; F=23.$",
-    "level": 3,
-    "contains_latex_figure_in_question": false,
-    "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Esmeraldina e a Felismina ganharam um total de 53 contos;\n"
-  },
-  {
-    "id": 50,
-    "question": "No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Felismina e o Belmiro ganharam um total de 32 contos.\n",
-    "correct_answer": "Designemos por $A$ o valor do prémio do Arsénio, por $B$ o valor ganho pelo Belmiro e assim sucessivamente. O problema consiste em resolver o sistema: $$ \\left\\{ (image1) \\right. $$ Adicionando a primeira equação com a simétrica da segunda, com a terceira, com a simétrica da quarta, etc, obtém-se $A-B=11-17+11-33+53-32$, isto é, $A-B=-7$. Somando esta equação com a primeira do sistema vem $2A=4$, logo $A=2$. Por substituições sucessivas nas equações do sistema vem $B=9, \\; C=8, \\; D=3, \\; E=30, \\; F=23.$",
-    "level": 3,
-    "contains_latex_figure_in_question": false,
-    "prompt": "Resolve a seguinte questão de resposta aberta de matemática. Certifica-te de colocar a resposta final dentro de \\boxed{}. Usa Português Europeu para pensar e responder.\n\nQuestão: No concurso de televisão Casa Vazia, Quanto ganhou cada concorrente? a Felismina e o Belmiro ganharam um total de 32 contos.\n"
-  },
-  {
     "id": 51,
     "question": "Num quadrado $[ABCD]$ de lado $1\\;cm$, marcam-se pontos $P$ e $Q$ sobre os lados $[BC]$ e $[CD]$, respectivamente, de forma a que $\\overline{PC}=3\\,\\overline{PB}$ e $\\overline{QD}=2\\,\\overline{QC}$. Sendo $M$ o ponto de intersecção de $[AQ]$ com $[PD]$, determina a área do triângulo $[QMD]$.\n",
     "correct_answer": "Considere-se a figura (image1) onde $O$ é o pé da perpendicular a $[DC]$ que passa por $M$. Como $\\overline{PC}=3\\,\\overline{PB}$ e $\\overline{BC}=1$, tem-se $\\overline{PC}=3/4$. Analogamente, $\\overline{DQ}=2\\,\\overline{QC}$ e $\\overline{DC}=1$ implica $\\overline{DQ}=2/3$. Os triângulos $[MOQ]$ e $[OMD]$ são semelhantes aos triângulos $[QAD]$ e $[CPD]$, respectivamente. Então $$ \\frac{\\overline{OM}}{\\overline{AD}}=\\frac{\\overline{OQ}}{\\overline{DQ}}\\Leftrightarrow \\overline{OQ}=\\frac{2}{3}\\,\\overline{OM} $$ e $$ \\frac{\\overline{OM}}{\\overline{PC}}=\\frac{\\overline{OD}}{\\overline{DC}}\\Leftrightarrow \\overline{OD}=\\frac{4}{3}\\,\\overline{OM}. $$ Assim, $${\\displaystyle \\overline{DQ}=\\overline{DO}+\\overline{OQ}= \\frac{4}{3}\\,\\overline{OM}+\\frac{2}{3}\\,\\overline{OM}=2\\,\\overline{OM}}$$ e consequentemente ${\\displaystyle \\overline{OM}=\\frac{1}{3}}$. Portanto a área do triângulo $[QMD]$ é $$ \\frac{\\overline{DQ}\\times\\overline{OM}}{2}=\\frac{1}{9}. $$",

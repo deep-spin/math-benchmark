@@ -3,7 +3,7 @@
 Model: qwen3-14b
   Level 1: 29/34 correct (85.29%)
   Level 2: 71/96 correct (73.96%)
-  Level 3: 152/196 correct (77.55%)
+  Level 3: 152/193 correct (78.76%)
   Level 4: 157/221 correct (71.04%)
 
 === With figures only ===
@@ -19,5 +19,5 @@ Model: qwen3-14b
 Model: qwen3-14b
   Level 1: 19/19 correct (100.00%)
   Level 2: 41/52 correct (78.85%)
-  Level 3: 105/127 correct (82.68%)
+  Level 3: 105/124 correct (84.68%)
   Level 4: 119/167 correct (71.26%)
