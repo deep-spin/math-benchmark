@@ -1,0 +1,131 @@
+=== Overall (fig and no fig) ===
+
+Model: gemma-3-27b-it
+  Level 1: no data
+  Level 2: mean=64.83%, std=2.12%, runs=[66.94915254237289, 62.71186440677966]
+  Level 3: mean=70.71%, std=1.43%, runs=[69.28571428571428, 72.14285714285714]
+  Level 4: mean=65.00%, std=0.19%, runs=[64.81481481481481, 65.18518518518519]
+
+Model: llama-3.3-70b-instruct
+  Level 1: no data
+  Level 2: mean=35.17%, std=0.42%, runs=[35.59322033898305, 34.74576271186441]
+  Level 3: mean=32.14%, std=2.86%, runs=[35.0, 29.28571428571429]
+  Level 4: mean=30.93%, std=2.04%, runs=[32.96296296296296, 28.888888888888886]
+
+Model: qwen3-14b
+  Level 1: no data
+  Level 2: mean=89.41%, std=1.27%, runs=[90.67796610169492, 88.13559322033898]
+  Level 3: mean=91.07%, std=1.07%, runs=[90.0, 92.14285714285714]
+  Level 4: mean=88.70%, std=0.56%, runs=[88.14814814814815, 89.25925925925927]
+
+Model: qwen3-235b-a22b
+  Level 1: no data
+  Level 2: mean=88.98%, std=0.00%, runs=[88.98305084745762, 88.98305084745762]
+  Level 3: mean=91.07%, std=1.79%, runs=[92.85714285714286, 89.28571428571429]
+  Level 4: mean=89.26%, std=2.22%, runs=[91.48148148148148, 87.03703703703704]
+
+Model: qwen3-30b-a3b
+  Level 1: no data
+  Level 2: mean=85.17%, std=2.97%, runs=[82.20338983050848, 88.13559322033898]
+  Level 3: mean=87.86%, std=1.43%, runs=[89.28571428571429, 86.42857142857143]
+  Level 4: mean=84.07%, std=0.37%, runs=[84.44444444444444, 83.7037037037037]
+
+Model: qwen3-32b
+  Level 1: no data
+  Level 2: mean=88.14%, std=0.85%, runs=[88.98305084745762, 87.28813559322035]
+  Level 3: mean=88.93%, std=0.36%, runs=[89.28571428571429, 88.57142857142857]
+  Level 4: mean=85.56%, std=0.37%, runs=[85.18518518518519, 85.92592592592592]
+
+Model: qwen3-8b
+  Level 1: no data
+  Level 2: mean=85.17%, std=2.12%, runs=[87.28813559322035, 83.05084745762711]
+  Level 3: mean=86.79%, std=0.36%, runs=[87.14285714285714, 86.42857142857143]
+  Level 4: mean=81.67%, std=0.19%, runs=[81.48148148148148, 81.85185185185185]
+
+=== With figures only ===
+
+Model: gemma-3-27b-it
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+
+Model: llama-3.3-70b-instruct
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+
+Model: qwen3-14b
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+
+Model: qwen3-235b-a22b
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+
+Model: qwen3-30b-a3b
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+
+Model: qwen3-32b
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+
+Model: qwen3-8b
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+
+=== Without figures ===
+
+Model: gemma-3-27b-it
+  Level 1: no data
+  Level 2: mean=64.83%, std=2.12%, runs=[66.94915254237289, 62.71186440677966]
+  Level 3: mean=70.71%, std=1.43%, runs=[69.28571428571428, 72.14285714285714]
+  Level 4: mean=65.00%, std=0.19%, runs=[64.81481481481481, 65.18518518518519]
+
+Model: llama-3.3-70b-instruct
+  Level 1: no data
+  Level 2: mean=35.17%, std=0.42%, runs=[35.59322033898305, 34.74576271186441]
+  Level 3: mean=32.14%, std=2.86%, runs=[35.0, 29.28571428571429]
+  Level 4: mean=30.93%, std=2.04%, runs=[32.96296296296296, 28.888888888888886]
+
+Model: qwen3-14b
+  Level 1: no data
+  Level 2: mean=89.41%, std=1.27%, runs=[90.67796610169492, 88.13559322033898]
+  Level 3: mean=91.07%, std=1.07%, runs=[90.0, 92.14285714285714]
+  Level 4: mean=88.70%, std=0.56%, runs=[88.14814814814815, 89.25925925925927]
+
+Model: qwen3-235b-a22b
+  Level 1: no data
+  Level 2: mean=88.98%, std=0.00%, runs=[88.98305084745762, 88.98305084745762]
+  Level 3: mean=91.07%, std=1.79%, runs=[92.85714285714286, 89.28571428571429]
+  Level 4: mean=89.26%, std=2.22%, runs=[91.48148148148148, 87.03703703703704]
+
+Model: qwen3-30b-a3b
+  Level 1: no data
+  Level 2: mean=85.17%, std=2.97%, runs=[82.20338983050848, 88.13559322033898]
+  Level 3: mean=87.86%, std=1.43%, runs=[89.28571428571429, 86.42857142857143]
+  Level 4: mean=84.07%, std=0.37%, runs=[84.44444444444444, 83.7037037037037]
+
+Model: qwen3-32b
+  Level 1: no data
+  Level 2: mean=88.14%, std=0.85%, runs=[88.98305084745762, 87.28813559322035]
+  Level 3: mean=88.93%, std=0.36%, runs=[89.28571428571429, 88.57142857142857]
+  Level 4: mean=85.56%, std=0.37%, runs=[85.18518518518519, 85.92592592592592]
+
+Model: qwen3-8b
+  Level 1: no data
+  Level 2: mean=85.17%, std=2.12%, runs=[87.28813559322035, 83.05084745762711]
+  Level 3: mean=86.79%, std=0.36%, runs=[87.14285714285714, 86.42857142857143]
+  Level 4: mean=81.67%, std=0.19%, runs=[81.48148148148148, 81.85185185185185]
