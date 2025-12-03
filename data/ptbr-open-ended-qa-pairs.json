@@ -6,7 +6,7 @@
         "answer_text": "Sejam a < b os lados do retângulo. Então 2(a+b) = ab = n, e ab - 2a - 2b = 0 é equivalente a a(b-2) - 2(b-2) = 4. Como a e b são diferentes, a-2=1 e b-2=4, de modo que a=3 e b=6, e n = 2(3+6) = 18.",
         "contains_latex_figure": false,
         "id": 1771,
-        "level": 3,
+        "level": 4,
         "from": "obm/2013/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -17,7 +17,7 @@
         "answer_text": "Temos\n\n    ∑_n=1^N1/n(n+1)^2 = ∑_n=1^N( 1/n - 1/n+1 - 1/(n+1)^2) = ∑_n=1^N( 1/n - 1/n+1) - ∑_n=1^N1/(n+1)^2\n\n\n    = ( 1 - 1/N+1) - ( 1/2^2 + 1/3^2 + … + 1/(N+1)^2) = 1 - 1/N+1 - ( π^2/6 - 1 ) = 2 - 1/N+1 - π^2/6\n\nSendo A e B inteiros positivos, A=2 e B=6, de modo que A+B=8.",
         "contains_latex_figure": false,
         "id": 1772,
-        "level": 3,
+        "level": 4,
         "from": "obm/2013/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -28,7 +28,7 @@
         "answer_text": "Contemos os fatores primos que podem aparecer entre 1 e 20:\n\n    \n  * 10 + 5 + 2 + 1 = 18 fatores 2 (10 pares, 5 múltiplos de 4, 2 múltiplos de 8 e 1 múltiplo de 16);\n    \n  * 6 + 2 = 8 fatores 3 (6 múltiplos de 3 e 2 múltiplos de 9);\n    \n  * 4 fatores 5;\n    \n  * 3 fatores 7;\n    \n  * 1 de cada um dos fatores 11, 13, 17 e 19.\n\nAo fazermos o produto de 15 números entre 1 e 20, deixamos 5 números de fora. Assim, existem subconjuntos X_1, X_2, …, X_5 de {1, …, 20} tais que p(X_i) não tem fator 2 (deixamos todos os múltiplos de 2 de fora). Em compensação, há outros 5 números que são múltiplos de 10 (= 2 × 5), 5 múltiplos de 12 (= 2^2 × 3), 5 múltiplos de 14 (= 2 × 7), 5 múltiplos de 16 (= 2^4), 5 múltiplos de 18 (= 2 × 3^2), 5 múltiplos de 20 (= 2^2 × 5). É possível fazer com que cada múltiplo de 3 tenha somente um fator 5 (escolhemos só o 3, por exemplo) e cada múltiplo de 2 tenha somente um fator 2 (escolhemos 2, 6, 10 e 18). Logo o mdc pedido é 2^3 × 3^2 = 96.",
         "contains_latex_figure": false,
         "id": 1773,
-        "level": 3,
+        "level": 4,
         "from": "obm/2013/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -39,7 +39,7 @@
         "answer_text": "Suponhamos que vamos usar x heptaminós e y octaminós. Então para cobrir tudo, temos 7x + 8y = 112. Mas 112 = 7 × 16 é múltiplo de 7 e de 8, logo 7x = 112 - 8y é múltiplo de 7 e 8y é múltiplo de 7. 112 - 7x = 8y é múltiplo de 8 e 7x é múltiplo de 8. Como 7 e 8 são primos entre si, x é múltiplo de 8 e y é múltiplo de 7. Sendo x = 8t e y = 7u, temos 7 · 8t + 8 · 7u = 112  t+u = 2. Assim, os valores de (t,u) são (0,2), (1,1) e (2,0), que correspondem a (x,y) sendo (0,14), (8,7) e (16,0).\nCaso 1: (x,y) = (0,14): apenas uma maneira de cobrir, já que todas as peças são octaminós.\nCaso 2: (x,y) = (8,7): temos no total 8+7=15 peças que colocaremos no tabuleiro. Lembrando que elas vão ser colocadas uma seguida da outra, sem deixar \"buracos\" e que elas são de cores distintas, temos apenas que escolher as posições na ordem em que colocaremos os heptaminós. Sendo assim há 158 = 6435 preenchimentos nesse caso.\nCaso 3: (x,y) = (16,0): análogo ao caso 1, apenas uma maneira.\nLogo, no total temos 158 + 2 = 6437 maneiras de cobrir completamente o tabuleiro.",
         "contains_latex_figure": false,
         "id": 1774,
-        "level": 3,
+        "level": 4,
         "from": "obm/2013/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -50,7 +50,7 @@
         "answer_text": "Seja x+y+z+w. Então o sistema é equivalente a x^3+y^3+z^3+w^3=S. Fixando S, temos que x,y,z,w são soluções da equação de terceiro grau t^3-S=0, que tem no máximo 3 raízes. Logo pelo menos dois dos números x,y,z,w são iguais. Consideremos então os seguintes casos:\n\n    \n  * x=y=z=w: substituindo no sistema, temos a equação -x^3 = 3x  x=0 ou x^2=-3. Logo a única solução nesse caso é (0,0,0,0).\n    \n  * x=y=z ≠ w: Nesse caso, obtemos o sistema a-2a+b=b^3-3a. Substituindo a=b, obtemos b^3-2b=2b^3/3 e b^3=0, o que não é possível. Logo o sistema é equivalente a a-b^3/3 e b^3-2b=27. A função f(x)=x^3-18x-27 é par (isto é, f(x)=f(-x)) e crescente para x>0. Assim, como f(0)=-27 e f(3)=0, a equação b^3-2b=27 tem duas soluções r e -r, nesse caso, temos a=r^3/3 e b=r ou a=r^3/3 e b=-r. Como há 6 anagramas de a,a,a,b, há 2 · 4 = 8 soluções nesse caso.\n    \n  * x=y ≠ z=w: Nesse caso, obtemos o sistema a^3+a^3+b^3+b^3=2a^3+2b^3. Somando as duas equações obtemos (a^3+b^3)^2 = 3(a^3+b^3) + 2(a^3+b^3) = 5(a^3+b^3). O segundo caso é impossível, pois a^3+b^3 deve ser a^3+b^3 = 4. No primeiro caso, temos -a^3-a^3-2b^3 = -2b^3, ou seja, a^3=b^3. Como a e b são diferentes, temos (a,b) = (-1,1). Nesse caso, como há 4!/2!2! = 6 anagramas de a,a,b,b, há seis soluções nesse caso.\n    \n  * x=y, z, w distintos: Nesse caso, temos -a^3-a^3-b^3-c^3 = -a^3-a^3-b^3-c^3. Como a,b,c são distintos, temos a^3+b^3+c^3 = a^3+b^3+c^3. (*), de modo que a^3+b^3+c^3 = 0. (*), de modo que a^3+b^3+c^3 = 0. (*), de modo que (a,b,c) = (1,-1,1). Verifica-se que esses valores de a,b,c satisfazem o sistema. Como há 4! = 24 anagramas de a,b,c,d, nesse caso há 12 soluções.\n\n21!!!\nPortanto o total de soluções reais é 1+8+6+12 = 27.",
         "contains_latex_figure": false,
         "id": 1775,
-        "level": 3,
+        "level": 4,
         "from": "obm/2013/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -61,7 +61,7 @@
         "answer_text": "Vamos separar as frações nas maiores potências de 3 que dividem o denominador. Como 3^6 = 729 < 2013 < 2187 = 3^7, não aparece 3^7 no denominador. Somando frações com denominadores 3^6 = 729 e 2 · 3^5 = 486 < 2013, temos\n\n    1/3^6 + 1/2 · 3^5 = 1/729 + 1/486 = 2+3/2 · 3^6 = 5/1458\n\nAssim, não aparece 3^6 no denominador, pois ele é cancelado.\nVejamos agora os denominadores com múltiplos de 3^5 = 243. Tomemos o cuidado de não tomar frações já tratadas, ou seja, tomemos 243k onde k não é múltiplo de 3. Veja ainda que 243 · 8 < 2013 < 243 · 9, logo obtemos:\n\n    1/3^5 · 1 + 1/3^5 · 2 + 1/3^5 · 4 + 1/3^5 · 5 + 1/3^5 · 7 + 1/3^5 · 8\n\n\n    = 1/3^5( 1 + 1/2 + 1/4 + 1/5 + 1/7 + 1/8) = 1/243( 1/1 + 1/2 + 1/4 + 1/5 + 1/7 + 1/8)\n\n\n    = 1/243( 1/1 + 1/2 + 1/4 + 1/5 + 1/7 + 1/8) = 1/243( 140+70+35+28+20+17.5/140) = 1/243( 310.5/140)\n\nAqui, juntamos as frações das pontas:\n\n    1/3^t(9-1) - 1/3^t(9-1) = 1/3^t(9-1) - 1/3^t(9-1)\n\nEntão, a soma das frações com denominador com exatamente cinco fatores 3 têm como maior potência de 3 divisora do denominador no máximo 27. Ou seja:\n\n    1/3^5 · 1 + 1/3^5 · 2 + 1/3^5 · 4 + 1/3^5 · 5 + 1/3^5 · 7 + 1/3^5 · 8 = A ·1/B,  com B_1  não múltiplo de 3.\n\nAí pode ser múltiplo de 3, mas isso não irá interferir, como veremos a seguir.\nSomando todas as outras frações, temos que a maior potência de 3 que divide algum denominador é 3^5. Logo tal soma é da forma A_1/B_1, em que B_1 não é múltiplo de 3.\nSomando tudo, temos a soma total\n\n    A/B = 1/2 · 3^5 + A_1/B_1 = A_1 · 2 · 3^5 + B_1/B_1 · 2 · 3^5 = 2A_1 · 3^5 + B_1/2B_1 · 3^5\n\nComo B_1 e B_2 não são múltiplos de 3, o numerador acima não é múltiplo de 3, e o 3^5 no denominador não é cancelado.\nConcluímos que a maior potência de 3 que divide B é 3^5, ou seja, n=5.",
         "contains_latex_figure": false,
         "id": 1776,
-        "level": 3,
+        "level": 4,
         "from": "obm/2013/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -72,7 +72,7 @@
         "answer_text": "Tome os seguintes subconjuntos de três elementos: \n{1,2,3}; {4,5,6}; ...; {16,17,18}.\nTemos 6 conjuntos. Se tomarmos os dois primeiros elementos de cada conjunto, teremos 12 elementos sem que hajam três consecutivos. Já se tomarmos 13 elementos, pelo princípio das casas dos pombos, tomaremos 3 elementos de um mesmo subconjunto descrito formando assim três elementos consecutivos.",
         "contains_latex_figure": false,
         "id": 1777,
-        "level": 2,
+        "level": 3,
         "from": "obm/2013/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -83,7 +83,7 @@
         "answer_text": "Houve um pequeno erro no enunciado. A segunda pista deveria ser \"tem exatamente 6 divisores\". Por isso, aceitam-se duas respostas, uma para cada interpretação possível.\n\nCaso seja feito com exatamente 6 divisores.\nComecemos fazendo a segunda pista. Se um número possui 6 divisores, então sua fatoração em números primos só pode ser da forma p^5 ou p^2q, para primos p e q distintos. Pela terceira pista, teremos os seguintes casos para analisar:\n\n    \n  * p^5 com p=5.\n    Neste caso, teremos o número 5^5 = 3125, que é maior que 3001.\n    \n  * p^2q com r=5.\n    Teremos 25s. Para ser maior que 3001, devemos ter s > 3001/25 = 3000/25 = 120. Notando que não há primos de 121 até 125, vemos que s > 125 e consequentemente r^2s > 3125. Portanto, este caso gera apenas soluções maiores que 3125.\n    \n  * r^2s com s=5.\n    Teremos o números 5r^2. Usando a primeira pista, devemos ter r^2 > 3001/5 = 600. Logo, r^2 > 24^2, ou seja, r ≥ 25. Mas como 25 não é primo, teríamos r=25 e consequentemente r^2s > 3125. Então, este caso gera soluções maiores que 3125.\n\nA senha de Abel é 3125.\n\nCaso seja feito sem considerar exatamente 6 divisores, ou seja, possuir 6 ou mais divisores.\nObserve que o número é múltiplo de 5 maior que 3001. Fazendo os testes, vemos que 3005 possui apenas 2 divisores. O seguinte 3010 possui 16 divisores. Logo, nessa interpretação a senha de Abel é 3010.",
         "contains_latex_figure": false,
         "id": 1778,
-        "level": 2,
+        "level": 3,
         "from": "obm/2013/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -94,7 +94,7 @@
         "answer_text": "Vamos contar as potências perfeitas de 0 a 259. Veja que, basta olharmos os expoentes primos, pois se tivermos uma potência composta da forma x^p · p, com p primo, também teremos a potência de um primo uma vez que a^x · p = (a^x)^p. Temos:\n\n    \n  * 16 quadrados perfeitos 1^2, 2^2, ..., 16^2\n    \n  * 6 cubos perfeitos 1^3, 2^3, ..., 6^3\n    \n  * 3 potências quintas 1^5, 2^5, 3^5\n    \n  * 2 potências sétimas 1^7, 2^7\n\nComo citado, as potências de expoentes 4, 6 e 8 já estão incluídas nas potências de 2. Note também que as potências de expoente 9 ou maior, mesmo com base 2, são maiores que 259 e, as que possuem base 1, já foram contadas.\nDaí, tomando o cuidado de tirar 3 vezes o número 1, pois ele está sendo contado 4 vezes e 1 vez o número 64 que está sendo contado duas vezes (64 = 8^2 = 4^3), concluímos a princípio que existiriam 16+6+3+2-3-1=23 possíveis horas potências distintas.\nEntretanto, as potências 8^2, 9^2, 13^2 e 14^2 são as que possuem o número formado pelas dezenas e unidades maiores que 60, logo não são horas potências. Finalmente, temos que a quantidade de horas potências depois de 00:00 e antes de 02:59 é 23-4=19.",
         "contains_latex_figure": false,
         "id": 1779,
-        "level": 2,
+        "level": 3,
         "from": "obm/2013/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -105,7 +105,7 @@
         "answer_text": "a)\n\n    linha     X     Y \n    \n    1     2     1 \n    \n    2     2     2 \n    \n    3    2^2    1 \n    \n    4    2^2   2^2\n    \n    5    2^3    1 \n    \n    6    2^3   2^3\n    \n    7    2^4    1 \n    \n    8    2^4   2^4\n    \n    9    2^5    1 \n    \n    10    2^5   2^5\n\nb) Vemos, na tabela acima, que os expoentes de 2 nas linhas 2, 4, 6, 8 e 10 são, respectivamente 1, 2, 4, 8 e 16, isto é, dobram a cada duas linhas. Assim, na linha de número 2n, o expoente de 2 é 2^n-1. Portanto, na linha 20, o expoente de 2 é 2^9, isto é, X=Y=2^9. Portanto, na linha 21, o expoente de 2 é\n\n    2^21-1 = 2^20 = 2^10· 2^10 = 2^10· 2^10 = 2^20\n\nLogo, na linha 21, teremos a soma: X+Y = 2^20 + 1.",
         "contains_latex_figure": false,
         "id": 1780,
-        "level": 2,
+        "level": 3,
         "from": "obm/2013/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -116,7 +116,7 @@
         "answer_text": "Como 2013 = 3 · 11 · 61, cada um desses primos deve aparecer na fatoração de exatamente um dos quatro números x,y,z e w. Temos 4 opções para escolher em que número da quádrupla o primo irá aparecer; portanto, o número de quádruplas é 4^3 = 64.",
         "contains_latex_figure": false,
         "id": 1781,
-        "level": 2,
+        "level": 3,
         "from": "obm/2013/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -127,7 +127,7 @@
         "answer_text": "Suponha que, após abrir C caixas, Led ainda não consiga abrir o portal. Isso significa que há pelo menos uma chave que ele não possui.\nEntão, as caixas que ele abriu possuíam pares de chaves capazes de abrir não mais que 9 cadeados. Logo, teremos C ≤92 = 9 · 8/2 = 36. De fato, se ele abrir caixas que possuem todos os pares das chaves de um conjunto de 9 cadeados ele não conseguirá abrir o portal.\nPor outro lado, nota-se também que se Led abrir 37 caixas distintas, saberemos que suas chaves não poderão ser um subconjunto de chaves capazes de abrir não mais que 9 cadeados, pois é maior que 36.\nEntão, o número mínimo de caixas que Led deve abrir é 37.",
         "contains_latex_figure": false,
         "id": 1782,
-        "level": 2,
+        "level": 3,
         "from": "obm/2013/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -138,7 +138,7 @@
         "answer_text": "[Resposta: 0008]\nSolução: Um número é quadrado perfeito quando os primos em sua fatoração tem expoente par. Assim, observando que 28 = 2^2 · 7 e 7^2 = 7^2, nota-se que devemos intervir no expoente do 7. Para isso, são dois que nos preocupam com o 2, pois o seu expoente em 28 · a^2 · b^2 · c é 2 + 2a + 2b + c. Pelo menos um dos números a ou b é divisível por 7, ou seja, um deles é pelo menos 7 e o outro é pelo menos 1. Logo a soma é no mínimo 8. Note que os valores a = 7c e b = 1 satisfazem a condição, já que 28 · a^2 · b^2 · c = 98^2 · c.",
         "contains_latex_figure": false,
         "id": 1783,
-        "level": 1,
+        "level": 2,
         "from": "obm/2013/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -149,7 +149,7 @@
         "answer_text": "[Resposta: 0102]\nSolução: Sendo x a quantidade de retângulos que enfileiramos com o lado 3  cm e y a quantidade que enfileiramos com o lado 4  cm, então x · 3 + y · 4 = 12 é o total de retângulos e o perímetro é 3x + 3x + 4y + 4y = 6x + 8y.\nÉ assim, temos apenas que verificar os seguintes casos:\n\n    \n  * x = 1, y = 12 →perímetro = 102\n    \n  * x = 2, y = 6 →perímetro = 60\n    \n  * x = 3, y = 4 →perímetro = 50\n    \n  * x = 4, y = 3 →perímetro = 48\n    \n  * x = 6, y = 2 →perímetro = 52\n    \n  * x = 12, y = 1 →perímetro = 80\n\nVemos, portanto, que o perímetro máximo é 102.",
         "contains_latex_figure": false,
         "id": 1784,
-        "level": 1,
+        "level": 2,
         "from": "obm/2013/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -160,7 +160,7 @@
         "answer_text": "[Resposta: 0004]\nSolução:\nVamos supor que esse máximo fosse 3. Sendo C a questão que ela marcou a alternativa correta e E a questão que ela errou, então, a maior quantidade que Júlia poderia acertar ocorreria quando C, C, C, E, C, C, C, E, C, C, C, E, …\nOu seja, ela acertaria 3 e erraria 1 em cada 4 questões. Ora, mas isso seria igual a 3/4· 128 = 96, que é menor do que as 100 que ela acertou. Desse modo, N > 3.\nAnalisando o caso seguinte, veja que ela pode acertar, por exemplo, C, C, C, C, E, C, C, C, C, E, …, C, C, C, C, E, E, E, E\nonde ela acertaria 4/5· 125 = 100 questões até a questão 125 e ela erraria as 3 últimas.",
         "contains_latex_figure": false,
         "id": 1785,
-        "level": 1,
+        "level": 2,
         "from": "obm/2013/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -171,7 +171,7 @@
         "answer_text": "[Resposta: 0010]\nSolução:\nVeja que, se antes de um aluno ir ao quadro, havia n números, então:\n\n    \n  * Se n é par, passamos a ter n/2 números, apagando-se o segundo, o quarto, ..., e o n-ésimo.\n    \n  * Se n é ímpar, passamos a ter n+1/2 números, apagando-se o segundo, o quarto, ..., e o (n-1)-ésimo.\n\nVamos então olhar quantos números restam após cada aluno ir até o quadro:\n1000 → 500 → 250 → 125 → 63 → 32 → 16 → 8 → 4 → 2 → 1\nOu seja, vemos que 10 alunos foram até o quadro.",
         "contains_latex_figure": false,
         "id": 1786,
-        "level": 1,
+        "level": 2,
         "from": "obm/2013/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -182,7 +182,7 @@
         "answer_text": "\n    \n  (a)\n    \n    [ linha     X     Y;     1     2     1;     2     2     2;     3   2^2     1;     4   2^2   2^2;     5   2^3     1;     6   2^3   2^3;     7   2^4     1;     8   2^4   2^4;     9   2^5     1;    10   2^5   2^5;       ]\n\n    \n  (b) Vemos, na tabela acima, que os expoentes do 2 nas linhas 2, 4, 6, 8, 10 são, respectivamente, 1, 2, 3, 4, 5, isto é, dobram a cada duas linhas. Assim, na linha de número 2n, o expoente do 2 é n. Portanto, na linha 2012, o expoente de 2 é 1006, isto é X = Y = 2^1006.\nAssim, na linha 2013 o expoente de 2 é 1006, então X = 2^1006 e Y = 1.\nLogo X+Y = 2^1006+1.\n",
         "contains_latex_figure": false,
         "id": 1787,
-        "level": 1,
+        "level": 2,
         "from": "obm/2013/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -193,7 +193,7 @@
         "answer_text": "Denotaremos o imparcial de n por n&. Para determinar os três últimos algarismos de 2014&, devemos encontrar o resto de 2014&÷ 1000. Para isso, analisaremos tal número módulo 8 e módulo 125.\nAnalisando inicialmente módulo 8, sendo 2014 = 8 · 251 + 6, 2014& = (1 · 3 · 5 · 7)^251· 3 · 5 = 1^251· 7 = 7 (mód 8).\nAnalisando agora módulo 125, temos que 125 é um dos fatores de 2014&, e, portanto, 2014& = 0 (mód 125). Assim, 2014&≡ 125t  125t ≡ 7 (mód 8) 5t ≡ 7 (mód 8) t ≡ 3 (mód 8).\nLogo t = 8k + 3 e 2014& = 125(8k+3) = 1000k + 375 = 375 (mód 1000).\nLogo os três últimos algarismos de 2014& são 375.",
         "contains_latex_figure": false,
         "id": 1788,
-        "level": 3,
+        "level": 4,
         "from": "obm/2014/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -204,7 +204,7 @@
         "answer_text": "Elevando ao quadrado a condição dada, obtemos a_n^2 = a_n-1^2 + n. Somando tal relação com n variando de 2 até 2014, temos a_2014^2 = a_1^2 + 2 + 3 + … + 2014. Como a_1 = 1, e a sequência é formada apenas por números positivos, segue que\n\n    a_2014 = √(1 + 2014 · 2015/2) = √(1 + 2029105) = √(2029106)≈ 1424.47.\n\nLogo, o inteiro mais próximo de a_2014 é 1424.",
         "contains_latex_figure": false,
         "id": 1789,
-        "level": 3,
+        "level": 4,
         "from": "obm/2014/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -215,7 +215,7 @@
         "answer_text": "Seja k a quantidade de elementos de um conjunto com mediana 2012. Temos k ≥ 1.\nSe k é ímpar, escolhemos k-1/2 elementos do conjunto {1,2,…,2011} e k-1/2 elementos do conjunto {2013,2014}. Por causa disso, k-1/2≤ 2011 e k-1/2≤ 2. Com isso, há 2011k-1/22k-1/2 conjuntos nesse caso. Somando, obtemos\n\n    2011020 + 2011121 + 2011222.\n\nSe k é par, então k ≤ 2 ou k = 4. Se k=2, podemos escolher {2011,2013} ou {2010,2014}; se k=4, devemos ter dois números maiores do que 2012, ou seja, ambos 2013 e 2014, 2013, e qualquer um dos números de 1 a 2010. Assim, se k é par, o total é 2+1010 = 2012.\nSomando tudo e vendo módulo 2014, temos\n\n    2011020 + 2011121 + 2011222 + 2012 = 1 + (2011 · 2) + (2011 · 2010 / 2) + 2012 = 1 + 4022 + 2011 · 1005 + 2012 = 2027090 ≡ 1006 2014.\n",
         "contains_latex_figure": false,
         "id": 1790,
-        "level": 3,
+        "level": 4,
         "from": "obm/2014/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -226,7 +226,7 @@
         "answer_text": "Seja b < k e divide b, ou seja, b é múltiplo de a, b é pelo menos 2a, ou seja, b ≥ 2a. Assim, sendo a_n = 2^a_n-1, a_n < 2016  a_n-1 < log_2 2016  a_n-1 < 10.97  a_n ≤ 11.\na_n = 2^a_n-1.\na_n < 2000000  2^a_n-1 < 2000000  a_n-1 < log_2 2000000  a_n-1 < 20.9  a_n ≤ 21.\nOs elementos de um conjunto completamente divisível, temos\n\n    2000000 ≥ a_n ≥ 2a_n-1≥ 2 · 2^a_n-1-1 = 2^a_n-1≥ 2^2a_n-2≥…≥ 2^2^n-1a_1\n\n\n    2000000 ≥ 2^2^n-1a_1\n\n\n    2000000 ≥ 2^2^n-1\n\n\n    2^20.9≥ 2^2^n-1\n\n\n    20.9 ≥ 2^n-1\n\n\n    4.38 ≥ n-1\n\n\n    n ≤ 5.38\n\nEntão n ≤ 5.\nAlém disso, todos os números a_1, …, a_n são divisores de 2016 = 2^5 · 3^2 · 7. Como 2016 tem 8 fatores primos (não necessariamente distintos, e a_i/a_i-1 é inteiro maior do que 1), k ≤ 8 é a quantidade n de elementos de um conjunto completamente divisível (n ≤ 8 + 10 = 18). O conjunto a seguir é um exemplo de conjunto completamente divisível com 18 elementos:\n{1,2,4,8,16,32,96,288,2016,4032,8064,16128,32256,64512,129024,258048,516096,1032192}.",
         "contains_latex_figure": false,
         "id": 1791,
-        "level": 3,
+        "level": 4,
         "from": "obm/2014/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -237,7 +237,7 @@
         "answer_text": "Seja n a quantidade de alunos que eram contra o adiamento da prova e seja 2n a quantidade de alunos que eram a favor do adiamento da prova. Sejam x o número de alunos que mudaram de a favor para contra o adiamento da prova, y o número de alunos que mudaram de contra para a favor do adiamento da prova. Como 5/9 dos alunos passaram a ser contra o adiamento da prova,\n\n    n+x-y/n+2n = 5/9n+x-y/3n = 5/9 3(n+x-y) = 5n  3n+3x-3y = 5n  3x-3y = 2n.\n\nComo x é inteiro, devemos ter n=3k, k inteiro positivo.\nLogo x=k+4. Como x ≤ 8, segue que k ≤ 4 e sendo o total de alunos 3n = 9k, o número máximo de alunos é 36, que claramente pode ser atingido.",
         "contains_latex_figure": false,
         "id": 1792,
-        "level": 3,
+        "level": 4,
         "from": "obm/2014/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -248,7 +248,7 @@
         "answer_text": "Seja x a quantidade de alunos da sala. Alguns alunos podem ter mudado o voto de \"a favor\" para \"contra\" e vice-versa. A diferença entre as quantidades de alunos nas duas circunstâncias que votaram contra representa o saldo entre esses dois tipos de trocas. Como apenas oito alunos mudaram de ideia, tal saldo não pode ser maior que 8, ou seja,\n\n    2x/9 - 5x/9≤ 8\n\nPortanto, x ≤ 36.",
         "contains_latex_figure": false,
         "id": 1793,
-        "level": 2,
+        "level": 3,
         "from": "obm/2014/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -259,7 +259,7 @@
         "answer_text": "Sejam x, y e z as quantidades de inteiros dentre os 5 que deixam restos 0, 1 e 2 na divisão por 3, respectivamente. Como a soma dos 5 é igual a 1, 0 · x + 1 · y + 2 · z = y + 2z deixa resto 1 na divisão por 3. Naturalmente, x, y e z são elementos do conjunto 0, 1, 2, 3, 4, 5. A última equação determina uma relação entre os possíveis valores de y e z:\n\n    \n  (i) se y = 0, z = 2 ou z = 5;\n    \n  (ii) se y = 1, z = 0 ou z = 3;\n    \n  (iii) se y = 2, z = 1;\n    \n  (iv) se y = 4, z = 2;\n    \n  (v) se y = 4, z = 0.\n\nEm um subconjunto de dois elementos com soma divisível por 3, ou ambos os inteiros são divisíveis por 3 ou um deles deixa resto 1 e o outro resto 2. Portanto a expressão que conta o número de somas divisíveis por 3 é:\n\n    x2 + y · z\n\nLembrando que x = 5 - y - z e estudando cada uma das cinco possibilidades para (x, y, z) resultantes da análise acima - como indicado na tabela abaixo -, podemos concluir que a quantidade máxima é 6 que ocorre quando (x, y, z) = (0, 3, 2).\n\n    x     y     z     Total de Somas \n    \n    3     0     2     0 \n    \n    0     0     5     0 \n    \n    1     1     3     3 \n    \n    4     1     0     0 \n    \n    2     2     1     2 \n    \n    0     3     2     6 \n    \n    1     4     0     4\n",
         "contains_latex_figure": false,
         "id": 1794,
-        "level": 2,
+        "level": 3,
         "from": "obm/2014/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -270,7 +270,7 @@
         "answer_text": "Para uma expressão dada, temos (x-y)(x+y) = 36. Como a soma de x+y e x-y é par, ou ambos são pares ou ambos são ímpares. Como 36 é par, ambos são pares e podemos escrever:\n\n    x-y/2x+y/2 = 9\n\nComo (x+y)/2 > 0 e 9 possui apenas 1, 3, 9 como divisores positivos, sabendo que (x+y)/2 > (x-y)/2 > 0 concluímos que:\n\n    (x-y)/2 = 1  e  (x+y)/2 = 9\n\nResolvendo o sistema resultante, temos (x,y) = (10,8).",
         "contains_latex_figure": false,
         "id": 1795,
-        "level": 2,
+        "level": 3,
         "from": "obm/2014/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -281,7 +281,7 @@
         "answer_text": "Um jogador deve obter pelo menos 4 vitórias pois caso contrário sua pontuação será no máximo:\n3 · 3 + 4 · 1 = 13.\nCom 4 vitórias, o jogador deve obter exatamente 3 empates. Em tal circunstância existem 73 = 7 · 6 · 5/3 · 2 · 1 = 35 maneiras de arranjar esses resultados dentre os sete jogos pois basta escolher as partidas que serão empates. Com 5 vitórias, ele deve perder os outros dois jogos. Em tal circunstância existem 72 = 7 · 6/2 · 1 = 21 maneiras de arranjar esses resultados dentre os sete jogos pois basta escolher quais partidas serão derrotas. Logo, o total é 35 + 21 = 56.",
         "contains_latex_figure": false,
         "id": 1796,
-        "level": 2,
+        "level": 3,
         "from": "obm/2014/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -292,7 +292,7 @@
         "answer_text": "\n    \n  (a) A cada 6 paradas consecutivas, sabemos que ele come exatamente um chocolate do tipo 1. Assim, após 2016 paradas, ele terá comido 2016/6 = 336 chocolates. Analogamente, ele terá comido 2016/4 = 504 chocolates do tipo 2.\n    \n  (b) Repetindo o procedimento do item (a) para os outros tipos de chocolates e sabendo que ele consumiu exatamente 2016 chocolates nas 2016 primeiras paradas, podemos concluir que:\n    \n    2016/a + 2016/b + 2016/c + 2016/4 + 2016/6 = 2016\n\n    Assim\n    \n    1176 - 2016/a + 2016/b + 2016/c = 2016 · (ab+ac+bc)/abc = 2016 · (ab+ac+bc)/144\n\n    Ou seja,\n    \n    1176 · 144/2016 = ab+ac+bc = 84\n\n\nObservação: Para cada um dos tipos de chocolates, as paradas realizadas por Cantor correspondem aos termos de uma progressão aritmética. Um exemplo possível de cinco progressões para a viagem de Cantor seria considerar os inteiros das formas: 4k+1, 4k+3, 6k, 6k+2 e 6k+4. Nesse caso, ab+bc+ca = 4 · 6 + 6 · 6 + 6 · 4 = 84.",
         "contains_latex_figure": false,
         "id": 1797,
-        "level": 2,
+        "level": 3,
         "from": "obm/2014/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -303,7 +303,7 @@
         "answer_text": "\n    \n  (a) A equação (x^2)^2 - (x^2) + 1 = x^2 pode ser reescrita como:\n    (x^2-1)^2 = (x^2)^2 - (x^2) + 1 - x^2 = 0.\n    Como (x^2-1)^2 = 0  x^2-1 = 0, segue que x = ± 1. Portanto, neste caso, o número de soluções reais distintas é 2.\n    \n  (b) Seja p(x) = y. Queremos determinar as raízes de p(y) = y, ou seja,\n    y^2-y+1 = y  (y-1)^2 = 0.\n    Devemos ter y = 1 e consequentemente x^2-x+1 = 1. As raízes desta equação do segundo grau são 0 e 1. Portanto, temos também neste caso duas soluções reais distintas.\n",
         "contains_latex_figure": false,
         "id": 1798,
-        "level": 2,
+        "level": 3,
         "from": "obm/2014/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -314,7 +314,7 @@
         "answer_text": "Note que a sequência segue o padrão 10 → 5 → 12 → 6 → 3 → 10 → 5 → 12 → 6 → 3 → 10 →… repetindo-a a cada 5 números. Sabendo que 2014 deixa resto 4 na divisão por 5, o 2014^∘ número será igual ao 4^∘ número da sequência, que é 6.",
         "contains_latex_figure": false,
         "id": 1799,
-        "level": 1,
+        "level": 2,
         "from": "obm/2014/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -325,7 +325,7 @@
         "answer_text": "Vamos considerar a ordem de altura das crianças do menor para o maior, chamando o menor de 1, o segundo menor de 2, e seguimos até chamar o maior de 10. Temos então (1,2,3, …,9,10). Em cada troca, um número à direita de outro passa à esquerda desse número. Então, podemos contar que o número de trocas feitas é pelo menos o número de pessoas da direita para a esquerda que devem acontecer. O 10 deve passar 9 vezes, cada um dos números de 1 a 9. O número 9 deve passar 8 vezes, e assim por diante. Portanto podemos concluir que o número de trocas é pelo menos 9+8+…+2+1 = 9 · 10/2 = 45. De fato, podemos fazer com essa quantidade de trocas se fizermos o 10 trocar 9 vezes para a esquerda, em seguida o 9 trocar 8 vezes para a esquerda, seguindo até que o 2 troca uma vez para a esquerda.",
         "contains_latex_figure": false,
         "id": 1800,
-        "level": 1,
+        "level": 2,
         "from": "obm/2014/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -336,7 +336,7 @@
         "answer_text": "Observe que o conjunto (a,b), com a < b, satisfaz a propriedade quando:\n\n    a+b = 2(b-a) ⇒ a+b = 2b-2a ⇒ 3a = b\n\nDesse modo, podemos notar que os conjuntos são (1,3), (2,6), (3,9), …, (32,96) e (33,99). Veja que se tomássemos a ≥ 34 ⇒ b = 3 · 34 = 102 ≥ 100. Concluímos, portanto, que existem 33 conjuntos com essa propriedade e tendo dois números menores que 100.",
         "contains_latex_figure": false,
         "id": 1801,
-        "level": 1,
+        "level": 2,
         "from": "obm/2014/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -347,7 +347,7 @@
         "answer_text": "\n\n  (a) O menor inteiro positivo com essas características é o 2. Observação: se o aluno interpretar que \"soma dos algarismos\" implica ter dois ou mais algarismos, a resposta seria 12, que será considerada de acordo com o critério a seguir.\n\n  (b) O maior número que não possui algarismos repetidos é 9876543210. Mas a soma dos algarismos desse número é 1+2+…+9=45 que não é primo. Então devemos excluir pelo menos um dígito desse número. O maior primo menor que 45 é 43, portanto devemos excluir o 2 e obtemos 987654310. Esse número é o maior número com as três características. Observe que excluir mais que um algarismo resulta em um número com menos algarismos e, portanto, menor.\n",
         "contains_latex_figure": false,
         "id": 1802,
-        "level": 1,
+        "level": 2,
         "from": "obm/2014/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -358,7 +358,7 @@
         "answer_text": "\n\n  (a) Não podemos dividir por (+), logo o primeiro sinal só pode ser {+,-,×}. Note que o resultado não será inteiro quando o terceiro sinal for ÷ e o segundo não for × nem +, para esses dois sinais a divisão seria 1/4 = 0. Então temos:\nSe o primeiro sinal for +:\n\n    2+0+1+4 = 2+1/4 = 9/4\n\n\n    2+0-1+4 = 2-1/4 = 7/4\n\nSe o primeiro sinal for -, o caso é análogo.\nSe o primeiro sinal for ×, temos:\n\n    0+1+4 = 1/4\n\n\n    0-1+4 = -1/4\n\nConcluímos, portanto, que 4 resultados não são inteiros.\n\n  (b) Basta contar que temos 3 maneiras de escolher o primeiro sinal, 4 maneiras de colocar o segundo e 4 maneiras de escolher o terceiro, ou seja, 3 · 4 · 4 = 48 maneiras.\n\n  (c) Vamos analisar casos para organizar os resultados.\nSe o primeiro sinal for ×:\n\n    \n  * Se o segundo sinal for ÷ ou ×:\n    \n        \n  * Se o terceiro sinal for ÷ ou ×, resulta em 0.\n        \n  * Se o terceiro sinal for +, resulta em 4.\n        \n  * Se o terceiro sinal for -, resulta em -4.\n    \n    \n  * Se o segundo sinal for +:\n    \n        \n  * Se o terceiro for + temos 2 × 0 + 1 + 4 = 5.\n        \n  * Se o terceiro for - temos 2 × 0 + 1 - 4 = -3.\n        \n  * Se o terceiro for × temos 2 × 0 + 1 × 4 = 4.\n        \n  * Se o terceiro for ÷ temos 2 × 0 + 1 ÷ 4 = 1/4.\n    \n    \n  * Se o segundo sinal for -:\n    \n        \n  * Se o terceiro for + temos 2 × 0 - 1 + 4 = 3.\n        \n  * Se o terceiro for - temos 2 × 0 - 1 - 4 = -5.\n        \n  * Se o terceiro for × temos 2 × 0 - 1 × 4 = -4.\n        \n  * Se o terceiro for ÷ temos 2 × 0 - 1 ÷ 4 = -1/4.\n    \n\nSe o primeiro sinal for +:\n\n    \n  * Se o segundo sinal for ÷ ou ×:\n    \n        \n  * Se o terceiro sinal for ÷ ou ×, resulta em 2.\n        \n  * Se o terceiro sinal for +, resulta em 6.\n        \n  * Se o terceiro sinal for -, resulta em -2.\n    \n    \n  * Se o segundo sinal for +:\n    \n        \n  * Se o terceiro for + temos 2 + 0 + 1 + 4 = 7.\n        \n  * Se o terceiro for - temos 2 + 0 + 1 - 4 = -1.\n        \n  * Se o terceiro for × temos 2 + 0 + 1 × 4 = 2 + 4 = 6.\n        \n  * Se o terceiro for ÷ temos 2 + 0 + 1 ÷ 4 = 2 + 1/4 = 9/4.\n    \n    \n  * Se o segundo sinal for -:\n    \n        \n  * Se o terceiro for + temos 2 + 0 - 1 + 4 = 5.\n        \n  * Se o terceiro for - temos 2 + 0 - 1 - 4 = -3.\n        \n  * Se o terceiro for × temos 2 + 0 - 1 × 4 = 2 - 4 = -2.\n        \n  * Se o terceiro for ÷ temos 2 + 0 - 1 ÷ 4 = 2 - 1/4 = 7/4.\n    \n\nSe o primeiro sinal for -, temos exatamente os mesmos resultados que tivemos com +, pois sabemos que 2+0_1_4 e 2-0_1_4 têm as mesmas possibilidades de resultados.\nEntão os resultados são: {-5, -4, -3, -2, -1, -1/4, 0, 1/4, 7/4, 9/4, 2, 3, 4, 5, 6, 7}. Vemos um total de 16 resultados diferentes possíveis.\n",
         "contains_latex_figure": false,
         "id": 1803,
-        "level": 1,
+        "level": 2,
         "from": "obm/2014/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -369,7 +369,7 @@
         "answer_text": "Seja r a solução correta de ax = b. A solução de bx = a é x = a/b = 1/r. Logo\n\n    1/r = r - 60 ⇔ r^2 - 60r - 1 = 0 ⇔ r = 30 ±√(901).\n\nComo r é da forma m + √(n), m inteiro, m = 30 e n = 901.",
         "contains_latex_figure": false,
         "id": 1804,
-        "level": 3,
+        "level": 4,
         "from": "obm/2015/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -380,7 +380,7 @@
         "answer_text": "Sejam a < b < c < d < e os elementos de um conjunto largo. Assim, b > a + 1, c > b + 2, d > c + 3 e > d + 4, ou seja, 1 ≤ a < b-1 < c-3 < d-6 < e-10 ≤ 10. Desta forma, {a, b-1, c-3, d-6, e-10} é um subconjunto de {1,2,3,...,10}. Reciprocamente, se {x,y,z,w,t} é um subconjunto de {1,2,3,...,10} com x < y < z < w < t então {x,y+1,z+3,w+6,t+10} é um conjunto largo, pois y+1-x ≥ 1, z+3-(y+1) ≥ 2, w+6-(z+3) ≥ 3, t+10-(w+6) ≥ 4. Com isso, a quantidade de subconjuntos largos é igual à quantidade de subconjuntos de 5 elementos de {1,2,3,...,10}, que é 105 = 10 · 9 · 8 · 7 · 6/5! = 252.",
         "contains_latex_figure": false,
         "id": 1805,
-        "level": 3,
+        "level": 4,
         "from": "obm/2015/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -391,7 +391,7 @@
         "answer_text": "Note que se x > 0 então f(2x) = x  0, ou seja, f não tem raízes pares além de 0. Além disso, f(4x+1) = g(2x) = f(x), e f(4x+3) = g(2x+1) = x  0. Assim, a única raiz na forma 4x+3 é 3.\n\nFaltam encontrar se raízes da forma 4x+1: ela é raiz se, e somente se x é raiz. Com isso, podemos reduzir todas as raízes para algum número menor do que 4. Temos f(0)=0, f(1)=0, f(0)=0, f(2)=1 e f(3)=0. Com isso, as raízes são obtidas iterando as sequências a_n e b_n definidas por a_0=0 e a_n=4a_n-1+1 e b_0=3 e b_n=4b_n-1+1. A seguinte tabela nos dá as raízes até 2015:\n\nn     0     1     2     3     4     5     6     7 \n\na_n     0     1     5     21     85     341     1365     > 2015 \n\nb_n     3     13     53     213     853     > 2015         \n\n\nLogo temos 7+5=12 raízes entre 0 e 2015.\n\nObservação: pode-se provar que as raízes são da forma 4^k-1/3 ou 10 · 4^k-1/3, k inteiro não negativo.",
         "contains_latex_figure": false,
         "id": 1806,
-        "level": 3,
+        "level": 4,
         "from": "obm/2015/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -402,7 +402,7 @@
         "answer_text": "Dividindo a primeira equação por c, a segunda por a e a terceira por b, obtemos\n\n    [ 1/c = 1/a + 1/b; 2/a = 1/b + 1/c; 3/b = 1/a + 1/c ]\n\nSeja P = 1/abc. Então b/c = P-2, c/a = P-3 e a/b = P-1. Multiplicando as três equações, obtemos\n\n    b/c·c/a·a/b = (P-2)(P-3)(P-1)\n\n\n    1 = (P-2)(P-3)(P-1)\n\n\n    ⇔ P^3 - 6P^2 + 11P - 12 = 0\n\n\n    ⇔ P=4  ou  P^2 - 2P + 3 = 0.\n\nComo a,b,c são reais, P=4. Com isso, abc = 1/4, b/c = 2, c/a = 1 e a/b = 3, ou seja, a=b=2c. Pode-se verificar que a=b=2c satisfaz a equação. Com isso, 2c · 2c · c = 1/4⇔ c = 1/2√(2). Logo (a+b+c)^3 = (1/2√(2) + 1/2√(2) + 1/2√(2))^3 = (3/2√(2))^3 = 27/16. Assim, a soma é 125+16=141.",
         "contains_latex_figure": false,
         "id": 1807,
-        "level": 3,
+        "level": 4,
         "from": "obm/2015/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -413,7 +413,7 @@
         "answer_text": "A resposta é 2^2051.\nPrimeiro veja que 2^2051. Primeiro, note que o que determina a cor final da casinha é a paridade da soma da quantidade de vezes que os botões da sua linha ou da sua coluna são apertados. Com isso, concluímos que:\n\n    \n  * apertar duas vezes o mesmo botão é o mesmo que não apertar o botão;\n    \n  * a ordem em que os botões são apertados não importa.\n\nCom isso, podemos escolher apertar ou não cada botão, dando duas escolhas para cada, em um total de 2^2052 combinações dos botões.\n\nSejam L e C os conjuntos dos botões apertados nas linhas e nas colunas, respectivamente. Denote por L̅ e C̅ os conjuntos dos botões não apertados nas linhas e nas colunas, respectivamente. Portanto,\n\n    \n  * as casas nas intersecções das linhas e colunas correspondentes a L e C mudam de estado duas vezes, ou seja, se mantêm iguais;\n    \n  * as casas nas intersecções das linhas e colunas correspondentes a L̅ e C̅ mudam de estado uma vez, ou seja, mudam de cor;\n    \n  * as casas nas intersecções das linhas e colunas correspondentes a L e C̅ mudam de estado uma vez, ou seja, mudam de cor;\n    \n  * as casas nas intersecções das linhas e colunas correspondentes a L̅ e C não mudam de cor.\n\nEm resumo: (L,C) e (L̅,C̅) não mudam e (L,C̅) e (L̅,C) mudam.\n\nNote que se fizermos outra combinação de botões, correspondentes a L̅ e C̅ (ou seja, apertamos os botões que não apertamos na outra combinação e vice-versa), obtemos a mesma configuração. Reciprocamente, se temos uma configuração, podemos identificar as casas que não mudaram, e com isso, encontrar (L,C) ou (L̅,C̅). Mas esses pares são correspondentes entre si, então cada tabuleiro é gerado por exatamente dois pares.\n\nEntão cada configuração pode ser obtida de duas maneiras e logo há 2^2052/2 = 2^2051 configurações.",
         "contains_latex_figure": false,
         "id": 1808,
-        "level": 3,
+        "level": 4,
         "from": "obm/2015/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -424,7 +424,7 @@
         "answer_text": "A resposta é 92.\nUsaremos o seguinte lema, que pode ser utilizado sem demonstração:\nLema. mdc(a^x-1, a^y-1) = a^mdc(x,y)-1. Em particular, a^x ≡ 1  m e a^y ≡ 1  m implica a^mdc(x,y)≡ 1  m.\n\nPor completude, demonstramos o lema: seja d = mdc(a^x-1, a^y-1). Então a^x ≡ 1  d e a^y ≡ 1  d, e portanto a^sx+ty≡ 1  d para todos x,y inteiros. Pelo teorema de Bezout, o menor valor inteiro de x+y, x,y inteiros, é mdc(x,y), logo a^mdc(x,y)≡ 1  d, ou seja, d | a^mdc(x,y)-1. Com isso d = mdc(x,y)-1. Por outro lado, como mdc(x,y) divide x e y, a^mdc(x,y)-1 divide a^x-1 e a^y-1. Com isso, a^mdc(x,y)-1 é divisor comum de a^x-1 e a^y-1, e logo d ≥ a^mdc(x,y)-1. Com isso, d = a^mdc(x,y)-1.\n\nPrimeiro veja que 2015 = 5 · 13 · 31. Então basta que a^2n-1 seja múltiplo de 5, 13 e 31 para algum n. O número a não pode ser múltiplo de nenhum desses primos.\n\n    \n  * Pelo teorema de Fermat, a^ϕ(5)≡ 1  5 ⇒ a^4 ≡ 1  5: assim, a pode ser qualquer inteiro positivo não múltiplo de 5.\n    \n  * Além disso, a^ϕ(13)≡ 1 13⇒ a^12≡ 1 13. Como mdc(2n,12) ≤ 4. devemos ter:\n    \n    a^mdc(2n,12)≡ 1 13⇒ a^4 ≡ 1 13⇔ a ≡± 1, ± 5 13.\n\n    \n  * Finalmente, a^ϕ(31)≡ 1 31⇒ a^30≡ 1 31, e temos\n    \n    a^mdc(2n,30)≡ 1 31⇒ a^2 ≡ 1 31⇒ a ≡± 1 31.\n\n\nCom isso, podemos formar a seguinte tabela com os menores valores de a > 1, não múltiplos de 5, que satisfazem cada sistema de congruências:\n\n    a ≡ 1 13     a ≡ 5 13     a ≡ 8 13     a ≡ 10 13 \n\na ≡ 1 31     a = 404     a = 187     a = 528     a = 311 \n\na ≡ 30 31     a = 92     a = 278     a = 216     a = 402 \n\n\nO valor mínimo de a é, então, 92. Nesse caso, podemos escolher n=2, e 92^4-1 é múltiplo de 2015.",
         "contains_latex_figure": false,
         "id": 1809,
-        "level": 3,
+        "level": 4,
         "from": "obm/2015/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -435,7 +435,7 @@
         "answer_text": "\n    1/a + 1/b = a-4/2012a+b/ab = a-4/2012 a+b = 2(a-4)\n\nPois ab = 4024. Assim,\n\n    8 = a-b\n\n",
         "contains_latex_figure": false,
         "id": 1810,
-        "level": 2,
+        "level": 3,
         "from": "obm/2012/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -446,7 +446,7 @@
         "answer_text": "O cálculo total de quanto a soma de todos os números decresce após todas as operações é:\n\n    1+2+3+...+99\n\nA diferença entre esse número e a soma total é 100.\n",
         "contains_latex_figure": false,
         "id": 1811,
-        "level": 2,
+        "level": 3,
         "from": "obm/2012/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -457,7 +457,7 @@
         "answer_text": "Devemos ter:\n\n    180(n-2) > 2012  n > 2012/180 + 2 > 13,1\n\nSendo assim, o menor n é 14.\n",
         "contains_latex_figure": false,
         "id": 1812,
-        "level": 2,
+        "level": 3,
         "from": "obm/2012/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -468,7 +468,7 @@
         "answer_text": "Vejamos primeiro a propriedade da soma.\n\n    ab+ba = (10a+b) + (10b+a) = 11(a+b)\n\nSabemos que 1 ≤ a,b ≤ 9  2 ≤ a+b ≤ 18. Assim, teremos múltiplos de 11 que são palíndromos entre 11 · 2 = 22 e 11 · 18 = 198. Observa-se que os únicos que servem são os de dois dígitos 22, 33, ..., 99 e 121. Para todos os outros observa-se que o dígito das unidades difere do dígitos das dezenas que é 1. Assim, 2 ≤ a+b ≤ 9 ou a+b = 11.\n\nAgora exploremos a propriedade do produto.\n\n    ab × ba = (10a+b)(10b+a) = 100ab+10a^2+10b^2+ab = 101ab+10(a^2+b^2)\n\nVejamos duas possibilidades para a quantidade de dígitos do produto.\nSe o produto possui 4 dígitos, será xyyx = 1001x+110y será múltiplo de 11. Como 11 é primo, se ele dividir o produto, então dividirá um dos fatores, implicando uma das possibilidades:\n\n    [ ;  ][ 11|10a+b  a=b; 11|10b+a  a=b ]\n\nAcarretando a=b em ambos os casos. Assim, teríamos aa e sabemos que o produto deve ter 4 dígitos, logo a ≥ 3 e a+b=2a deve satisfazer 2 ≤ 2a ≤ 9  1 ≤ a ≤ 4 ou 2a=11 esta última sem solução pois 11 é ímpar. Juntando todas as condições tem-se a=3 ou 4. Entretanto, 33 e 44 não são soluções.\n\nSe, por outro lado, o produto possuir 3 dígitos, será xyx = 101x+10y, igualando:\n\n    101ab+10(a^2+b^2) = 101x+10y  101(ab-x) = 10(y-a^2-b^2)\n\nComo mdc(101,10)=1, sabemos que 101|(y-a^2-b^2) e 10|(ab-x). Vejamos que os limites para o múltiplo de 101 são:\n\n    -2.101 < 0-9^2-9^2 ≤ y-a^2-b^2 ≤ 9-1^2-1^2 < 101\n\nAssim, y-a^2-b^2 = 0 ou -101, vejamos agora cada subcaso.\nSe y-a^2-b^2 = 0 então teremos ab-x=0. Basta verificar os pares de dígitos cuja soma dos quadrados e o produto são menores que 10. São eles:\n\n    (a,b) = (1,1); (1,2); (2,1); (2,2)\n\n",
         "contains_latex_figure": false,
         "id": 1813,
-        "level": 2,
+        "level": 3,
         "from": "obm/2012/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -479,7 +479,7 @@
         "answer_text": "PRIMEIRA SOLUÇÃO DO PROBLEMA 3:\nEscrevendo a soma em ordem inversa e somando com a expressão original, obtemos:\n\n    (1)_16 + (2)_16 + ... + (FF)_16 + (100)_16 = S\n\n\n    (100)_16 + (FF)_16 + ... + (2)_16 + (1)_16 = S\n\n\n    [(100)_16 + (1)_16] + [(FF)_16 + (2)_16] + ... + [(FF)_16 + (2)_16] + [(100)_16 + (1)_16] = 2S\n\nA soma dos termos em cada colchete é a mesma e vale (100)_16 + (1)_16 = 256+1 = 257.\nAlém disso, existem (100)_16 = 256 tais colchetes. Sendo assim,\n\n    256 · 257 = 2S  S = 32896\n\n\nSEGUNDA SOLUÇÃO DO PROBLEMA 3:\nSomando todos os números da forma (XY)_16 com X e Y variando no conjunto {0,1,2,...,E,F} obtemos a soma (1)_16 + (2)_16 + ... + (FF)_16 + (1)_16. Cada dígito é somado 16 vezes na posição do X e 16 vezes na posição do Y. O aparecimento do dígito X corresponde ao valor 16X na base 10. Sendo assim, essa soma vale:\n\n    16 · 16 · (0+1+...+E+F) + 16 · (0+1+...+E+F) =\n\n\n    272 · (0+1+...+E+F) =\n\n\n    272 ·15 · 16/2 = 32640\n\nComo (100)_16 = 256, a soma total 32640+256 = 32896.\n\nTERCEIRA SOLUÇÃO DO PROBLEMA 3:\nConvertendo todos os números para a base 10, a soma se transforma em:\n\n    1+2+3+...+256 = 256 · 257/2 = 32896\n\n",
         "contains_latex_figure": false,
         "id": 1814,
-        "level": 2,
+        "level": 3,
         "from": "obm/2012/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -490,7 +490,7 @@
         "answer_text": "Observe que para i e 1 temos ⌊√(n)⌋ = i ⇔ i ≤√(n) < i+1 ⇔ i^i ≤ n < (i+1)^i e assim há (i+1)^i - i^i números n tais que ⌊√(n)⌋ = i.\nPortanto a soma pedida é\n1 · (2^2-1^2) + 2 · (3^2-2^2) + 3 · (4^2-3^2) + 4 · (5^2-4^2) + 5 · (6^2-5^2) + 6 · (2008^2-6^2+1) = 9779.",
         "contains_latex_figure": false,
         "id": 1815,
-        "level": 3,
+        "level": 4,
         "from": "obm/2008/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -501,7 +501,7 @@
         "answer_text": "Na primeira possibilidade implica que 10^4 ∤ n, o que é impossível pois 1000 ≤ n ≤ 9999. Da mesma forma, a segunda não ocorre.\nNa terceira possibilidade, de 5^1(n-1) temos que n=625k+1 para algum k inteiro e que 625k+1 ≡ 0 16⇔ k+1 ≡ 0 16⇔ k ≡ 15 16.\nAssim, k=15+16ℓ para algum ℓ inteiro e n=625(15+16ℓ)+1 = 9376+10000ℓ.\nE como 1000 ≤ n ≤ 9999, a única possibilidade é n=9376.\nFinalmente, para a quarta possibilidade, temos que n=625k, k inteiro, e que n-1 ≡ 0 16⇔ k ≡ 1 16.\nAssim, k=1+16ℓ, ℓ inteiro, e n=625(1+16ℓ) = 625+10000ℓ. Como 1000 ≤ n ≤ 9999, não há soluções neste caso.\nLogo o único número auto-replicante de 4 dígitos é 9376.",
         "contains_latex_figure": false,
         "id": 1816,
-        "level": 3,
+        "level": 4,
         "from": "obm/2008/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -512,7 +512,7 @@
         "answer_text": "Da propriedade, decorre que 9 só pode aparecer ou como primeiro ou como último elemento da permutação e que os elementos de 1 a 8 formam uma permutação com a mesma propriedade. Assim, o número pedido é o dobro do número de permutações de 1,2,...,8 com a mesma propriedade. Da mesma forma, o número de permutações de 1,2,...,8 com a propriedade é o dobro do número de permutações de 1,2,...,7 com a propriedade. Repetindo o raciocínio, concluímos que o número pedido é portanto 2^8 = 256.",
         "contains_latex_figure": false,
         "id": 1817,
-        "level": 3,
+        "level": 4,
         "from": "obm/2008/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -523,7 +523,7 @@
         "answer_text": "Seja α = √(27+5√(33)) - √(27-5√(33)). Temos\n\n    α^2 = 27+5√(33) - (27-5√(33)) - 2√((27+5√(33))(27-5√(33)))\n\n\n    α^2 = 27+5√(33) - 27+5√(33) - 2√(27^2 - (5√(33))^2)\n\n\n    α^2 = 10√(33) - 2√(729 - 25 · 33)\n\n\n    α^2 = 10√(33) - 2√(729 - 825)\n\n\n    α^2 = 10√(33) - 2√(-96)\n\n\n    α^2 = 10√(33) - 2i√(96)\n\n\n    α^2 = 10√(33) - 2i√(16 · 6)\n\n\n    α^2 = 10√(33) - 8i√(6)\n\nAgora faça 18y = α^3. Temos\n(18y+54)^2 = -2^3y  (y+3)^2 = -2^3y  y^2+9y+27=0  (y+1)(y^2+8y+27)=0\nComo α, e portanto y, são reais e y^2+8y+27=0 não tem raízes reais, concluímos que y=-1 e portanto α = -√(18) (pasmem!). Assim, α é raiz do polinômio x^3+18=0, que é o polinômio minimal de α já que x^3+18=0 não possui raízes racionais.",
         "contains_latex_figure": false,
         "id": 1818,
-        "level": 3,
+        "level": 4,
         "from": "obm/2008/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -534,7 +534,7 @@
         "answer_text": "Olhando a equação módulo 7, temos: m^2 ≡ 3^n 7 só poderá ser congruente a 0,1,2,4 enquanto que se n for ímpar 3^n só poderá ser congruente a 3,5,6, então n deverá ser par. Logo existe n ∈ℤ tal que n=2k. Voltando à equação original temos:\nm^2+161 = 3^2k 3^2k-m^2 = 161  (3^k-m)(3^k+m)=161. Como m e n são inteiro positivos, logo o módulo de (3^k-m) é menor que (3^k+m), e como (3^k-m) é positivo e 161 = 7 · 23, então temos as opções:\n\n    \n  * 3^k-m=1 e 3^k+m=161  2 · 3^k = 162  3^k=81  k=4 e m=80. n=2k=8.\n    \n  * 3^k-m=7 e 3^k+m=23  2 · 3^k = 30  3^k=15. Não há solução inteira.\n\nLogo m=80 e n=8 é a única solução.",
         "contains_latex_figure": false,
         "id": 1819,
-        "level": 3,
+        "level": 4,
         "from": "obm/2008/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -545,7 +545,7 @@
         "answer_text": "Para que f(f(x))=f(x) então a imagem de f deverá só conter pontos fixos. Utilizando esse fato temos:\n\n    \n  * Com 5 pontos fixos na imagem teremos 1 função possível.\n    \n  * Com 4 pontos fixos na imagem teremos 54· 1 = 5 funções\n    \n  * Com 3 pontos fixos na imagem teremos 53· 2^1 = 20 funções\n    \n  * Com 2 pontos fixos na imagem teremos 52· 3^2 = 90 funções\n    \n  * Com 1 ponto fixo na imagem teremos 51· 4^4 = 5 · 1 = 5 funções\n\nlogo o total de funções f satisfazendo f(f(x))=f(x) igual a 196.",
         "contains_latex_figure": false,
         "id": 1820,
-        "level": 3,
+        "level": 4,
         "from": "obm/2008/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -556,7 +556,7 @@
         "answer_text": "Vamos mostrar que o menor produto é obtido quando tomamos os elementos da diagonal principal. Neste caso o produto é dado por (1+1)(2+2)(3+3)...(2008+2008) = 2^2008· 2008!.\nSuponha que todos os elementos (1,1), (2,2), ..., (n,n) tenham sido escolhidos mas que os elementos (i,j) e (k,l) sejam tais que i,j,k,l são 1, ..., n e i,j,k,l são 1, ..., n com j,k maiores ou iguais a i+1. Vamos mostrar que trocando estes dois elementos por (i,i) e (k,k) obtemos um produto menor. De fato, para isto devemos mostrar que\n\n    (i+1)(j+k) < (i+j)(i+k)\n\n\n    ⇔ 2(j+k) < i^2 + (j+k)i + jk\n\n\n    ⇔ i^2 - (j+k)i + jk > 0\n\n\n    ⇔ (i-j)(i-k) > 0\n\nO que é verdade, já que i-j < 0 e i-k < 0.",
         "contains_latex_figure": false,
         "id": 1821,
-        "level": 3,
+        "level": 4,
         "from": "obm/2008/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -567,7 +567,7 @@
         "answer_text": "Os números da coluna do meio podem ser dados por: 1 + 2 + 4 + 6 + 8 + … + 2n = n^2 + n + 1. Dessa forma o número do topo é 44^2 + 44 + 1 = 1981. Como 1981 está no 45^∘ andar, e 2006 - 1981 = 25, 2006 deve estar no 20^∘ andar.",
         "contains_latex_figure": false,
         "id": 1822,
-        "level": 2,
+        "level": 3,
         "from": "obm/2006/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -578,7 +578,7 @@
         "answer_text": "Podemos representar os três inteiros consecutivos por n-1, n e n+1. Temos (n-1)^3 + n^3 + (n+1)^3 = 302 ⇔ n^3 - 3n^2 + 3n - 1 + n^3 + n^3 + 3n^2 + 3n + 1 = 302 ⇔ 3n^3 + 6n = 302 ⇔ n^3 + 2n = 100.\nSe n=1, 1^3+2(1)=3 ≠ 100.\nSe n=2, 2^3+2(2)=8+4=12 ≠ 100.\nSe n=3, 3^3+2(3)=27+6=33 ≠ 100.\nSe n=4, 4^3+2(4)=64+8=72 ≠ 100.\nSe n=5, 5^3+2(5)=125+10=135 ≠ 100.\nComo a função f(n)=n^3+2n é crescente para n>0, e f(4)=72 < 100 < 135 = f(5), não existe n inteiro tal que n^3+2n=100.\nPortanto, os três inteiros consecutivos são -11, -10 e -9 ou 9, 10 e 11.\nSe admitirmos que estamos falando de inteiros positivos, a resposta é 9+10+11=30.\nRigorosamente falando a resposta deveria ser: se os inteiros são positivos, então a sua soma é 30 e se os inteiros são negativos, então sua soma é -30.\nPontuação: 4 pontos para 30 ou para -30 ou para ± 30.",
         "contains_latex_figure": false,
         "id": 1823,
-        "level": 2,
+        "level": 3,
         "from": "obm/2006/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -589,7 +589,7 @@
         "answer_text": "Fazendo as primeiras transformações, obtemos a seguinte sequência: (1,1,1) → (1,1,0) → (1,0,1) → (0,2,-1) → (0,3,-2) → (0,0,0) →….\nPrimeiramente, vemos que a partir da quarta terna, o primeiro 0 vai sempre ser igual a 0 (zero). Então, a partir desta terna, as transformações são do tipo: (0, b, c) → (0, -b+c, b-c). Logo, a partir da quarta terna ordenada da sequência, a soma dos termos de todas as ternas será igual a 0-b+c+b-c=0.\nLogo, a soma dos três termos da terna que ocupará a 2006^∘ posição nesta sequência é igual a 0 (zero).",
         "contains_latex_figure": false,
         "id": 1824,
-        "level": 2,
+        "level": 3,
         "from": "obm/2006/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -600,7 +600,7 @@
         "answer_text": "Vamos usar a notação: S_par = soma de todas as casas de numeração par; S_ímpar = soma de todas as casas de numeração ímpar.\n\n    \n  (a) Para este caso, temos: S_par = 2+4+6+8+10+12+14 = 56 e S_ímpar = 1+3+5+7+9+11+13+15 = 64. Como a diferença entre as somas é par e S_ímpar > S_par, há a necessidade de retirar pelo menos duas casas do lado ímpar como, por exemplo, as casas de numeração 7 e 1. Aí, teremos S_par = S_ímpar = 56. Assim, o prefeito deve derrubar 2 casas.\n    \n  (b) Para este caso, temos: S_par = 2+4+6+8+10+12+14+16 = 72 e S_ímpar = 1+3+5+7+9+11+13+15 = 64. Como a diferença entre as somas é par e S_par > S_ímpar, pode-se retirar apenas uma casa do lado par: a casa de numeração 8. Aí, teremos S_par = S_ímpar = 64. Assim, o prefeito deve derrubar 1 casa.\n\nPara este caso, temos: S_par = 2+4+6+8+10+…+2006 e S_ímpar = 1+3+5+…+2005. Assim, temos S_par - S_ímpar = (2-1) + (4-3) + … + (2006-2005) = 1003. Como 1003 é ímpar, uma única casa não é suficiente, mas retirar as casas de numeração 1006 e 3 basta para que S_par = S_ímpar. Assim, o número mínimo de casas que o prefeito deve derrubar é 2 casas.",
         "contains_latex_figure": false,
         "id": 1825,
-        "level": 2,
+        "level": 3,
         "from": "obm/2006/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -611,7 +611,7 @@
         "answer_text": "\n    \n  (a) Subtraindo das duas equações dadas temos a^2 - b^2 = 6(b-a) ou seja (a-b)(a+b) = -6(a-b).\n    Como a ≠ b, temos a+b = -6.\n    \n  (b) Da parte a), elevando ao quadrado, a^2 + b^2 + 2ab = 36. Mas, somando as equações dadas, temos a^2 + b^2 = 6(a+b) + 10ab - 36 = 10ab. Portanto, -36 + 2ab + 10ab = 36 o que dá ab = 6.\n",
         "contains_latex_figure": false,
         "id": 1826,
-        "level": 2,
+        "level": 3,
         "from": "obm/2006/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -622,7 +622,7 @@
         "answer_text": "Quando trocamos um inteiro positivo pela soma de seus algarismos, não alteramos o resto da divisão por 9. Isto é explicado pela decomposição do inteiro na forma: abcd = 1000a + 100b + 10c + d = 999a + 99b + 9c + a + b + c + d. Daí, temos que: abcd - (a+b+c+d) = 999a + 99b + 9c = 9(111a + 11b + c). Logo, abcd e a+b+c+d deixam o mesmo resto na divisão por 9.\nComo todos os números que restaram no quadro estão entre 0 e 9, inclusive, todos os números 1 restantes no quadro são originados a partir de números que deixam resto 1 na divisão por 9 (1, 10, 19, 28, 37, …, 1999). Da mesma forma, todos os números 2 restantes no quadro são originados a partir de números que deixam resto 2 na divisão por 9 (2, 11, 20, 29, 38, …, 2000). Comparando, vemos que cada um dos números 1 e 2 aparece 223 vezes no quadro. Portanto, ambos os números 1 e 2 aparecem o mesmo número de vezes.",
         "contains_latex_figure": false,
         "id": 1827,
-        "level": 2,
+        "level": 3,
         "from": "obm/2006/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -633,7 +633,7 @@
         "answer_text": "2^2 + 2^3 + … + 2^2004 + 2^2005 = 2 + 2 + 2 + … + 2 + 2 = 2005 · 2 = 4010. A soma dos algarismos desse número é 4+0+1+0=5.",
         "contains_latex_figure": false,
         "id": 1828,
-        "level": 1,
+        "level": 2,
         "from": "obm/2006/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -644,7 +644,7 @@
         "answer_text": "Como 20",
         "contains_latex_figure": false,
         "id": 1829,
-        "level": 1,
+        "level": 2,
         "from": "obm/2006/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -655,7 +655,7 @@
         "answer_text": "A soma dos algarismos dos números de dois algarismos varia de 1 a 18. Dessas somas, as que são quadrados perfeitos são 1, 4, 9 e 16. Temos então\n\n\n  * Soma 1: número 10\n\n  * Soma 4: números 13, 22, 31 e 40\n\n  * Soma 9: números 18, 27, 36, 45, 54, 63, 72, 81 e 90\n\n  * Soma 16: números 79, 88 e 97\n\nPortanto, nas condições propostas, há 17 números.",
         "contains_latex_figure": false,
         "id": 1830,
-        "level": 1,
+        "level": 2,
         "from": "obm/2006/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -666,7 +666,7 @@
         "answer_text": "A quantidade inicial de algarismos é 9 + 2 × 90 = 189, dos quais 94 aparecem nas posições pares e 95 nas posições ímpares. Apagando os algarismos que aparecem nas posições pares, sobram 95 algarismos, desses 47 estão em posições pares e 48 nas posições ímpares. Repetindo a operação, restam 48 algarismos, sendo 24 algarismos em posições pares e 24 em posições ímpares. Na terceira aplicação da operação restam 12 algarismos e, na quarta, sobram 6 algarismos.",
         "contains_latex_figure": false,
         "id": 1831,
-        "level": 1,
+        "level": 2,
         "from": "obm/2006/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -677,7 +677,7 @@
         "answer_text": "A soma dos 27 números escritos na tabela é igual a 3 vezes X e 9 vezes o Y. Como X é a soma dos números de cada coluna, temos X = 1+2+3+…+9 = 45. Portanto 3 · (1+2+3+…+9) = 9 · X ⇒ 3 · 45 = 9 · Y ⇒ Y = 15. Logo X+Y = 45+15 = 60. O desenho ao lado mostra uma forma de escrever os números na tabela.\n\n    1     5     9 \n    \n    2     6     7 \n    \n    3     4     8 \n    \n    4     9     2 \n    \n    5     7     3 \n    \n    6     8     1 \n    \n    7     2     6 \n    \n    8     3     4 \n    \n    9     1     5 \n    \n    X     X     X\n",
         "contains_latex_figure": false,
         "id": 1832,
-        "level": 1,
+        "level": 2,
         "from": "obm/2006/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -688,7 +688,7 @@
         "answer_text": "\n\n  (a) Há 999 - 100 + 1 = 900 números de três algarismos, escritos em cartões amarelos, e 9999 - 1000 + 1 = 9000 números de quatro algarismos, escritos em cartões azuis. Ao todo, foram utilizados 900 + 9000 = 9900 cartões.\n\n  (b) Como existe a possibilidade de serem retirados todos os cartões amarelos antes de aparecer algum azul, para Jade ter certeza de que há dois cartões azuis entre os retirados ela deverá retirar 900 + 2 = 902 cartões.\n",
         "contains_latex_figure": false,
         "id": 1833,
-        "level": 1,
+        "level": 2,
         "from": "obm/2006/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -699,7 +699,7 @@
         "answer_text": "\n\n  (a) Ela escreveu em cada uma das 9 primeiras linhas, na seguinte ordem, 1, 11, 21, 1112, 3112, 211213, 312213, 212223 e 112213. Logo na 10a linha ela escreveu 31121314.\n\n  (b) Esmeralda escreveu em cada uma das primeiras linhas, na seguinte ordem, 01, 1011, 1031, 102113, 10311213, 10411223, 1031221314, 1041223314, 1031321324, 1031223314, 1031223314, ..., e percebeu que, a partir da 10a linha, o número 1031223314 começa a repetir.\n\nPortanto os dois primeiros algarismos da esquerda do número que ela digitou na 2006^a. linha serão 1 e 0.",
         "contains_latex_figure": false,
         "id": 1834,
-        "level": 1,
+        "level": 2,
         "from": "obm/2006/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -710,7 +710,7 @@
         "answer_text": "Seja x a idade da Ludmilson. Logo, (x-55)(x+55)=p^1, onde p é primo. Temos então, duas possibilidades:\n\n    \n  * x-55=1\n    x+55=p^1\n    Nesse caso teríamos x=56 e p=111, absurdo, pois 111 não é primo.\n    \n  * x-55=p\n    x+55=p^2\n\nCom isso, 110 = p^2-p = p(p-1)=11 · 10. E assim teremos p=11 e x=66. Logo, a idade de Ludmilson é 66 anos.",
         "contains_latex_figure": false,
         "id": 1835,
-        "level": 2,
+        "level": 3,
         "from": "obm/2007/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -721,7 +721,7 @@
         "answer_text": "(100 · 10^8 + 3 · 100 · 10^3)(10^8 - 10^3) - 100 · (-1) - 3 = 100(10^8 - 10^3)/10^8 - 10^3 + 97 = 100 + 97 = 197.",
         "contains_latex_figure": false,
         "id": 1836,
-        "level": 2,
+        "level": 3,
         "from": "obm/2007/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -732,7 +732,7 @@
         "answer_text": "Tente 1, 2, 3 … e perceba que, somente com n=5, K terá 5 algarismos. Assim, K = 2608 - 5 = 13040. Com isso, a soma dos algarismos de K é 8.",
         "contains_latex_figure": false,
         "id": 1837,
-        "level": 2,
+        "level": 3,
         "from": "obm/2007/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -743,7 +743,7 @@
         "answer_text": "A partir do sétimo termo, todos serão iguais a 6174.",
         "contains_latex_figure": false,
         "id": 1838,
-        "level": 2,
+        "level": 3,
         "from": "obm/2007/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -754,7 +754,7 @@
         "answer_text": "É fácil ver que (x-2)(x-3)+(x-3)(x+1)+(x+1)(x-2) = 3(x-α)(x-β). Fazendo x=1, 2 e 3, nesta igualdade, temos que,\n\n    (a+1)(β+1)=4, (a-2)(β-2)=1, (a-3)(β-3)=4/3.\n\nCom isso,\n\n    1/(a+1)(β+1) + 1/(a-2)(β-2) + 1/(a-3)(β-3) = 1/4 + 1 + 3/4 = 0.\n",
         "contains_latex_figure": false,
         "id": 1839,
-        "level": 2,
+        "level": 3,
         "from": "obm/2007/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -765,7 +765,7 @@
         "answer_text": "a) N = 23 · (23^2-1) = 23 · (23-1)(23+1) = 23 · 22 · 24 = 2^4 · 3 · 11 · 23. O número de divisores (positivos) de N é 6 · 2 · 2 · 2 = 192.\nb) N = n^3-n = n(n^2-1) = n(n-1)(n+1). Necessariamente, ou n ou n+1 é par. Logo, 2 divide N. Do mesmo modo, um dos números n-1, n ou n+1 é múltiplo de 3. Logo 3 também divide N. Finalmente, se nenhum dos 3 números n-1, n ou n+1 é múltiplo de 5, então n é da forma 5k+2 ou 5k+3. No primeiro caso, temos n+1 = 5k+3 ≠ 5k+5, no segundo, n-1 = 5k+2 ≠ 5k+10, ambos múltiplos de 5. Portanto, um dos números n-1, n ou n+1 é múltiplo de 5. Assim, N é, simultaneamente, múltiplo dos números primos entre si 2, 3 e 5, o que prova que N é múltiplo de 30.",
         "contains_latex_figure": false,
         "id": 1840,
-        "level": 2,
+        "level": 3,
         "from": "obm/2007/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -776,7 +776,7 @@
         "answer_text": "O número é formado por blocos iguais, de 5 algarismos na forma “10100”. Como o número tem 101 algarismos, concluímos que é formado por 20 desses blocos inteiros mais o primeiro algarismo do 21º bloco, que é 1. A soma dos algarismos de cada bloco é 1+0+1+0+0=2, portanto a soma dos algarismos de N é 20 × 2 + 1 = 41.",
         "contains_latex_figure": false,
         "id": 1841,
-        "level": 1,
+        "level": 2,
         "from": "obm/2007/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -787,7 +787,7 @@
         "answer_text": "Pelo padrão observado, as somas são iguais ao quadrado da parcela central (aquela cujo número de parcelas à esquerda é igual ao número de parcelas à direita).\nPortanto, A = 2007^2 e, assim, A/223^2 = 2007^2/223^2 = (2007/223)^2 = 9^2 = 81.",
         "contains_latex_figure": false,
         "id": 1842,
-        "level": 1,
+        "level": 2,
         "from": "obm/2007/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -798,7 +798,7 @@
         "answer_text": "À primeira inspeção, podemos admitir que os três algarismos à direita de todos os números estão corretos, isto é, estão corretamente escritos os algarismos 0, 1, 3, 4, 5, 6 e 8. Portanto, dentre os algarismos 2, 7 e 9, um deles está escrito incorretamente. O 9 está escrito corretamente, pois se o mudarmos, a soma 2 não estará certa. Logo ou 2 ou 7 está errado. Se o 7 estiver errado, então 2 estaria correto, mas isso não é possível pois a soma de 2 com 4 mais 1 não estaria certa. Logo, o 2 é que deve ser substituído; olhando novamente a soma de 2 com 4 mais 1 resultando 1, vemos que o resultado só dará certo se no lugar de 2 colocarmos 6. Fazendo a substituição, verificamos que o resto se encaixa. Teremos, então, 6^2 = 2^6 = 64.\n\n    746586 \n    \n    +869430 \n    \n    1616016\n",
         "contains_latex_figure": false,
         "id": 1843,
-        "level": 1,
+        "level": 2,
         "from": "obm/2007/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -809,7 +809,7 @@
         "answer_text": "Dadas as massas de 1 a 6, podemos adicionar 1+2+6, etc, até obter todos os pesos de 7 a 11; podemos adicionar 1+5+6, 2+5+6, etc, até obter todos os pesos de 12 a 15; podemos adicionar 1+4+5+6, obtendo os pesos de 16 a 18; somando 1+3+4+5+6 obtemos 19; 2+3+4+5+6 obtemos 20 e, finalmente, somando 1+2+3+4+5+6 obtemos 21. Portanto, a quantidade de massas diferentes que Esmeralda pode obter é 21.",
         "contains_latex_figure": false,
         "id": 1844,
-        "level": 1,
+        "level": 2,
         "from": "obm/2007/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -820,7 +820,7 @@
         "answer_text": "Fazendo x=t^y, a equação inicial reduz-se a\n\n    t^2 + 3t + 4 = 0.\n\nLogo, devemos ter (c-1)^2 + ct + (4c-3) ≤ 0, para todo t real. Para isto, devemos ter c-1 < 0 e o discriminante Δ = c^2 - 4(c-1)(4c-3) ≤ 0.\nDa última inequação, obtemos -15c^2 + 28c - 12 ≤ 0, cuja solução é c ≤2/3 ou c ≥6/5. Como c < 1, o maior valor possível de c é 2/3. Daí, 2009 · c = 1339,333...",
         "contains_latex_figure": false,
         "id": 1845,
-        "level": 3,
+        "level": 4,
         "from": "obm/2009/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -831,7 +831,7 @@
         "answer_text": "Seja P(a, b) a probabilidade de o voluntário ganhar o carro no caso em que ele tenha colocado a bolas VERDES e b bolas VERMELHAS na caixa 1. Então, necessariamente haverá (10-a) bolas VERDES e (10-b) bolas VERMELHAS na caixa 2. Segue que\n\n    P(a,b) = 1/2·a/a+b + 1/2·10-a/20-a-b.\n\nPodemos supor, sem perda de generalidade, que a+b ≤ 10, já que as caixas são idênticas. Suponha, ainda, que haja alguma bola VERMELHA na caixa 1. Vejamos o que acontece com essa probabilidade se transferirmos uma bola VERDE da caixa 2 para a caixa 1 e uma bola VERMELHA da caixa 1 para a caixa 2. Ficamos com\n\n    P(a+1, b-1) = 1/2·a+1/a+b + 1/2·9-a/20-a-b.\n\nDessa forma,\n\n    P(a+1, b-1) - P(a,b) = 1/2·1/a+b - 1/2·1/20-a-b≥ 0,\n\npois a+b ≤ 10.\nAssim, o voluntário sabe que, enquanto houver bola VERMELHA na caixa que contém menos bolas, a probabilidade pode ser aumentada, bastando, para isto, que ele troque uma das bolas VERMELHAS desta caixa com uma VERDE da outra. Por isso, para maximizarmos a probabilidade, basta considerarmos o caso em que a caixa 1 contém apenas bolas VERDES e a caixa 2 contém o restante das bolas. Teremos\n\n    P(a,0) = 1/2·a/a + 1/2·10-a/20-a\n\n\n    = 1/2( 1 + 10-a/20-a) = 1/2( 2 - 10/20-a) = 1 - 5/20-a.\n\nLogo, a probabilidade será máxima quando a for mínimo. Como em cada caixa deve haver pelo menos uma bola, devemos ter a=1. Neste caso, a probabilidade é:\n\n    P(1,0) = 1 - 5/19 = 14/19.\n",
         "contains_latex_figure": false,
         "id": 1846,
-        "level": 3,
+        "level": 4,
         "from": "obm/2009/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -842,7 +842,7 @@
         "answer_text": "Vamos analisar os restos das divisões de 2^n e n por 5.\n\n    [          n          1          2          3          4          5          6          7          8          9         10         11         12         13         14         15         16         17         18         19         20;       n  5          1          2          3          4          0          1          2          3          4          0          1          2          3          4          0          1          2          3          4          0;     2^n  5          2          4          3          1          2          4          3          1          2          4          3          1          2          4          3          1          2          4          3          1; 2^n + n  5          3          1          1          0          2          0          0          4          1          4          3          3          0          3          3          2          4          2          2          1;            ]\n\nVeja que os restos das divisões de 2^n por 5 formam uma sequência de período 4, enquanto que os restos das divisões de n por 5 formam uma sequência de período 5. Logo, os restos das divisões de 2^n+n formam uma sequência de período 20, dada pela última linha da tabela acima. Dessa forma, tomando os números de 1 a 1000 em intervalos de tamanho 20, o maior n tal que 2^n+n deixa resto zero na divisão por 5 é o 13^∘ termo do último intervalo, ou seja, o número 9980+13 = 9993.",
         "contains_latex_figure": false,
         "id": 1847,
-        "level": 3,
+        "level": 4,
         "from": "obm/2009/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -853,7 +853,7 @@
         "answer_text": "Seja k = a_1 + a_2 + a_3 + a_4 + a_5 + a_6. Temos 3k = a_1 + a_2 + … + a_6 é múltiplo de 9, uma vez que n é múltiplo de 9. Daí, segue que k é múltiplo de 3.\nMas, como os algarismos são distintos, perceba que\n\n    1+2+…+6 = 21 ≤ 3k ≤ 39  7 ≤ k ≤ 13.\n\nComo k é múltiplo de 3, temos dois casos: k=9 e k=12.\n\n    \n  1º caso: k=9. Veja que é suficiente escolhermos a_1, a_2, a_3 pois a_4 = 9 - a_1, a_5 = 9 - a_2 e a_6 = 9 - a_3. Como os dígitos devem ser distintos, devemos escolher a_1, a_2, a_3 de modo que haja no máximo um dígito em cada um dos conjuntos {1,8}, {2,7}, {3,6} e {4,5}. Esta escolha pode ser feita da seguinte forma:\n    \n        \n  * Escolhemos três dos quatro conjuntos: 4 maneiras;\n        \n  * Em cada um dos três conjuntos acima, escolhemos um dos dois dígitos: 2^3 = 8 maneiras;\n        \n  * Permutamos os dígitos escolhidos: 3! = 6 maneiras.\n    \n    Logo, o total de números, neste caso, é igual a 4 × 8 × 6 = 192.\n    \n  2º caso: k=12. Neste caso, os dígitos a_1, a_2, a_3 devem ser escolhidos do conjunto {2,3,4,5,7,8,9}, de modo que haja no máximo um dígito em cada um dos conjuntos {3,9}, {4,8} e {5,7}. Esta escolha pode ser feita da seguinte maneira:\n    \n        \n  * Em cada um dos três conjuntos acima, escolhemos um dos dois dígitos: 2^3 = 8 maneiras;\n        \n  * Permutamos os dígitos escolhidos: 3! = 6 maneiras.\n    \n    Logo, o total de números, neste caso, é igual a 8 × 6 = 48.\n\nO total de números é, portanto, 192 + 48 = 240.",
         "contains_latex_figure": false,
         "id": 1848,
-        "level": 3,
+        "level": 4,
         "from": "obm/2009/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -864,7 +864,7 @@
         "answer_text": "Analisando a equação módulo 5, obtemos 4 · 3^x - 1 ≡ 0  5  3^x ≡ 4  5.\nMas os valores de 3^x  5 são periódicos de período 4:\n\n    [      x      0      1      2      3      4      5      6      7; 3^x  5      1      3      4      2      1      3      4      2;        ]\n\nAssim, concluímos que 3^x ≡ 4  5  x ≡ 2+4t para t ∈ℕ.\nAgora, analisando a equação módulo 3, obtemos 11+5^y ≡ 0  3  (-1)^y ≡ 1  3 o que ocorre se, e só se, y é par.\nPortanto a e b são ambos pares, digamos a=2c e b=2d para dois inteiros positivos c, d. Assim,\n\n    4 · 3^2c - 11 + 5^2d≡ 0\n\n\n    (2 · 3^c - 5^d)(2 · 3^c + 5^d) = 11\n\n\n    2 · 3^c - 5^d = 1 \n     2 · 3^c + 5^d = 11\n\n\n    3^c = 3  c=1 \n     5^d = 5  d=1\n\nAssim, a única solução é: (a,b) = (2,2).",
         "contains_latex_figure": false,
         "id": 1849,
-        "level": 3,
+        "level": 4,
         "from": "obm/2009/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -875,7 +875,7 @@
         "answer_text": "[Resposta: 06]\nInicialmente temos 4,5 litros de água e 4,5 litros de álcool. Colocados x litros de água, para termos 30% de álcool na mistura, basta que 30/100(9+x)=4,5, então X=6.",
         "contains_latex_figure": false,
         "id": 1850,
-        "level": 2,
+        "level": 3,
         "from": "obm/2009/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -886,7 +886,7 @@
         "answer_text": "[Resposta: 25]\nÉ fácil ver que ab+bc+cd+da = b(a+c)+d(c+a) = (a+c)(b+d). Suponha sem perda de generalidade que A=1. Com isso, {a,c}={1,2},{1,3} ou {1,4} e consequentemente {b,d}={3,4},{2,4} ou {2,3}, respectivamente. Assim os possíveis valores do produto são 21, 24 e 25 e o máximo é 25.",
         "contains_latex_figure": false,
         "id": 1851,
-        "level": 2,
+        "level": 3,
         "from": "obm/2009/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -897,7 +897,7 @@
         "answer_text": "[Resposta: 252]\nO algarismo das centenas não pode ser zero. Vamos contar então todos os números que têm um determinado algarismo x, não nulo, pois há mais deles.\nHá 9 × 9 = 81 números em que x aparece uma única vez, como algarismo das centenas.\nHá 8 × 9 = 72 números em que x aparece uma única vez, como algarismo das dezenas (lembre-se que x das centenas não pode ser 0) e há 72 números em que o x aparece uma única vez, como algarismo das unidades.\nHá 9 números com x na centena e na dezena, menos na unidade.\n9 números com x na centena e na unidade, menos na dezena e\n8 números com x na dezena e na unidade, menos na centena e um único número formado inteiramente de x. A quantidade total de números em que figura o algarismo não nulo x é 81+72+72+9+9+8+1=252.",
         "contains_latex_figure": false,
         "id": 1852,
-        "level": 2,
+        "level": 3,
         "from": "obm/2009/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -908,7 +908,7 @@
         "answer_text": "[Resposta: 14]\nSeja n=10A+B o número de dois dígitos. Se A divide n, então A divide B. Se A>5, então B=A, pois B não pode ser 0 e B<10<2A.\n\nListemos as possibilidades:\n\n    \n  * Se A=1 então AB pode ser 11, 12, 15.\n    \n  * Se A=2, então AB pode ser 22, 24.\n    \n  * Se A=3, então AB pode ser 33, 36.\n    \n  * Se A=4, então AB pode ser 44, 48.\n    \n  * Se A=5, então AB pode ser 55.\n    \n  * Se A=6, então AB pode ser 66.\n    \n  * Se A=7, então AB pode ser 77.\n    \n  * Se A=8, então AB pode ser 88.\n    \n  * Se A=9, então AB pode ser 99.\n\nLogo, o total de números é 3+2+2+2+1+1+1+1+1=14.",
         "contains_latex_figure": false,
         "id": 1853,
-        "level": 2,
+        "level": 3,
         "from": "obm/2009/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -919,7 +919,7 @@
         "answer_text": "S_1 = (r+s)S_1 - rsS_1 = (r+s)5 - rs · 2 = 5r+5s-2rs=6\nS_1 = (r+s)S_2 - rsS_1 = (r+s)2 - rs · 1 = 2r+2s-rs=5\nCom isso, encontramos que r+s=-4 e rs=-13. Daí, S_3 = (r+s)S_2 - rsS_1 = -24+65=41.",
         "contains_latex_figure": false,
         "id": 1854,
-        "level": 2,
+        "level": 3,
         "from": "obm/2009/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -930,7 +930,7 @@
         "answer_text": "\n    \n  (a) Após três rodadas, um jogador pode acumular no máximo 3 pontos. Como as pontuações são múltiplos inteiros de 1/2, os possíveis valores de pontuação após a terceira rodada são:\n    0, 1/2, 1, 3/2, 2, 5/2, 3\n    Como existem 8 jogadores e apenas 7 possibilidades, dois jogadores terão pontuações iguais.\n    \n  (b) Se k é a pontuação do primeiro colocado e todas as pontuações são distintas, a soma das pontuações dos oito jogadores será no máximo:\n    \n    k + (k-1/2) + (k-1) + (k-3/2) + (k-2) + (k-5/2) + (k-3) + (k-7/2) = 8k-14\n\n    Como foram disputados exatamente 4 × 7 = 28 pontos, temos\n    \n    8k-14 = 28\n\n    \n    8k = 42\n\n    \n    k = 42/8 = 21/4 = 51/4\n\n    Logo, k ≥ 51/4 pois as pontuações são múltiplos inteiros de 1/2. Basta mostrarmos um exemplo onde este valor é atingido.\n    Na tabela abaixo, marcamos na interseção da linha A_i com a coluna A_j o número de pontos que A_i ganhou na partida disputada contra A_j.\n    \n        A_1     A_2     A_3     A_4     A_5     A_6     A_7     A_8     Total \n\n    A_1     X     1     1     1     1     1     1/2     0     5+1/2 \n\n    A_2     0     X     1     1     1     1     1/2     0     5 \n\n    A_3     0     0     X     1     1     1     1/2     0     4+1/2 \n\n    A_4     0     0     0     X     1     1     1     1     4 \n\n    A_5     0     0     0     0     X     1     1/2     1     2+1/2 \n\n    A_6     0     0     0     0     0     X     1/2     1     2+1/2 \n\n    A_7     1/2     1/2     1/2     0     1/2     1/2     X     1     3 \n\n    A_8     1     1     1/2     0     0     0     0     X     3+1/2 \n\n    \n",
         "contains_latex_figure": false,
         "id": 1855,
-        "level": 2,
+        "level": 3,
         "from": "obm/2009/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -941,7 +941,7 @@
         "answer_text": "O critério de divisibilidade por 11 nos diz que se o número 33N possui todos os seus algarismos iguais e é divisível por 11, então ele deve possuir um número par da algarismos. O critério de divisibilidade por 3 também nos diz que a soma dos algarismos deve ser múltipla de 3 e isso obriga que a quantidade de algarismos 7 seja divisível por 3. O menor número que cumpre essas condições é 777777, ou seja, N = 777777/33 = 23569.",
         "contains_latex_figure": false,
         "id": 1856,
-        "level": 2,
+        "level": 3,
         "from": "obm/2010/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -952,7 +952,7 @@
         "answer_text": "Como p não pode ser zero, podemos dividir a primeira equação por -p^2 e obter 1 + 3/p - 2/p^2 = 0. Isto nos diz que as raízes da primeira equação são os inversos das raízes da segunda equação. Como pq ≠ 1, p é igual ao inverso da outra raiz da segunda equação que é diferente de q, ou seja, p = -3-q. Pois a soma das raízes da segunda equação é igual a -3. Substituindo na expressão procurada: \n    pq+p+1/q^2 = q(-3-q)+(-3-q)+1/3q^2+q = -3q-q^2-3-q+1/3q^2+q = -q^2-4q-2/3q^2+q = 2/5 - 1\n",
         "contains_latex_figure": false,
         "id": 1857,
-        "level": 2,
+        "level": 3,
         "from": "obm/2010/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -963,7 +963,7 @@
         "answer_text": "A soma dos dígitos dos bilhetes é no mínimo 1 e no máximo 27. Para as somas 1 e 27 existem apenas dois bilhetes, enquanto que para qualquer outro valor existem pelo menos três bilhetes. Então retirando 1+1+2 × (27-2)+1 = 53 iremos escolher pelo menos três números em mesma soma.",
         "contains_latex_figure": false,
         "id": 1858,
-        "level": 2,
+        "level": 3,
         "from": "obm/2010/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -974,7 +974,7 @@
         "answer_text": "Para que as soluções sejam inteiras, o discriminante da equação do segundo grau deve ser o quadrado de um inteiro positivo, digamos t^2. Assim \n    (r+s)^2 - 4rs - 4 × 2010 = t^2\n \n    (r-s)^2 - t^2 = 4 × 2010\n \n    (r-s-t)(r-s+t) = 4 × 2010\n Como os números ((r-s)+t) e ((r-s)-t) possuem a mesma paridade e 2010 é inteiro, concluímos que os termos no produto anterior são inteiros. A cada par de divisores do tipo (d, 2010/d) do número 2010, temos uma solução para t e |r-s| na última equação. Como 2010 possui 16 divisores, o número de soluções é 8.",
         "contains_latex_figure": false,
         "id": 1859,
-        "level": 2,
+        "level": 3,
         "from": "obm/2010/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -985,7 +985,7 @@
         "answer_text": "Como os primos 2m+n e m+2n são maiores que dois, temos que ambos são ímpares e consequentemente 2m+n+m+2n = 3m+3n = 3(m+n) é um número par. Assim m+n é par e m+n=18 é um primo par, ou seja, dois. O único par de primos (m,n) que cumpre m+n=20 e satisfaz o enunciado é (m,n)=(3,17).",
         "contains_latex_figure": false,
         "id": 1860,
-        "level": 2,
+        "level": 3,
         "from": "obm/2010/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -996,7 +996,7 @@
         "answer_text": "A soma de um número de dois algarismos com a sua imagem é da forma (10a+b)+(10b+a) = 11(a+b), onde a e b são seus algarismos. Se 11(a+b) é um quadrado perfeito, devemos ter outro fator primo 11 na soma a+b. Além disso, como a e b são menores que 10, concluímos que a+b é um múltiplo de 11 menor que 20 e maior que 0, ou seja, é igual a 11. Os pares de dígitos (a,b) que verificam a+b=11 são: \n    (2,9), (3,8), (4,7), (5,6), (6,5), (7,4), (8,3)  e  (9,2).\n Portanto, existem 8 números de dois algarismos que cumprem o enunciado.\n Solução Alternativa Caso o aluno teste todos os números entre 10 e 99 e encontre os oito números. [10 pontos].",
         "contains_latex_figure": false,
         "id": 1861,
-        "level": 2,
+        "level": 3,
         "from": "obm/2010/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1007,7 +1007,7 @@
         "answer_text": "Volume de um copo de água é igual a 1/3·4/4 = 1/3 do volume da jarra. Falta encher 2/3 da jarra. Para isso são necessários 2/3÷1/3 = 2 copos.",
         "contains_latex_figure": false,
         "id": 1862,
-        "level": 1,
+        "level": 2,
         "from": "obm/2010/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1018,7 +1018,7 @@
         "answer_text": "Assim, obtemos o algarismo da direita da 3^a linha do algoritmo e também os dois últimos algarismos da 5^a linha, conforme figura à direita.\n\n    [         □    1    4     ;    ×         □    □     ;  2-5    □    □    2     ;    □    8    □          ; 2-5□    □    □          ;      ]\n\nComo o algarismo das dezenas do produto é 0 e o algarismo da direita da 4^a linha do algoritmo deve ser 6. Logo o algarismo das dezenas do multiplicando é 9, conforme figura à esquerda.\n\n    [         □    □    □    2;    ×              □    3;  2-5    □    □    6     ;    □    0    □    □     ; 2-5□    0    2    8     ;      ]\n\nComo o 2^o algarismo da direita 5^a linha é 0, o algarismo das centenas do multiplicando é 5. A partir do algoritmo completo, mostrado à direita, concluímos que a soma dos algarismos que foram borrados é 3+4+9+1+5+2+6+1+2+8+5+6 = 60.\n\n    [                 1     5     2;     ×           2     9     3;   3-6           4     5     6;           1     3     6     8      ;     3     0     4                  ; 3-6\n    4     4     5     3     6      ;       ]\n",
         "contains_latex_figure": false,
         "id": 1863,
-        "level": 1,
+        "level": 2,
         "from": "obm/2010/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1029,7 +1029,7 @@
         "answer_text": "Os números 1^2, 2^2, 3^2 possuem um algarismo. Os números 4^2, 5^2, …, 9^2 possuem dois algarismos. Os números 10^2, 11^2, …, 31^2 possuem três algarismos. Assim ao escrever o quadrado do número 31, o número de algarismos escritos é 1 × 3 + 2 × 6 + 3 × 22 = 81, faltando escrever 19 algarismos. Com o quadrado de 32 (32^2 = 1024), somamos mais 4 = 85 algarismos, faltando ainda escrever apenas três algarismos. Com o quadrado de 36 (36^2 = 1296), concluímos que o último algarismo escrito foi o 9, o centésimo algarismo escrito por Esmeralda.",
         "contains_latex_figure": false,
         "id": 1864,
-        "level": 1,
+        "level": 2,
         "from": "obm/2010/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1040,7 +1040,7 @@
         "answer_text": "Não podemos colocar o número 1 em nenhuma bola, pois o MDC entre 1 e qualquer outro número é 1, assim temos 498 números disponíveis. Além disso, se forem usadas 500 bolas ou mais, haverá duas com números consecutivos, sempre primos entre si, então não pudemos colocar mais que 499 bolas. Mas existe uma forma de colocar 499 bolas, usando os números pares de 2 a 998.",
         "contains_latex_figure": false,
         "id": 1865,
-        "level": 1,
+        "level": 2,
         "from": "obm/2010/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1051,7 +1051,7 @@
         "answer_text": "Quem acerta a questões e erra b obtém 3a-b pontos, com a+b ≤ 10. Obtemos os números de 0 a -10 com a=0, ao todo 11 inteiros. Obtemos os números de 1 a 30 usando os valores a=1 ou 2. Para a=1, não obtendo apenas 3 · 9 - 2 = 25, 3 · 10 - 1 = 29 e 3 · 10 - 2 = 28, pois nesses casos ficamos com a+b > 10, no todo 30 - 3 = 27 inteiros. Logo, o número máximo de candidatos nas condições apresentadas é 11+27=38.",
         "contains_latex_figure": false,
         "id": 1866,
-        "level": 1,
+        "level": 2,
         "from": "obm/2010/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1062,7 +1062,7 @@
         "answer_text": "Para um número cujo algarismo das dezenas é a e cujo algarismo das unidades é b, temos 10a+b = 2(a+b) ou a+b = 2(10a+b). A segunda equação não tem soluções positivas, e na primeira equação temos 10a+b = 2(a+b) ⇒ 10a+b = 2a+2b ⇒ 8a = b. Necessariamente temos a=1 e b=8. De fato, no cartão de número 18 a soma dos algarismos é 9.",
         "contains_latex_figure": false,
         "id": 1867,
-        "level": 1,
+        "level": 2,
         "from": "obm/2010/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1073,7 +1073,7 @@
         "answer_text": "Utilizando o produto das raízes, obtemos: ab=b. Como b ≠ 0, a=1. Utilizando a soma das raízes, obtemos: a+b=-a. 1+b=-1. a-b=3.",
         "contains_latex_figure": false,
         "id": 1868,
-        "level": 2,
+        "level": 3,
         "from": "obm/2011/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1084,7 +1084,7 @@
         "answer_text": "Todos os números terminados em 2, 4, 5 e 6 são compostos. Existem 4 × 4 = 16 tais números. Dos números terminados em 3, apenas 63 é composto. O enunciado apresenta uma ambiguidade. Outra interpretação seria considerar os números de dois algarismos constituídos por dois números distintos do conjunto {2,3,4,5,6}. Nesse caso, a resposta correta é 5 × 4 = 20.",
         "contains_latex_figure": false,
         "id": 1869,
-        "level": 2,
+        "level": 3,
         "from": "obm/2011/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1095,7 +1095,7 @@
         "answer_text": "Um número de dois dígitos (ab) elevado à quarta potência possui a seguinte forma: \n    (10a+b)^4 = 10^4a^4 + 4.10^3a^3b + 6.10^2a^2b^2 + 4.10ab^3 + b^4\n Assim, os últimos dois dígitos são determinados por 4.10ab^3 + b^4. Qualquer número ímpar diferente de 5 elevado à quarta potência termina em 1. Logo, temos quatro possibilidades para b: Se b=1, para o número 40a+1 terminar em 01 devemos ter a=5. Se b=3, para o número 1080a+81 terminar em 01 devemos ter a=4 ou a=9. Se b=7, para o número 13720a+2401 terminar em 01 devemos ter a=5. Se b=9, para o número 29160a+6561 terminar em 01 devemos ter a=4 ou a=9.",
         "contains_latex_figure": false,
         "id": 1870,
-        "level": 2,
+        "level": 3,
         "from": "obm/2011/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1106,7 +1106,7 @@
         "answer_text": "\n\n  (a) Uma possível sequência de operações é: \n    5  6  9  19  19\n\n\n  (b) Perceba que se é possível obtermos o número n também é possível obtermos o número n-1 com a operação n(n-1)+1/(n-1)+1 = n-1 e consequentemente poderemos obter todos os inteiros positivos menores que n-1 repetindo essa operação. Então é suficiente obtermos um inteiro maior que 2011 começando em 5. Uma possível sequência de operações para isso seria: \n    5  6  8  16  64  1024  2044\n\n",
         "contains_latex_figure": false,
         "id": 1871,
-        "level": 2,
+        "level": 3,
         "from": "obm/2011/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1117,7 +1117,7 @@
         "answer_text": "Somando as três equações obtemos: 2ab+2bc+2ca = 484. Daí, ab = 242 - c(a+b) = 72. bc = 242 - a(b+c) = 90. ca = 242 - b(a+c) = 80. Logo, (abc)^2 = 72.90.80 e abc = 720.",
         "contains_latex_figure": false,
         "id": 1872,
-        "level": 2,
+        "level": 3,
         "from": "obm/2011/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1128,7 +1128,7 @@
         "answer_text": "Seja d = mdc(a,b). Podemos reescrever a equação como: \n    a/d + b/d + 1 = 33/d\n O lado esquerdo é uma soma de números inteiros logo, d divide 33. Agora temos que mdc(a/d, b/d) = mdc(a/d, 33/d - 1) = mdc(b/d, 33/d - 1) = 1. Fixado d, é suficiente encontrarmos os pares de inteiros positivos (x,y) com mdc(x, 33/d - 1) = 1 tais que x+y = 33/d - 1 pois daí obtemos também que mdc(y, 33/d - 1) = 1 e que (a,b) = (dx, dy) é solução. Vejamos então as possibilidades para d: Para d=1: x+y=32, temos 16 soluções pois basta escolhermos x ímpar. Para d=3: x+y=10, temos 4 soluções pois x não pode ser par nem múltiplo de 5. Para d=11: x+y=2, temos 1 solução apenas. Não podemos ter d=33 pois e e b são positivos. Logo, existem 21 pares de soluções.",
         "contains_latex_figure": false,
         "id": 1873,
-        "level": 2,
+        "level": 3,
         "from": "obm/2011/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1139,7 +1139,7 @@
         "answer_text": "O dígito das unidades do produto do enunciado é o dígito das unidades da multiplicação C × B. Dentre os seis possíveis produtos de dois números entre os quatro mencionados no enunciado, o único que também aparece como dígito das unidades de um de seus produtos associados é 5. Portanto, C=5. Como o número CC é múltiplo de 11, o produto final DBAB também é múltiplo de 11. Daí, pelo critério de divisibilidade por 11, (D+A)-(B+B) = (D+A)-2B é um múltiplo da divisão dos algarismos, temos D-B+A-B = D-A-B = 5-2=12. Daí, D-A-B ou D-A-B é 0. No primeiro caso, a única solução é D=2 e A=7. No segundo, não temos solução, pois não existem dois dígitos no conjunto dado inicialmente que diferem por 6. Finalmente, tendo encontrado os valores de A, B e D, obtemos C=3 e ABCD=7532.",
         "contains_latex_figure": false,
         "id": 1874,
-        "level": 2,
+        "level": 3,
         "from": "obm/2016/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1150,7 +1150,7 @@
         "answer_text": "A equação pode ser reescrita como (b-4x)^2 + (xb-9)^2 = 0. Como a equação admite uma raiz real x, devemos ter b-4x=0 e xb-9=0. Claramente x ≠ 0, portanto, b^2 = 4x ·9/x = 36 e b=6.",
         "contains_latex_figure": false,
         "id": 1875,
-        "level": 2,
+        "level": 3,
         "from": "obm/2016/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1161,7 +1161,7 @@
         "answer_text": "Como 1! = 1, 2! = 2, 3! = 6, 4! = 24, 5! = 120, 6! = 720, 7! = 5040 e 8! = 40320, 1!+2!+…+7! < 100000 < 1!+2!+…+8!, e o número na posição 10000 é obtido tirando os primeiros 1!+2!+…+7! números de 10000:\n\n    10000 - 1! - 2! - … - 7! = 4087\n",
         "contains_latex_figure": false,
         "id": 1876,
-        "level": 2,
+        "level": 3,
         "from": "obm/2016/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1172,7 +1172,7 @@
         "answer_text": "Como 2^7 = 128 > 100, e 2 é o menor número primo, nenhum número de dois dígitos pode ter mais que 6 fatores primos em sua fatoração. Além disso, como 2 · 3 · 5 · 7 > 100, nenhum número de dois dígitos pode ter mais que três fatores primos distintos. Assim, a fatoração em primos de um número de dois dígitos é da forma p^a q^b, com a+b ≤ 6, p, q e r primos distintos. Com essas restrições, um número de dois dígitos possui no máximo 12 divisores positivos. Como não existe um inteiro de dois dígitos com 11 divisores, pois nenhum número de dois dígitos possui 10 fatores primos, a quantidade máxima de inteiros da lista é 11-1=10. Um exemplo de lista é:\n\n    13, 25, 35, 16, 28, 64, 56, 36, 48, 96.\n\nEm cada número da lista, sublinhamos o dígito que é maior que um dos dígitos do número que o precede na lista.",
         "contains_latex_figure": false,
         "id": 1877,
-        "level": 2,
+        "level": 3,
         "from": "obm/2016/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1183,7 +1183,7 @@
         "answer_text": "Substituindo y por 2 e x por a - f(2) = a - 8, obtemos f(a) - f(2) = a - 8 + f(f(2)) = a - 8 + f(8).\nSubstituindo a por 2 na última equação, obtemos f(2) = 2 - 8 + f(8) ⇒ 8 = 2 - 8 + f(8) ⇒ f(8) = 14. Assim f(a) = a - 8 + 14 = a + 6 e f(2005) = 2005 + 6 = 2011.",
         "contains_latex_figure": false,
         "id": 1878,
-        "level": 3,
+        "level": 4,
         "from": "obm/2005/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1194,7 +1194,7 @@
         "answer_text": "A ideia da solução é perguntar o valor numérico de p(k) para k suficientemente grande.\nSuponha que o polinômio seja: p(x) = a_n x^n + a_n-1 x^n-1 + … + a_0, com a_n, …, a_0 inteiros positivos. Se k é um inteiro, tal que k > max{|a_n|, |a_n-1|, …, |a_0|}, então p(k) é um inteiro, cujos dígitos na representação em base k são exatamente os coeficientes do polinômio p(x). Podemos então tomar k igual a uma potência de 10 suficientemente grande.\nLogo para resolver o problema, basta perguntarmos o valor de p(1), assim obtemos uma cota superior para M, e então perguntamos o valor de p(x) para x igual a uma potência de 10 maior do que p(1). Portanto, o número mínimo de perguntas que devemos fazer, para garantir que o polinômio p(x) seja determinado sem sombra de dúvidas, é 2.\nPor exemplo: Se p(1) = 29, perguntamos p(100), digamos que p(100) = 100613. Então o nosso polinômio é p(x) = 10x^2 + 6x + 13.",
         "contains_latex_figure": false,
         "id": 1879,
-        "level": 3,
+        "level": 4,
         "from": "obm/2005/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1205,7 +1205,7 @@
         "answer_text": "Temos 9xy - x^2 - 8y^2 = 2005 ⇔ xy - x^2 + 8xy - 8y^2 = 2005\n⇔ x(y-x) + 8y(x-y) = 2005 ⇔ (x-y)(8y-x) = 2005 (*).\nObservemos que na fatoração em primos 2005 = 5 · 401.\nAlém disso, a soma dos fatores x-y e 8y-x é 7y, que é múltiplo de 7. Devemos então escrever 2005 como produto de dois fatores, cuja soma é um múltiplo de 7. Para isso, os fatores devem ser ± 5 e ± 401. A soma dos fatores é ± 406.\n\n    [   x-y = 5  e  8y-x = 401        x = 63  e  y = 58;                       ou                       ou;   x-y = 401  e  8y-x = 5       x = 459  e  y = 58;                       ou                       ou; x-y = -5  e  8y-x = -401      x = -63  e  y = -58;                       ou                       ou; x-y = -401  e  8y-x = -5     x = -459  e  y = -58 ]\n\nAs soluções são, portanto, (63; 58), (459; 58), (-63; -58) e (-459; -58).\n\nSOLUÇÃO ALTERNATIVA:\nObservando na equação dada como uma equação do segundo grau em x, obtemos\n-x^2 + 9yx - 8y^2 = 2005 ⇔ x^2 - 9yx + 8y^2 = -2005.\nCujo discriminante é\nΔ = (9y)^2 - 4(8y^2 - (-2005)) = 81y^2 - 32y^2 - 8020 = 49y^2 - 8020.\nPara que x admita soluções inteiras, seu discriminante deve ser um quadrado perfeito; portanto 49y^2 - 8020 = m^2 ⇔ (7y-m)(7y+m) = 8020 = 2^4 · 5 · 401 (**).\nPodemos supor, sem perda de generalidade, que m ≥ 0, pois se (m; y) é solução de (**), então (-m; y) também é. Observando também que 7y-m e 7y+m têm a mesma paridade e 7y-m + 7y+m = 14y é par, então 7y-m e 7y+m devem ser ambos pares.\nDividindo o problema em 4 casos:\n\n    \n  * 7y-m = 2 e 7y+m = 4010 ⇒ m = 2004 e y = 2006/7, impossível;\n    \n  * 7y-m = 10 e 7y+m = 802 ⇒ m = 396 e y = 58;\n    \n  * 7y-m = -802 e 7y+m = -10 ⇒ m = 396 e y = -58;\n    \n  * 7y-m = -4010 e 7y+m = -2 ⇒ m = 2004 e y = -2006/7, impossível.\n\nSe y = 58, as soluções em x de (*) são x = 9y ± m/2 = 9 · 58 ± 396/2 = 522 ± 396/2.\nx_1 = 522 + 396/2 = 918/2 = 459.\nx_2 = 522 - 396/2 = 126/2 = 63.\nSe y = -58, as soluções em x de (*) são x = 9y ± m/2 = 9 · (-58) ± 396/2 = -522 ± 396/2.\nx_1 = -522 + 396/2 = -126/2 = -63.\nx_2 = -522 - 396/2 = -918/2 = -459.\nLogo as soluções são (63; 58), (459; 58), (-63; -58) e (-459; -58).",
         "contains_latex_figure": false,
         "id": 1880,
-        "level": 3,
+        "level": 4,
         "from": "obm/2005/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1216,7 +1216,7 @@
         "answer_text": "Primeira Solução:\nSeja a_n o número de ordenadas de resultados (sem derrotas), cujo total de pontos seja n. A pergunta do problema é: quanto vale a_20?\nPara responder a tal pergunta, iremos determinar uma relação recursiva entre os termos dessa sequência. Pensando no último resultado de uma ordenada de resultados totalizando n pontos, ele pode ser 1 ou 2. Se for 1, então retirando o último termo da ordenada, ela passa a totalizar n-1 pontos. Se for V, então ao retirarmos o último resultado, a ordenada passa a totalizar n-2 pontos. Disto, concluímos que:\na_n = a_n-1 + a_n-2.\nCalculando os valores da sequência, temos: a_1 = 1, a_2 = 2, a_3 = 3, a_4 = 4, a_5 = 6, a_6 = 9, a_7 = 13, a_8 = 19, a_9 = 28, a_10 = 41, a_11 = 60, a_12 = 88, a_13 = 129, a_14 = 189, a_15 = 277, a_16 = 406, a_17 = 595, a_18 = 872 e a_19 = 1278.\nLogo existem 1278 possíveis sequências ordenadas de resultados que o Flameiras pode ter obtido.\n\nSegunda Solução:\nSejam x e y o número de vitórias e empates do Flameiras, respectivamente. Temos que: x ≥ 0, y ≥ 0 e 3x+y = 20. Dividindo em 7 possíveis casos:\n1^∘ caso: x=0 e y=20. Temos exatamente uma sequência ordenada de resultados.\n2^∘ caso: x=1 e y=17. Uma sequência ordenada deverá conter exatamente um \"V\" e 17 \"E\", portanto o número de sequências ordenadas é exatamente o número de anagramas da palavra:\n\"VEEEEEEEEEEEEEEEV\", que é: (17+1)! / (17! · 1!) = 18.\n3^∘ caso: x=2 e y=14. Analogamente ao 2^∘ caso, o número de sequências ordenadas é igual ao número de anagramas da palavra \"VVEEEEEEEEEEEEEE\", que é: (14+2)! / (14! · 2!) = 120.\n4^∘ caso: x=3 e y=11: (11+3)! / (11! · 3!) = 364 sequências ordenadas.\n5^∘ caso: x=4 e y=8: (8+4)! / (8! · 4!) = 495 sequências ordenadas.\n6^∘ caso: x=5 e y=5: (5+5)! / (5! · 5!) = 252 sequências ordenadas.\n7^∘ caso: x=6 e y=2: (2+6)! / (2! · 6!) = 28 sequências ordenadas.\nTemos um total de 1+18+120+364+495+252+28 = 1278 sequências ordenadas de resultados possíveis.",
         "contains_latex_figure": false,
         "id": 1881,
-        "level": 3,
+        "level": 4,
         "from": "obm/2005/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1227,7 +1227,7 @@
         "answer_text": "Sejam p, p+d, p+2d, p+3d, p+4d, p+5d, p+6d a progressão aritmética, que podemos supor crescente sem perda de generalidade. Então:\n1) p é primo.\nDe fato, se p=2, p+2d é par e maior do que 2 e, portanto, não é primo.\n2) d é múltiplo de 2.\nCaso contrário, como p é ímpar, p+d seria par e maior do que 2.\n3) p=3\nSenão, teríamos p+3d múltiplo de 3, maior do que 3.\n4) d é múltiplo de 3.\nCaso contrário, p+d ou p+2d seria múltiplo de 3 e maior do que 3.\n5) p=5\nSenão teríamos p+5d múltiplo de 5, maior do que 5.\n6) d é múltiplo de 5.\nCaso contrário, p+d, p+2d, p+3d ou p+4d seria múltiplo de 5, maior do que 5.\nDe 1), 2), 3), 4), 5) e 6), p=7 e d é múltiplo de 30.\nSe p=7, observando que 187 = 11 · 17, então d  120.\nPara d=120, a sequência é 7, 127, 247, 367, 487, 607, 727 a qual não serve, pois 247 = 13 · 19.\nPara d=150, a sequência é 7, 157, 307, 457, 607, 757, 907 é satisfaz as condições do problema.\nFinalmente, se p=7 então d é múltiplo de 210 e o menor último termo possível para tais sequências é 11+6 · 210 = 1271.\nPortanto a resposta é 907.",
         "contains_latex_figure": false,
         "id": 1882,
-        "level": 3,
+        "level": 4,
         "from": "obm/2005/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1238,7 +1238,7 @@
         "answer_text": "Natasha pulou os números 13, 31, 113, 130,131, 132, ..., 139, num total de 13 números. Portanto, na última página do seu diário escreveu o número 200 + 13 + 1 = 214.",
         "contains_latex_figure": false,
         "id": 1883,
-        "level": 2,
+        "level": 3,
         "from": "obm/2005/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1249,7 +1249,7 @@
         "answer_text": "Como a+3 é múltiplo de 11, a+3 = 11b, b ∈ℤ. Sendo a múltiplo de 5, a = 10b-3 também é múltiplo de 5, de modo que b-3 é múltiplo de 5. Assim, b = 5c+3. Logo a = 10b-3 = 10(5c+3)-3 = 50c+30-3 = 50c+27. O número a+2 é múltiplo de 9, assim, como a = 50c+27, 50c+27+2 = 50c+29 é múltiplo de 9. Como 50c+29 = 50c+27+2 = 50c+29, 50c+29 ≡ 5c+2 9. Portanto, 5c+2 é múltiplo de 9. Se c=1, 5c+2=7. Se c=2, 5c+2=12. Se c=3, 5c+2=17. Se c=4, 5c+2=22. Se c=5, 5c+2=27, que é múltiplo de 9. Assim, c=5. Logo a = 50(5)+27 = 250+27 = 277.\nO número d+1 é múltiplo de 7, então d+1 = 7k. Como d é múltiplo de 4, d = 4m. Então 4m+1 é múltiplo de 7. Se m=1, 4m+1=5. Se m=2, 4m+1=9. Se m=3, 4m+1=13. Se m=4, 4m+1=17. Se m=5, 4m+1=21, que é múltiplo de 7. Assim, m=5. Logo d = 4(5) = 20.\nPor fim, sendo a+1 múltiplo de 7, então a+1 = 497d - 245 = a+1 - 7(71d+35) = -2d+6 = -2(20)+6 = -40+6 = -34. Ou seja, d = -34 ÷ (-2) = 17. Logo o valor de a é 1735.",
         "contains_latex_figure": false,
         "id": 1884,
-        "level": 2,
+        "level": 3,
         "from": "obm/2005/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1260,7 +1260,7 @@
         "answer_text": "Vamos representar por A, G e L a quantidade de questões de Álgebra, Geometria e Lógica da prova e por a, g e l as questões respondidas acertadamente em cada uma destas áreas. As condições do problema fornecem as seguintes equações:\n\n    a/A = 0,5;   g/G = 0,7;   l/L = 0,8;   a+1/A+L = 0,62;   g+1/G+L = 0,74\n\nSubstituindo as relações expressas pelas três primeiras equações nas outras duas, obtemos:\n\n    0,5A+0,8L/A+L = 0,62 ⇒ 0,12A = 0,18L ⇒ A = 3L/2\n\n\n    0,7G+0,8L/G+L = 0,74 ⇒ 0,04G = 0,06L ⇒ G = 3L/2\n\nA porcentagem de questões acertadas é:\n\n    a+g+l/A+G+L = 0,5A+0,7G+0,8L/A+G+L = 0,5 ·3/2L+0,7 ·3/2L+0,8L/3/2L+3/2L+L = 3/4L+21/20L+4/5L/4L = 15+21+16/20L/4L = 52/20L/4L = 13/5L/4L = 13/20 = 0,65 = 65%\n",
         "contains_latex_figure": false,
         "id": 1885,
-        "level": 2,
+        "level": 3,
         "from": "obm/2005/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1271,7 +1271,7 @@
         "answer_text": "\n    \n  (a) x^2 - 9xy + 8y^2 = x^2 - xy - 8xy + 8y^2 = x(x-y) - 8y(x-y) = (x-8y)(x-y).\n    Alternativamente, as raízes da equação do 2^∘ grau x^2 - 9xy + 8y^2, de incógnita x, são y e 8y. Logo, x^2 - 9xy + 8y^2 fatorada em (x-8y)(x-y).\n    \n  (b) A equação a ser resolvida é (x-y)(x-8y) = 2005    (*).\n    Observemos que a fatoração em primos de 2005 é 5 · 401.\n    Além disso, a soma dos fatores x-y e x-8y é 7y, que é múltiplo de 7. A soma dos fatores é ± 406, sendo que somente ± 406 é múltiplo de 7. Assim,\n    \n    [  x-y    =    5    e x-8y    =  401;        ou     ;  x-y    =  401    e x-8y    =    5;  (*)   ou    ⇔     ;  x-y    =   -5    e x-8y    = -401;        ou     ;  x-y    = -401    e x-8y    =   -5 ]\n\n    As soluções são, portanto, (63; 58), (459; 58), (-63; -58) e (-459; -58).\n\n    SOLUÇÃO ALTERNATIVA:\n    Observando a equação dada como uma equação do segundo grau em x, obtemos x^2 - 9xy + 8y^2 - 2005 = 0    (*), cujo discriminante é\n    \n    (9y)^2 - 4(8y^2 - 2005) = 81y^2 - 32y^2 + 8020 = 49y^2 + 8020\n\n    Para que (*) admita soluções inteiras, seu discriminante deve ser um quadrado perfeito: portanto 49y^2 - 8020 = m^2 ⇒ (7y)^2 - m^2 = 8020 ⇒ (7y-m)(7y+m) = 8020    (**).\n    Podemos supor, sem perda de generalidade, que m ≥ 0, pois se (m; y) é solução de (**), então (-m; y) também é. Observando também que 7y-m e 7y+m têm a mesma paridade e m = 7y+m, então podemos dividir o problema em 4 casos:\n    \n        \n  * 7y-m = 2 e 7y+m = 4010 ⇒ m = 2004 e y = 2006/7, impossível;\n        \n  * 7y-m = 10 e 7y+m = 802 ⇒ m = 396 e y = 58;\n        \n  * 7y-m = -802 e 7y+m = -10 ⇒ m = 396 e y = -58;\n        \n  * 7y-m = -4010 e 7y+m = -2 ⇒ m = 2004 e y = -2006/7, impossível.\n    \n    Se y = 58, as soluções em x de (*) são x = 9y ±√(49y^2+8020)/2 = 9 · 58 ±√(49 · 58^2+8020)/2 = 522 ±√(49 · 3364+8020)/2 = 522 ±√(164836+8020)/2 = 522 ±√(172856)/2.\n    A solução apresentada na imagem está incorreta na parte final. O discriminante é 49y^2+8020. Se y=58, 49(58^2)+8020 = 49(3364)+8020 = 164836+8020 = 172856. √(172856)≈ 415.76. Não é um quadrado perfeito. A solução da imagem usa m=396 para y=58, o que implica que 49y^2+8020 = m^2 é 49(58^2)+8020 = 396^2. 172856 = 156816, o que é falso.\n    A solução da imagem continua com:\n    \n    x = 9y+m/2 = 9 · 58+396/2 = 522+396/2 = 918/2 = 459   e   x = 9y-m/2 = 9 · 58-396/2 = 522-396/2 = 126/2 = 63\n\n    Se y = -58, as soluções em x de (*) são\n    \n    x = 9y+m/2 = 9 · (-58)+396/2 = -522+396/2 = -126/2 = -63   e   x = 9y-m/2 = 9 · (-58)-396/2 = -522-396/2 = -918/2 = -459\n\n    Logo as soluções são (63; 58), (459; 58), (-63; -58) e (-459; -58).",
         "contains_latex_figure": false,
         "id": 1886,
-        "level": 2,
+        "level": 3,
         "from": "obm/2005/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1282,7 +1282,7 @@
         "answer_text": "O tanque contém uma mistura de 30 litros, sendo 0,2 × 30 = 6 litros de álcool e 30 - 6 = 24 litros de gasolina. Portanto, para que as quantidades de gasolina e álcool fiquem iguais, devem ser colocados no tanque 24 - 6 = 18 litros de álcool.",
         "contains_latex_figure": false,
         "id": 1887,
-        "level": 1,
+        "level": 2,
         "from": "obm/2005/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1293,7 +1293,7 @@
         "answer_text": "Como 2 é a média aritmética de 1 e a, podemos escrever 1+a/2 = 2, logo 1+a = 4 ⇔ a = 3; portanto, b = 1+2+3/3 = 2; c = 1+3+2+2/4 = 2; d = 1+3+2+2+2/5 = 2. Esses exemplos sugerem que todos os termos, a partir do terceiro, são iguais a 2. De fato, quando introduzimos em uma sequência um termo igual à média de todos os termos da sequência, a média da nova sequência é a mesma que a da sequência anterior. Assim, o último termo da sequência dada é 2.",
         "contains_latex_figure": false,
         "id": 1888,
-        "level": 1,
+        "level": 2,
         "from": "obm/2005/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1304,7 +1304,7 @@
         "answer_text": "Natasha pulou os números 13, 31, 113, 130, 131, 132, …, 139, num total de 13 números. Portanto, na última página do seu diário escreveu o número 200 + 13 + 1 = 214.",
         "contains_latex_figure": false,
         "id": 1889,
-        "level": 1,
+        "level": 2,
         "from": "obm/2005/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1315,7 +1315,7 @@
         "answer_text": "Todas as faces azuis: uma maneira. Cinco faces azuis e uma amarela: uma maneira. Quatro faces azuis e duas amarelas: duas maneiras (duas faces amarelas opostas ou duas faces amarelas adjacentes). Três faces azuis e três faces amarelas: duas maneiras (três azuis com um vértice comum – uma maneira ou três azuis com uma aresta comum duas a duas – uma maneira) Duas faces azuis e quatro amarelas: duas maneiras Uma face azul e cinco amarelas: uma maneira. Todas as faces amarelas: uma maneira. Portanto, o número de maneiras diferentes de pintar o cubo é 10.",
         "contains_latex_figure": false,
         "id": 1890,
-        "level": 1,
+        "level": 2,
         "from": "obm/2005/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1326,7 +1326,7 @@
         "answer_text": "Seja n = abc múltiplo de 11; então n-1 deve ser múltiplo de 9 e n-2 deve ser múltiplo de 7. Seja C ≠ 0. Como abc é múltiplo de 11, podemos ter a-b+c=0 ou a-b+c=11. Como abc-1 é múltiplo de 9, podemos ter a+b+c-1=9 ou a+b+c-1=18. No caso de a+b+c-1=0, teríamos n-1=99 ⇒ n=100, que não é múltiplo de 11. Assim, simultaneamente, somente podemos\n\n    \n  (i) [ a+b+c=10;  a-b+c=0 ]⇒[ 2b=10; a+c=5 ]⇒ b=5 ou\n    \n  (ii) [ a+b+c=19; a-b+c=11 ]⇒[  2b=19; a+c=11 ]⇒ b=19/2\n\nNo caso (i) existem as seguintes possibilidades para n: 154, 253, 352, 451, que são múltiplos de 11; para n-1 temos os números 153, 252, 351, 450 e 849 são múltiplos de 9. Para os números n-2 temos 152, 251, 350, 449 e 848 dos quais apenas 350 é múltiplo de 7. No caso (ii) existem as seguintes possibilidades para n: 649, 748, 847 e 946, que são múltiplos de 11; para n-1 temos os números 648, 747, 846 e 945 são múltiplos de 9. Para os números n-2 temos 647, 746, 845 e 944, dos quais nenhum é múltiplo de 7. Seja C=0. Neste caso, n-1 tem os algarismos a, b-1 e 9. Assim, a+b-1+9=9 ou a+b-1+9=18 ou seja, a+b=1 ou a+b=10. Como a-b+c=a-b=0 ou a-b+c=a-b=11, concluímos que a=b. Assim, a=b=5, o que fornece os números n=550, n-1=549 e n-2=548, que não é divisível por 7. Portanto, a única sequência de três números inteiros consecutivos nas condições dadas é 350, 351 e 352.",
         "contains_latex_figure": false,
         "id": 1891,
-        "level": 1,
+        "level": 2,
         "from": "obm/2005/level_1/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1337,7 +1337,7 @@
         "answer_text": "Os possíveis produtos x_2k-1x_2k são (√(2)-1)(√(2)-1)=3-2√(2), (√(2)+1)(√(2)+1)=3+2√(2) e (√(2)-1)(√(2)+1)=1. Suponha que a produtos são iguais a 3-2√(2), b produtos são iguais a 3+2√(2) e 1002-a-b produtos são iguais a 1.\nA soma é igual a a(3-2√(2))+b(3+2√(2))+1002-a-b=1002+2a+2b+2(b-a)√(2).\nAssim, para que a soma seja inteira, devemos ter a=b. Logo a soma é igual a 1002+4a.\nComo a varia de 0 a 501 (pois a+b não pode ser maior que 1002), a soma pode assumir 502 valores inteiros.\n\nObservações:\nO enunciado continha um erro: o somatório deveria ser ∑_k=1^1002 x_2k-1x_2k. E não ∑_k=1^501 x_2k-1x_2k.\nOs alunos que encontraram corretamente a resposta para o número de valores inteiros distintos que a soma ∑_k=1^501 x_2k-1x_2k = x_1x_2+x_3x_4+x_5x_6+...+x_4007x_4008 assumir, a qual é 1003 (de fato, agora, na notação da solução acima, a soma é 2004+4a', e a varia de 0 a 1002) também devem ganhar 10 pontos.",
         "contains_latex_figure": false,
         "id": 1892,
-        "level": 3,
+        "level": 4,
         "from": "obm/2004/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1348,7 +1348,7 @@
         "answer_text": "Para cada grupo de 5 alunos, existe um único time formado que os contém. Logo, contamos\n\n    125 = 12 · 11 · 10 · 9 · 8/5! = 792\n\nvezes para cada 5 alunos escolhidos. Por outro lado, em cada time de\n\n    65 = 6\n\njogadores, temos 6 modos de escolhermos cinco jogadores, ou seja, existem 6 grupos de 5 jogadores que geram o mesmo time na nossa primeira contagem. Logo, o total de times formados é igual a\n\n    792/6 = 132.\n\n\nSolução Alternativa:\nHá 126 maneiras de escolher 6 dentre 12 alunos. Além disso, fixados 5 alunos, há 7 maneiras de montar um time com esses 5 alunos mais outro aluno. Assim, considerando que cada 5 alunos jogaram juntos num mesmo time exatamente uma vez, o total de maneiras de escolher 6 dentre 12 alunos é igual a 7 vezes o número de maneiras de formar os times ao longo do ano. Logo o número de maneiras de formar os times ao longo do ano é\n\n    1/7126 = 12 · 11 · 10 · 9 · 8 · 7/7 · 6 · 5 · 4 · 3 · 2 · 1 = 132.\n",
         "contains_latex_figure": false,
         "id": 1893,
-        "level": 3,
+        "level": 4,
         "from": "obm/2004/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1359,7 +1359,7 @@
         "answer_text": "A equação é equivalente a n · 2^n-1 = (m-1)(m+1). Suponha n>3. Temos m ímpar, digamos m=2k+1. A equação fica então n · 2^n-3 = k(k+1). Portanto, 2^n-3 divide k ou k+1, pois k ou k+1 (o que for ímpar) divide n. Assim, k+1 ≥ 2^n-3 e k ≤ n, donde n+1 ≥ 2^n-3.\nMostremos, por indução, que n+1 < 2^n-3 para n ≥ 5. Para n=5 (base de indução), temos 6 < 1 = 2^2 = 4. Supondo que a desigualdade é válida para n=k, provemos que a mesma é válida para n=k+1 (passo indutivo). De fato, temos k+1 < 2^k-3⇒ k+1 < 2^k-3· 2 = 2^k-2. Como k+2 < 2^k-2, temos k+2 < 2^k-2, completando a demonstração.\nAssim, basta testar 0 ≤ n ≤ 5. Portanto as soluções são (m;n)=(1;0) e (m;n)=(9;5).",
         "contains_latex_figure": false,
         "id": 1894,
-        "level": 3,
+        "level": 4,
         "from": "obm/2004/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1370,7 +1370,7 @@
         "answer_text": "Seja n=p_1^a_1p_2^a_2...p_k^a_k (com p_1 < p_2 < ... < p_k primos) um número sinistro. Como p_i ≥ 2 para todo i, n ≥ 2^a_1+...+a_k. [2 pontos]\nComo n tem 4 algarismos, n < 10000, donde 2^a_1+...+a_k≤ n < 10000, e logo a_1+...+a_k ≤ 13. [1 ponto]\nSe um dos fatores primos fosse maior ou igual a 11, a soma dos fatores primos seria ≥ 11, donde a_1+...+a_k ≥ 11 e n ≥ 2^11 = 2048. [1 ponto]\nAssim, os únicos fatores primos possíveis são 2, 3, 5 e 7. Como 3^7 < 1000, se a soma dos expoentes for ≤ 5, o número deve ser 5^2 = 3125. A soma pode ser também igual a 7, donde o número pode ser 2^1 · 5^1 = 2000, ou 2^1 · 5^1 = 5000 (note que 7^1 > 10000).\nNão pode ser igual a 8=3+5, pois 3^1 · 5^1 > 10000.\nPode ser igual a 9=7+2, podendo o número ser igual a 2^1 · 7^1 = 1792 ou 2^1 · 7^1 = 6272.\nPode ser igual a 10=2+3+5, podendo o número ser igual a 2^1 · 3^1 · 5^1 = 3840, 2^1 · 3^1 · 5^1 = 5760, 2^1 · 3^1 · 5^1 = 9600 ou 2^1 · 3^1 · 5^1 = 8640 (note que os fatores primos não podem ser 3 e 7, pois 3^1 · 7^1 > 10000).\nA soma não pode ser 11, nem 12 (pois 2^10· 3^1 · 7^1 · 5^1 são maiores que 10000) nem 13. Assim os números sinistros de quatro algarismos são 5^1 = 3125, 2^1 · 5^1 = 2000, 2^1 · 5^1 = 5000, 2^1 · 7^1 = 1792, 2^1 · 7^1 = 6272, 2^1 · 3^1 · 5^1 = 3840, 2^1 · 3^1 · 5^1 = 5760, 2^1 · 3^1 · 5^1 = 9600 e 2^1 · 3^1 · 5^1 = 8640. [+6 pontos]\n\nObservação: Soluções que não encontram todos os números sinistros de quatro algarismos ou que encontram um falso número sinistro ganham no máximo 8 pontos.\nDeve ser retirado pelo menos um ponto por cada número sinistro que falte.",
         "contains_latex_figure": false,
         "id": 1895,
-        "level": 3,
+        "level": 4,
         "from": "obm/2004/level_3/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1381,7 +1381,7 @@
         "answer_text": "\n    √(2004 × 2002 × 1998 × 1996 + 36) = √((2000 + 4) × (2000 + 2) × (2000 - 2) × (2000 - 4) + 36)\n \n    = √(((2000 + 4) × (2000 - 4)) × ((2000 + 2) × (2000 - 2)) + 36)\n \n    = √((2000^2 - 4^2) × (2000^2 - 2^2) + 36)\n \n    = √((2000^2 - 16) × (2000^2 - 4) + 36)\n \n    = √(2000^4 - 20 × 2000^2 + 64 + 36)\n \n    = √(2000^4 - 20 × 2000^2 + 100)\n \n    = √((2000^2 - 10)^2) = 2000^2 - 10 = 3999990\n Portanto a soma dos algarismos é 3 + 9 + 9 + 9 + 9 + 9 + 0 = 48.",
         "contains_latex_figure": false,
         "id": 1896,
-        "level": 2,
+        "level": 3,
         "from": "obm/2004/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1392,7 +1392,7 @@
         "answer_text": "\n    \n  (a) 1 - 1/1 - 1/1 - 1/x = 1 - 1/1 - x/x - 1 = 1 - 1/x - 1 - x/x - 1 = 1 - x - 1/-1 = 1 + x - 1 = x\n    \n  (b) x 1/x 1 - 1/x1/1 - 1/x 1 - 1/1 - 1/x1/1 - 1/1 - 1/x 1 - 1/1 - 1/1 - 1/x\n    Como 1 - 1/1 - 1/1 - 1/x = x, vemos que após apertar 6 vezes sucessivamente, de forma alternada, as duas teclas A e B o número que aparece no visor da calculadora volta a ser igual ao que aparecia inicialmente no visor. Uma vez que 1000 = 166 × 6 + 4, basta analisar apenas as 4 primeiras interações, ou seja,\n    x 1/x 1 - 1/x1/1 - 1/x 1 - 1/1 - 1/x\n    de onde temos que\n    1 - 1/1 - 1/x = 2004 ⇔ 1 - x/x - 1 = 2004 ⇔x - 1 - x/x - 1 = 2004 ⇔-1/x - 1 = 2004 ⇔ x - 1 = -1/2004⇔ x = 1 - 1/2004 = 2003/2004.\n",
         "contains_latex_figure": false,
         "id": 1897,
-        "level": 2,
+        "level": 3,
         "from": "obm/2004/level_2/open_questions.csv",
         "multiple_choice_question": false
     },
@@ -1403,7 +1403,7 @@
         "answer_text": "\n    \n  (a) Mantendo a = 2, temos d = 7. Além disso, 10 · 2 + 7 = 9(b - c) ⇒ b - c = 3. O menor valor de b que podemos escolher, após 3, é 4, e nesse caso, c = 1. O número procurado é, então, 2417.\n    \n  (b) Uma vez que escolhemos b - c, a e d estão determinados: a é o algarismo das dezenas de 9(b - c), e d, o das unidades. Além disso, 9(b - c) ≥ 10 ⇒ b - c ≥ 2.\n    Se b - c = 2, (b,c) ∈{(2,0); (3,1); (4,2); …; (9,0)}, um total de 8 possibilidades.\n    Da mesma forma, vemos que se b - c = 3, (b,c) ∈{(3,0); (4,1); (5,2); …; (9,6)}, há um total de 7 possibilidades.\n    Para b - c = 4, (b,c) ∈{(4,0); (5,1); (6,2); …; (9,5)}, 6 possibilidades, b - c = 5, (b,c) ∈{(5,0); (6,1); (7,2); …; (9,4)}, 5 possibilidades, b - c = 6, (b,c) ∈{(6,0); (7,1); (8,2); (9,3)}, 4 possibilidades, b - c = 7, (b,c) ∈{(7,0); (8,1); (9,2)}, 3 possibilidades, b - c = 8, (b,c) ∈{(8,0); (9,1)}, 2 possibilidades e, finalmente, para b - c = 9, (b,c) = (9,0), 1 possibilidade.\n    Há, portanto, um total de 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1 = 36 números legais.\n",
         "contains_latex_figure": false,
         "id": 1898,
-        "level": 2,
+        "level": 3,
         "from": "obm/2004/level_2/open_questions.csv",
         "multiple_choice_question": false
     }
