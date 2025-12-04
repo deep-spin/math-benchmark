@@ -1,0 +1,26 @@
+=== Overall (fig and no fig) ===
+
+Model: gpt-5
+  Level 1: no data
+  Level 2: 107/118 correct (90.68%)
+  Level 3: 132/140 correct (94.29%)
+  Level 4: 253/270 correct (93.70%)
+  Level 5: 101/110 correct (91.82%)
+
+=== With figures only ===
+
+Model: gpt-5
+  Level 1: no data
+  Level 2: no data
+  Level 3: no data
+  Level 4: no data
+  Level 5: no data
+
+=== Without figures ===
+
+Model: gpt-5
+  Level 1: no data
+  Level 2: 107/118 correct (90.68%)
+  Level 3: 132/140 correct (94.29%)
+  Level 4: 253/270 correct (93.70%)
+  Level 5: 101/110 correct (91.82%)
